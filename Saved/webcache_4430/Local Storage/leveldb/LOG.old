@@ -1,3 +1,7 @@
-2024/02/16-07:57:21.187 24fc Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/02/16-07:57:21.188 24fc Recovering log #3
-2024/02/16-07:57:21.188 24fc Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+<<<<<<< HEAD
+2024/02/15-15:31:43.061 4b98 Creating DB C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/02/15-15:31:43.078 4b98 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+=======
+2024/02/16-07:47:48.137 5584 Creating DB C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/02/16-07:47:48.156 5584 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> c477de7b229125c12202749b5d48cf0586fbe17d

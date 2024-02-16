@@ -7,6 +7,16 @@
 			"files": [
 				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelOne.umap",
 				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/_GENERATED/makem/Cylinder_296C8742.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/_GENERATED/makem/Cylinder_8389F961.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/Player/BP_WizardPlayer.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/_GENERATED/makem/Cylinder_9C6D6BEE.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/_GENERATED/makem/Box_0436B409.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/_GENERATED/makem/Box_A844F992.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/Materials/LandscapeDragonWords.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/Materials/Bricks_LayerInfo.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/Materials/Grass_LayerInfo.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/Materials/Sand_LayerInfo.uasset",
+				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/Materials/Wood_LayerInfo.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/TestMap.umap",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelOne.umap",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/BP_WizardPlayer.uasset",
@@ -25,8 +35,6 @@
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/BattleWizardPolyart/CharacterBP/WizardSM_BP.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/BattleWizardPolyart/Animations/BattleRunForwardAnim.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IAMouse.uasset",
-				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelOne.umap",
-				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/_GENERATED/makem/Cylinder_8389F961.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/DragonWordz/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
