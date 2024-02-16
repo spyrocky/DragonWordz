@@ -1,3 +1,7 @@
-2024/02/16-08:23:20.657 56f4 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430/MANIFEST-000001
-2024/02/16-08:23:20.657 56f4 Recovering log #3
-2024/02/16-08:23:20.657 56f4 Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430/000003.log 
+<<<<<<< HEAD
+2024/02/15-15:31:54.842 3cd0 Creating DB C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430 since it was missing.
+2024/02/15-15:31:54.857 3cd0 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430/MANIFEST-000001
+=======
+2024/02/16-07:47:56.808 54d4 Creating DB C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430 since it was missing.
+2024/02/16-07:47:56.816 54d4 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430/MANIFEST-000001
+>>>>>>> c477de7b229125c12202749b5d48cf0586fbe17d
