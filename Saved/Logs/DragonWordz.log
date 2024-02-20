@@ -2604,3 +2604,997 @@ Recommended: 516.25
 [2024.02.20-11.43.03:545][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 3.87 sec)
 [2024.02.20-11.43.03:555][351]AssetCheck: New page: Asset Save: LevelOne
 [2024.02.20-11.43.03:555][351]LogContentValidation: Display: Validating /Script/Engine.World /Game/DragonWord/MAP/LevelOne.LevelOne
+[2024.02.20-11.53.03:925][336]LogUObjectHash: Compacting FUObjectHashTables data took   7.21ms
+[2024.02.20-11.53.03:931][336]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.244
+[2024.02.20-11.53.03:943][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu_WB] ([2] browsable assets)...
+[2024.02.20-11.53.03:988][336]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB]
+[2024.02.20-11.53.03:988][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_WB]
+[2024.02.20-11.53.03:988][336]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-11.53.04:087][336]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_WB_Auto5
+[2024.02.20-11.53.04:087][336]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB_Auto55CD791D14C8A413073F55F8F6C907DB8.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto5.uasset'
+[2024.02.20-11.53.04:099][336]LogFileHelpers: Auto-saving content packages took 0.167
+[2024.02.20-12.14.58:389][197]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.15:135][466]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.17:173][472]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.18:127][473]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.19:252][478]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.21:070][484]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.22:142][489]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.23:799][495]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.25:569][501]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.27:858][507]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.29:650][513]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.31:485][519]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.15.33:508][525]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.16.53:213][184]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.16.53:214][184]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.18.15:842][167]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.19.42:037][438]LogUObjectHash: Compacting FUObjectHashTables data took  38.10ms
+[2024.02.20-12.19.42:059][438]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.610
+[2024.02.20-12.19.42:065][438]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu_WB] ([2] browsable assets)...
+[2024.02.20-12.19.42:075][438]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB]
+[2024.02.20-12.19.42:075][438]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_WB]
+[2024.02.20-12.19.42:075][438]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-12.19.42:131][438]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_WB_Auto6
+[2024.02.20-12.19.42:132][438]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB_Auto6C6456AE942D304A31CE8109EAF2F8384.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto6.uasset'
+[2024.02.20-12.19.42:143][438]LogFileHelpers: Auto-saving content packages took 0.083
+[2024.02.20-12.20.18:296][373]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-12.20.18:360][373]LogBlueprint: Error: [AssetLog] C:\xampp\htdocs\DragonWordz\Content\UI\MainMenu_WB.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.02.20-12.20.18:514][373]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2024.02.20-12.20.24:508][454]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.20.55:951][207]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.02.20-12.20.55:960][207]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.20-12.20.55:965][207]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.20-12.20.55:979][208]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.20-12.21.03:752][323]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2024.02.20-12.21.03:834][323]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.20-12.21.19:357][723]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> StageMap_WB
+[2024.02.20-12.21.19:692][723]LogMetaData: Removing '/Game/UI/StageMap_WB.SKEL_StageMap_WB_C' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2024.02.20-12.21.19:692][723]LogMetaData: Removing '/Game/UI/StageMap_WB.StageMap_WB_C' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2024.02.20-12.21.19:692][723]LogMetaData: Removing '/Game/UI/StageMap_WB.StageMap_WB:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2024.02.20-12.21.19:692][723]LogMetaData: Removing '/Game/UI/StageMap_WB.StageMap_WB:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2024.02.20-12.21.19:692][723]LogMetaData: Removing '/Game/UI/StageMap_WB.StageMap_WB:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/NewWidgetBlueprint.PackageMetaData'
+[2024.02.20-12.21.19:703][723]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-12.21.19:788][723]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset" SILENT=true
+[2024.02.20-12.21.19:795][723]LogSavePackage: Moving output files for package: /Game/UI/StageMap_WB
+[2024.02.20-12.21.19:795][723]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB38BAFE47461E6EB270DB5A93DD58CFF2.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset'
+[2024.02.20-12.21.19:805][723]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 3.98 sec)
+[2024.02.20-12.21.19:939][723]LogUObjectHash: Compacting FUObjectHashTables data took   5.60ms
+[2024.02.20-12.21.20:003][723]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2024.02.20-12.21.20:064][723]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.02.20-12.21.20:075][723]AssetCheck: New page: Asset Save: StageMap_WB
+[2024.02.20-12.21.20:075][723]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
+[2024.02.20-12.21.24:326][810]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
+[2024.02.20-12.21.24:358][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-12.21.24:418][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-12.21.25:654][810]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.21.25:654][810]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.24.35:478][165]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.02.20-12.24.35:491][165]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.20-12.24.35:496][165]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.20-12.24.35:516][166]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.20-12.24.42:610][329]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> BaseBtn_WB
+[2024.02.20-12.24.42:776][329]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.20-12.25.16:968][475]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.25.27:872][764]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-12.25.27:930][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-12.25.28:134][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-12.25.29:587][764]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.25.29:587][764]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.25.44:349][145]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.26.40:871][667]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.29.43:367][548]LogUObjectHash: Compacting FUObjectHashTables data took  27.48ms
+[2024.02.20-12.29.43:376][548]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.735
+[2024.02.20-12.29.43:382][548]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu_WB] ([2] browsable assets)...
+[2024.02.20-12.29.43:401][548]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB]
+[2024.02.20-12.29.43:402][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_WB]
+[2024.02.20-12.29.43:402][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-12.29.43:458][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_WB_Auto7
+[2024.02.20-12.29.43:458][548]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB_Auto78CA07BAE4B599C5511C4F4A034FFCA84.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto7.uasset'
+[2024.02.20-12.29.43:463][548]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/StageMap_WB] ([2] browsable assets)...
+[2024.02.20-12.29.43:463][548]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/StageMap_WB]
+[2024.02.20-12.29.43:463][548]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-12.29.43:467][548]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/StageMap_WB_Auto7
+[2024.02.20-12.29.43:467][548]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB_Auto76D7F13834AB48C196009248ED8D8A3A7.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto7.uasset'
+[2024.02.20-12.29.43:469][548]LogFileHelpers: Auto-saving content packages took 0.091
+[2024.02.20-12.30.18:525][723]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.20-12.30.49:540][394]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.38.25:535][793]LogEditorTransaction: Undo Create Pin Link
+[2024.02.20-12.39.56:850][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.39.57:353][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.40.14:231][725]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-12.40.16:056][725]LogUObjectHash: Compacting FUObjectHashTables data took  69.03ms
+[2024.02.20-12.40.17:474][729]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.40.18:488][746]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-12.40.18:703][746]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset" SILENT=true
+[2024.02.20-12.40.18:832][746]LogSavePackage: Moving output files for package: /Game/UI/BaseBtn_WB
+[2024.02.20-12.40.18:833][746]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WBD21E25EB414A0751B7ECE38ED153DBD8.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset'
+[2024.02.20-12.40.18:873][746]LogFileHelpers: InternalPromptForCheckoutAndSave took 385 ms (total: 4.36 sec)
+[2024.02.20-12.40.19:348][746]AssetCheck: New page: Asset Save: BaseBtn_WB
+[2024.02.20-12.40.19:350][746]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-12.40.20:685][765]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.40.20:686][765]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.40.22:463][769]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.40.22:982][769]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.41.39:066][482]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.41.41:570][505]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.41.42:044][505]LogEditorTransaction: Undo Promote To Variable
+[2024.02.20-12.41.43:270][509]LogEditorTransaction: Undo Create Pin Link
+[2024.02.20-12.41.45:089][538]LogEditorTransaction: Redo Create Pin Link
+[2024.02.20-12.42.10:165][996]LogUObjectHash: Compacting FUObjectHashTables data took  11.36ms
+[2024.02.20-12.42.10:169][996]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.296
+[2024.02.20-12.42.10:174][996]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BaseBtn_WB] ([2] browsable assets)...
+[2024.02.20-12.42.10:177][996]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB]
+[2024.02.20-12.42.10:177][996]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BaseBtn_WB]
+[2024.02.20-12.42.10:178][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/BaseBtn_WB_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-12.42.10:191][996]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/BaseBtn_WB_Auto8
+[2024.02.20-12.42.10:192][996]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB_Auto8BC060B2D4C59FF18C5BC7FA56E9B74CE.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/BaseBtn_WB_Auto8.uasset'
+[2024.02.20-12.42.10:196][996]LogFileHelpers: Auto-saving content packages took 0.026
+[2024.02.20-12.42.23:379][239]Cmd: TRANSACTION UNDO
+[2024.02.20-12.42.23:379][239]LogEditorTransaction: Undo Create Pin Link
+[2024.02.20-12.42.24:043][247]Cmd: TRANSACTION UNDO
+[2024.02.20-12.42.24:044][247]LogEditorTransaction: Undo Move Node
+[2024.02.20-12.42.24:603][256]Cmd: TRANSACTION UNDO
+[2024.02.20-12.42.24:603][256]LogEditorTransaction: Undo Move Node
+[2024.02.20-12.42.26:325][275]Cmd: TRANSACTION UNDO
+[2024.02.20-12.42.26:325][275]LogEditorTransaction: Undo Move Node
+[2024.02.20-12.42.27:057][287]Cmd: TRANSACTION UNDO
+[2024.02.20-12.42.27:057][287]LogEditorTransaction: Undo Move Node
+[2024.02.20-12.42.27:860][298]Cmd: TRANSACTION UNDO
+[2024.02.20-12.42.27:895][298]LogEditorTransaction: Undo Add Node
+[2024.02.20-12.42.56:852][  5]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.43.00:864][ 69]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.43.14:472][301]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.43.42:615][ 13]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-12.43.42:847][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   6.77ms
+[2024.02.20-12.43.43:592][ 17]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.43.43:907][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-12.43.44:034][ 18]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset" SILENT=true
+[2024.02.20-12.43.44:054][ 18]LogSavePackage: Moving output files for package: /Game/UI/BaseBtn_WB
+[2024.02.20-12.43.44:061][ 18]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WBF91FA43345B57D8528443A93E0A9A6D0.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset'
+[2024.02.20-12.43.44:083][ 18]LogFileHelpers: InternalPromptForCheckoutAndSave took 175 ms (total: 4.54 sec)
+[2024.02.20-12.43.44:102][ 18]AssetCheck: New page: Asset Save: BaseBtn_WB
+[2024.02.20-12.43.44:102][ 18]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-12.44.17:646][673]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.44.34:976][993]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-12.44.35:125][993]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2024.02.20-12.44.35:752][996]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.44.36:358][997]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-12.44.36:474][997]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset" SILENT=true
+[2024.02.20-12.44.36:482][997]LogSavePackage: Moving output files for package: /Game/UI/BaseBtn_WB
+[2024.02.20-12.44.36:482][997]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WBF94F202B486EF91842350D8B9F61DE30.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset'
+[2024.02.20-12.44.36:490][997]LogFileHelpers: InternalPromptForCheckoutAndSave took 132 ms (total: 4.67 sec)
+[2024.02.20-12.44.36:503][997]AssetCheck: New page: Asset Save: BaseBtn_WB
+[2024.02.20-12.44.36:503][997]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-12.44.46:836][172]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.44.57:022][354]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-12.44.57:154][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset" SILENT=true
+[2024.02.20-12.44.57:163][354]LogSavePackage: Moving output files for package: /Game/UI/BaseBtn_WB
+[2024.02.20-12.44.57:164][354]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB49EB1CF741A959B93C2987B52868C00A.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset'
+[2024.02.20-12.44.57:172][354]LogFileHelpers: InternalPromptForCheckoutAndSave took 149 ms (total: 4.82 sec)
+[2024.02.20-12.44.57:194][354]AssetCheck: New page: Asset Save: BaseBtn_WB
+[2024.02.20-12.44.57:195][354]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-12.45.09:092][574]LogBlueprint: Warning: [AssetLog] C:\xampp\htdocs\DragonWordz\Content\UI\BaseBtn_WB.uasset: [Compiler] Variable BtnText is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2024.02.20-12.45.09:692][577]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.45.12:240][613]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.45.18:731][734]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-12.45.18:924][734]LogUObjectHash: Compacting FUObjectHashTables data took   4.48ms
+[2024.02.20-12.45.19:689][738]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.45.20:321][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-12.45.20:385][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset" SILENT=true
+[2024.02.20-12.45.20:393][747]LogSavePackage: Moving output files for package: /Game/UI/BaseBtn_WB
+[2024.02.20-12.45.20:394][747]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB432C488243F44095434A4DB91A4EFB8F.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset'
+[2024.02.20-12.45.20:405][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 4.90 sec)
+[2024.02.20-12.45.20:420][747]AssetCheck: New page: Asset Save: BaseBtn_WB
+[2024.02.20-12.45.20:420][747]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-12.45.23:060][793]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.45.23:060][793]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.45.23:750][796]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.46.30:785][188]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.46.34:185][245]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.46.44:686][459]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.47.06:926][  3]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.47.16:921][268]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.47.24:817][412]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.47.38:824][637]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-12.47.38:964][637]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2024.02.20-12.47.39:684][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.47.47:818][766]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.47.57:702][938]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.47.57:702][938]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.47.57:709][938]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.20-12.48.13:282][202]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.20-12.48.27:179][455]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.20-12.48.27:859][459]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.48.43:212][725]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.20-12.49.11:226][222]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-12.49.11:369][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2024.02.20-12.49.13:395][254]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-12.49.13:461][254]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset" SILENT=true
+[2024.02.20-12.49.13:476][254]LogSavePackage: Moving output files for package: /Game/UI/BaseBtn_WB
+[2024.02.20-12.49.13:477][254]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB406982BA4937D03C5B32CC9AB6966926.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset'
+[2024.02.20-12.49.13:487][254]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 4.99 sec)
+[2024.02.20-12.49.13:497][254]AssetCheck: New page: Asset Save: BaseBtn_WB
+[2024.02.20-12.49.13:497][254]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-12.51.42:073][ 65]LogDerivedDataCache: C:/Users/Mai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.442 and deleted 0 files with total size 0 MiB. Scanned 1206 files in 1206 folders with total size 26 MiB.
+[2024.02.20-12.52.10:744][599]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2024.02.20-12.52.10:747][599]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.100
+[2024.02.20-12.52.10:747][599]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu_WB] ([2] browsable assets)...
+[2024.02.20-12.52.10:756][599]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB]
+[2024.02.20-12.52.10:756][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_WB]
+[2024.02.20-12.52.10:756][599]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-12.52.10:776][599]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_WB_Auto9
+[2024.02.20-12.52.10:777][599]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB_Auto90E36D4A249D70EE3B9C3FCA2807A6C1B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto9.uasset'
+[2024.02.20-12.52.10:778][599]LogFileHelpers: Auto-saving content packages took 0.031
+[2024.02.20-12.58.25:976][561]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-12.58.26:125][561]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.02.20-12.58.26:767][564]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.59.55:846][186]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.59.55:846][186]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-12.59.56:532][189]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-12.59.59:838][230]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.00.14:960][463]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.00.19:883][545]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.00.19:883][545]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.00.54:841][563]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.02.15:879][336]LogBlueprint: Warning: [AssetLog] C:\xampp\htdocs\DragonWordz\Content\UI\BaseBtn_WB.uasset: [Compiler] Variable BtnText is marked as 'Expose on Spawn' but not marked as 'Instance Editable'; please make it 'Instance Editable'
+[2024.02.20-13.02.34:441][660]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.03.16:872][423]LogUObjectHash: Compacting FUObjectHashTables data took   5.21ms
+[2024.02.20-13.03.16:874][423]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.189
+[2024.02.20-13.03.16:876][423]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BaseBtn_WB] ([2] browsable assets)...
+[2024.02.20-13.03.16:880][423]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB]
+[2024.02.20-13.03.16:880][423]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BaseBtn_WB]
+[2024.02.20-13.03.16:880][423]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/BaseBtn_WB_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-13.03.16:899][423]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/BaseBtn_WB_Auto0
+[2024.02.20-13.03.16:899][423]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB_Auto06B39C40F41F77D013C37F6BA7003D616.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/BaseBtn_WB_Auto0.uasset'
+[2024.02.20-13.03.16:901][423]LogFileHelpers: Auto-saving content packages took 0.026
+[2024.02.20-13.03.38:770][842]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.03.49:234][ 11]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.04.03:288][531]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.06.03:543][971]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.06.03:543][971]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.07.16:641][350]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.08.24:409][573]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.08.24:409][573]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.11.18:517][919]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-13.11.18:975][919]LogUObjectHash: Compacting FUObjectHashTables data took  14.20ms
+[2024.02.20-13.11.22:293][956]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.11.24:020][977]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.11.38:377][106]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.13.17:235][955]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2024.02.20-13.13.17:236][955]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.089
+[2024.02.20-13.13.17:238][955]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/StageMap_WB] ([2] browsable assets)...
+[2024.02.20-13.13.17:240][955]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB]
+[2024.02.20-13.13.17:240][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/StageMap_WB]
+[2024.02.20-13.13.17:240][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-13.13.17:251][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/StageMap_WB_Auto1
+[2024.02.20-13.13.17:251][955]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB_Auto1A0B947724834A9932396C4B663F3EB77.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto1.uasset'
+[2024.02.20-13.13.17:252][955]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BaseBtn_WB] ([2] browsable assets)...
+[2024.02.20-13.13.17:254][955]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB]
+[2024.02.20-13.13.17:254][955]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BaseBtn_WB]
+[2024.02.20-13.13.17:254][955]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/BaseBtn_WB_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-13.13.17:269][955]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/BaseBtn_WB_Auto1
+[2024.02.20-13.13.17:269][955]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB_Auto1D8B05B644C9B68907EE8BDB20D3AE762.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/BaseBtn_WB_Auto1.uasset'
+[2024.02.20-13.13.17:270][955]LogFileHelpers: Auto-saving content packages took 0.033
+[2024.02.20-13.15.38:883][518]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.15.38:883][518]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.16.24:379][510]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.17.15:684][536]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.17.44:470][426]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.17.44:971][426]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.19.10:255][830]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-13.19.10:483][830]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2024.02.20-13.19.11:638][834]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.19.14:178][869]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-13.19.14:273][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset" SILENT=true
+[2024.02.20-13.19.14:304][869]LogSavePackage: Moving output files for package: /Game/UI/BaseBtn_WB
+[2024.02.20-13.19.14:308][869]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB23661DB346A90DDCC416CEB9CABA866B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset'
+[2024.02.20-13.19.14:332][869]LogFileHelpers: InternalPromptForCheckoutAndSave took 154 ms (total: 5.15 sec)
+[2024.02.20-13.19.14:435][869]AssetCheck: New page: Asset Save: BaseBtn_WB
+[2024.02.20-13.19.14:436][869]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-13.19.35:238][278]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.19.35:238][278]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.19.36:092][282]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.19.36:594][282]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.22.05:791][240]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.22.52:502][215]BlueprintLog: New page: Compile BaseBtn_WB
+[2024.02.20-13.22.52:722][215]LogUObjectHash: Compacting FUObjectHashTables data took   4.16ms
+[2024.02.20-13.22.53:481][219]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.22.54:477][231]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-13.22.54:568][231]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset" SILENT=true
+[2024.02.20-13.22.54:584][231]LogSavePackage: Moving output files for package: /Game/UI/BaseBtn_WB
+[2024.02.20-13.22.54:587][231]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB850DB1DD4D439028E55DA892BC6B1DCB.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/BaseBtn_WB.uasset'
+[2024.02.20-13.22.54:600][231]LogFileHelpers: InternalPromptForCheckoutAndSave took 123 ms (total: 5.27 sec)
+[2024.02.20-13.22.54:672][231]AssetCheck: New page: Asset Save: BaseBtn_WB
+[2024.02.20-13.22.54:673][231]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB
+[2024.02.20-13.23.01:125][310]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.23.01:126][310]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.23.01:886][313]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.23.10:207][459]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.23.50:313][763]LogInterchangeEngine: [Pending] Importing
+[2024.02.20-13.23.50:314][763]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.02.20-13.23.50:315][763]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.02.20-13.23.50:369][764]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.02.20-13.23.50:681][764]LogTexture: Display: Building textures: /Game/UI/images/1.1 (BGRA8, 1256x638 x1x1x1) (Required Memory Estimate: 23.498142 MB), EncodeSpeed: Fast
+[2024.02.20-13.23.50:704][764]LogTexture: Display: Building textures: /Game/UI/images/2.2 (BGRA8, 1240x626 x1x1x1) (Required Memory Estimate: 22.764412 MB), EncodeSpeed: Fast
+[2024.02.20-13.23.50:732][764]LogTexture: Display: Building textures: /Game/UI/images/3.3 (BGRA8, 1254x679 x1x1x1) (Required Memory Estimate: 24.964485 MB), EncodeSpeed: Fast
+[2024.02.20-13.23.50:732][764]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.02.20-13.23.50:732][764]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.02.20-13.23.50:793][764]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.23.50:887][765]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.24.01:547][838]LogInterchangeEngine: [Pending] Importing
+[2024.02.20-13.24.01:590][839]LogTexture: Display: Building textures: /Game/UI/images/new_logo.new_logo (BGRA8, 1466x738 x1x1x1) (Required Memory Estimate: 31.703995 MB), EncodeSpeed: Fast
+[2024.02.20-13.24.01:639][839]LogInterchangeEngine: [Pending] Importing
+[2024.02.20-13.24.01:884][839]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.24.01:951][840]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.24.10:753][ 49]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.24.13:421][ 91]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.24.23:858][261]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Total job queries 3202, among them cache hits 8 (0.25%)
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Tracking 3184 distinct input hashes that result in 2235 distinct outputs (70.19%)
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: RAM used: 9.16 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 2.24%
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Shaders Compiled: 3184
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Jobs assigned 3188, completed 3184 (99.87%)
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Average time worker was idle: 1021.39 s
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Time job spent in pending queue: average 847.22 s, longest 1830.12 s
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Job execution time: average 31.03 s, max 196.64 s
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Job life time (pending + execution): average 879.31 s, max 1841.02
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2048.52 s
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Jobs were issued in 345 batches (only local compilation was used), average 9.24 jobs/batch
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Average processing rate: 1.55 jobs/sec
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Total thread time: 9632.89 s
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Total thread preprocess time: 324.03 s
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Percentage time preprocessing: 3.36%
+[2024.02.20-13.24.23:859][261]LogShaderCompilers: Display: Effective parallelization: 4.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 57.60 sec, max 57.60 sec, min 57.60 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 40.54 sec, max 40.54 sec, min 40.54 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 40.26 sec, max 40.26 sec, min 40.26 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 39.86 sec, max 39.86 sec, min 39.86 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 34.69 sec, max 34.69 sec, min 34.69 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 12.33% of total time (compiled  128 times, average 9.28 sec, max 41.08 sec, min 4.50 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 8.49% of total time (compiled  128 times, average 6.39 sec, max 27.33 sec, min 0.83 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 7.41% of total time (compiled  128 times, average 5.58 sec, max 21.25 sec, min 1.76 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.17% of total time (compiled  102 times, average 4.88 sec, max 22.16 sec, min 1.17 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.01% of total time (compiled   64 times, average 7.54 sec, max 16.17 sec, min 2.41 sec)
+[2024.02.20-13.24.23:862][261]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.25.00:415][102]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.25.00:473][102]LogBlueprint: Error: [AssetLog] C:\xampp\htdocs\DragonWordz\Content\UI\MainMenu_WB.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.02.20-13.25.00:754][102]LogUObjectHash: Compacting FUObjectHashTables data took   6.03ms
+[2024.02.20-13.25.03:071][133]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.20-13.25.03:157][133]BlueprintLog: Warning: Blueprint failed to compile:  MainMenu_WB
+[2024.02.20-13.25.03:157][133]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.20-13.25.03:161][133]LogPlayLevel: [PlayLevel] Compiling StageMap_WB before play...
+[2024.02.20-13.25.03:492][133]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2024.02.20-13.25.03:493][133]LogPlayLevel: PlayLevel: Blueprint regeneration took 342 ms (1 blueprints)
+[2024.02.20-13.25.17:684][133]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.02.20-13.25.20:070][163]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.25.21:536][172]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2024.02.20-13.25.21:539][172]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.113
+[2024.02.20-13.25.21:542][172]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu_WB] ([2] browsable assets)...
+[2024.02.20-13.25.21:545][172]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB]
+[2024.02.20-13.25.21:545][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_WB]
+[2024.02.20-13.25.21:545][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-13.25.21:564][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_WB_Auto2
+[2024.02.20-13.25.21:564][172]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB_Auto2B44755804D6370FD791E74A7BFF5B86A.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto2.uasset'
+[2024.02.20-13.25.21:567][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/images/1] ([1] browsable assets)...
+[2024.02.20-13.25.21:569][172]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/images/1.1]
+[2024.02.20-13.25.21:569][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/images/1]
+[2024.02.20-13.25.21:569][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/1" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/images/1_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-13.25.21:583][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/images/1_Auto2
+[2024.02.20-13.25.21:583][172]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/1_Auto2320183A44B587C0102C999A15D573058.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/images/1_Auto2.uasset'
+[2024.02.20-13.25.21:585][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/images/3] ([1] browsable assets)...
+[2024.02.20-13.25.21:591][172]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/images/3.3]
+[2024.02.20-13.25.21:591][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/images/3]
+[2024.02.20-13.25.21:593][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/3" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/images/3_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-13.25.21:601][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/images/3_Auto2
+[2024.02.20-13.25.21:601][172]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/3_Auto2FD79848A44B9B6B248BE8F92A4AF4325.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/images/3_Auto2.uasset'
+[2024.02.20-13.25.21:603][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/images/2] ([1] browsable assets)...
+[2024.02.20-13.25.21:612][172]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/images/2.2]
+[2024.02.20-13.25.21:612][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/images/2]
+[2024.02.20-13.25.21:612][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/2" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/images/2_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-13.25.21:620][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/images/2_Auto2
+[2024.02.20-13.25.21:620][172]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/2_Auto207A9AD3C4E3FC4C686CD6192FA5A9D65.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/images/2_Auto2.uasset'
+[2024.02.20-13.25.21:622][172]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/images/new_logo] ([1] browsable assets)...
+[2024.02.20-13.25.21:625][172]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/images/new_logo.new_logo]
+[2024.02.20-13.25.21:625][172]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/images/new_logo]
+[2024.02.20-13.25.21:625][172]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/new_logo" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/images/new_logo_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.20-13.25.21:638][172]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/images/new_logo_Auto2
+[2024.02.20-13.25.21:638][172]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/new_logo_Auto227D7599F46CDCE3B6143DE9D585E0502.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/images/new_logo_Auto2.uasset'
+[2024.02.20-13.25.21:640][172]LogFileHelpers: Auto-saving content packages took 0.100
+[2024.02.20-13.25.22:221][187]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.25.22:231][187]LogBlueprint: Error: [AssetLog] C:\xampp\htdocs\DragonWordz\Content\UI\MainMenu_WB.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.02.20-13.25.22:384][187]LogUObjectHash: Compacting FUObjectHashTables data took   5.14ms
+[2024.02.20-13.25.25:578][237]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-13.25.25:666][237]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/MainMenu_WB.uasset" SILENT=true
+[2024.02.20-13.25.25:690][237]LogSavePackage: Moving output files for package: /Game/UI/MainMenu_WB
+[2024.02.20-13.25.25:692][237]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB23F2898240301D854A63B59A11228F84.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/MainMenu_WB.uasset'
+[2024.02.20-13.25.25:707][237]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 5.40 sec)
+[2024.02.20-13.25.25:737][237]AssetCheck: New page: Asset Save: MainMenu_WB
+[2024.02.20-13.25.25:737][237]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB
+[2024.02.20-13.26.01:977][925]LogEditorTransaction: Undo Resize Widget
+[2024.02.20-13.26.03:649][951]LogEditorTransaction: Undo Resize Widget
+[2024.02.20-13.26.04:254][963]LogEditorTransaction: Undo Edit Image
+[2024.02.20-13.26.06:904][ 14]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.26.06:917][ 14]LogBlueprint: Error: [AssetLog] C:\xampp\htdocs\DragonWordz\Content\UI\MainMenu_WB.uasset: [Compiler] Spawn node  Create Widget  must have a class specified.
+[2024.02.20-13.26.07:109][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   7.29ms
+[2024.02.20-13.26.07:965][ 18]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.26.52:828][809]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.27.18:456][228]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.20-13.27.18:456][228]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.20-13.27.18:457][228]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.20-13.27.38:267][995]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.27.38:498][995]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2024.02.20-13.27.41:545][ 44]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.27.41:545][ 44]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.27.42:204][ 47]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.27.42:706][ 47]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Total job queries 3227, among them cache hits 9 (0.28%)
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Tracking 3197 distinct input hashes that result in 2242 distinct outputs (70.13%)
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: RAM used: 9.18 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 2.24%
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Shaders Compiled: 3197
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Jobs assigned 3201, completed 3197 (99.88%)
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Average time worker was idle: 986.03 s
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Time job spent in pending queue: average 843.80 s, longest 1830.12 s
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Job execution time: average 30.91 s, max 196.64 s
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Job life time (pending + execution): average 875.76 s, max 1841.02
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2056.85 s
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Jobs were issued in 358 batches (only local compilation was used), average 8.94 jobs/batch
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Average processing rate: 1.55 jobs/sec
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Total thread time: 9657.10 s
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Total thread preprocess time: 326.03 s
+[2024.02.20-13.27.49:296][154]LogShaderCompilers: Display: Percentage time preprocessing: 3.38%
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display: Effective parallelization: 4.70 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 57.60 sec, max 57.60 sec, min 57.60 sec)
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 40.54 sec, max 40.54 sec, min 40.54 sec)
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 40.26 sec, max 40.26 sec, min 40.26 sec)
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 39.86 sec, max 39.86 sec, min 39.86 sec)
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 34.69 sec, max 34.69 sec, min 34.69 sec)
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.20-13.27.49:297][154]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 12.30% of total time (compiled  128 times, average 9.28 sec, max 41.08 sec, min 4.50 sec)
+[2024.02.20-13.27.49:298][154]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 8.47% of total time (compiled  128 times, average 6.39 sec, max 27.33 sec, min 0.83 sec)
+[2024.02.20-13.27.49:298][154]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 7.39% of total time (compiled  128 times, average 5.58 sec, max 21.25 sec, min 1.76 sec)
+[2024.02.20-13.27.49:298][154]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.16% of total time (compiled  102 times, average 4.88 sec, max 22.16 sec, min 1.17 sec)
+[2024.02.20-13.27.49:298][154]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 5.00% of total time (compiled   64 times, average 7.54 sec, max 16.17 sec, min 2.41 sec)
+[2024.02.20-13.27.49:298][154]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.28.12:200][713]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.28.13:703][740]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.28.13:958][740]LogUObjectHash: Compacting FUObjectHashTables data took   5.57ms
+[2024.02.20-13.28.16:131][759]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.28.17:021][775]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.20-13.28.17:067][775]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-13.28.17:086][775]PIE: New page: PIE session: LevelOne (Feb 21, 2024, 11:28:17 AM)
+[2024.02.20-13.28.17:103][775]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.28.17:210][775]LogPlayLevel: PIE: StaticDuplicateObject took: (0.104776s)
+[2024.02.20-13.28.17:210][775]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/LevelOne.LevelOne to /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne (0.107415s)
+[2024.02.20-13.28.17:252][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-13.28.17:300][775]LogAIModule: Creating AISystem for world LevelOne
+[2024.02.20-13.28.17:329][775]LogPlayLevel: PIE: World Init took: (0.117495s)
+[2024.02.20-13.28.17:447][775]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2024.02.20-13.28.17:462][775]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.02.20-13.28.17:467][775]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-13.28.17:468][775]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-13.28.17:468][775]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-13.28.17:469][775]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-13.28.17:469][775]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-13.28.17:469][775]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.20-13.28.17:470][775]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-13.28.17:470][775]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-13.28.17:479][775]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-13.28.17:479][775]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-13.28.17:479][775]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-13.28.17:495][775]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-13.28.17:870][775]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.02.20-13.28.17:881][775]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-13.28.17:882][775]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-13.28.17:883][775]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-13.28.17:894][775]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.02.20-13.28.17:895][775]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2024.02.20-13.28.17:900][775]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.02.20-13.28.17:900][775]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.02.20-13.28.17:901][775]LogInit: FAudioDevice initialized.
+[2024.02.20-13.28.17:901][775]LogAudio: Display: Audio Device (ID: 19) registered with world 'LevelOne'.
+[2024.02.20-13.28.18:001][775]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-13.28.18:042][775]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2024.02.21-00.28.18
+[2024.02.20-13.28.18:047][775]LogWorld: Bringing up level for play took: 0.043442
+[2024.02.20-13.28.18:086][775]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.02.20-13.28.18:186][775]PIE: Server logged in
+[2024.02.20-13.28.18:188][775]PIE: Play in editor total start time 1.137 seconds.
+[2024.02.20-13.28.26:133][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.28.26:134][877]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.28.26:143][877]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.28.26:149][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.28.26:257][877]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-13.28.26:278][877]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.28.26:405][877]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-13.28.26:414][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.20-13.28.26:418][877]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.02.20-13.28.26:461][877]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.28.26:527][877]LogUObjectHash: Compacting FUObjectHashTables data took   4.62ms
+[2024.02.20-13.28.26:581][878]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.02.20-13.28.35:008][899]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.29.02:232][980]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.30.32:151][249]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.30.34:546][258]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.30.45:198][431]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.30.45:695][437]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2024.02.20-13.30.49:223][437]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.20-13.30.50:571][437]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.30.50:571][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.30.50:636][437]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.30.50:636][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.30.51:738][437]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.30.51:739][437]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.30.52:847][437]LogUObjectGlobals: Force Deleting 3 Package(s):
+	Asset Name: /Game/UI/images/1.1
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/images/2.2
+	Asset Type: Texture2D
+	Asset Name: /Game/UI/images/3.3
+	Asset Type: Texture2D
+[2024.02.20-13.30.55:976][437]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2024.02.20-13.30.56:552][437]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2024.02.20-13.30.56:653][437]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2024.02.20-13.30.57:535][441]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.31.06:438][544]LogInterchangeEngine: [Pending] Importing
+[2024.02.20-13.31.06:440][544]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.02.20-13.31.06:441][544]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.02.20-13.31.06:484][545]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.02.20-13.31.06:837][546]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.20-13.31.06:837][546]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.20-13.31.06:854][546]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.20-13.31.07:156][546]LogTexture: Display: Building textures: /Game/UI/images/img3.img3 (BGRA8, 1240x626 x1x1x1) (Required Memory Estimate: 22.764412 MB), EncodeSpeed: Fast
+[2024.02.20-13.31.07:167][546]LogTexture: Display: Building textures: /Game/UI/images/img1.img1 (BGRA8, 1254x679 x1x1x1) (Required Memory Estimate: 24.964485 MB), EncodeSpeed: Fast
+[2024.02.20-13.31.07:189][546]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.02.20-13.31.07:189][546]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.02.20-13.31.07:207][546]LogTexture: Display: Building textures: /Game/UI/images/img2.img2 (BGRA8, 1256x638 x1x1x1) (Required Memory Estimate: 23.498142 MB), EncodeSpeed: Fast
+[2024.02.20-13.31.07:591][546]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.31.07:795][547]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.31.14:605][624]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2024.02.20-13.31.16:205][624]LogSlate: Window 'Save Content' being destroyed
+[2024.02.20-13.31.16:260][624]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.20-13.31.16:393][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DragonWord/MAP/LevelOne" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/DragonWord/MAP/LevelOne.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.02.20-13.31.16:577][624]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2024.02.20-13.31.16:685][624]LogSavePackage: Moving output files for package: /Game/DragonWord/MAP/LevelOne
+[2024.02.20-13.31.16:689][624]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/LevelOneDDA57B4946C29BDE9C04F78B0AEEC563.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/DragonWord/MAP/LevelOne.umap'
+[2024.02.20-13.31.16:747][624]LogFileHelpers: Saving map 'LevelOne' took 0.365
+[2024.02.20-13.31.16:752][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/img1" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img1.uasset" SILENT=true
+[2024.02.20-13.31.16:815][624]LogSavePackage: Moving output files for package: /Game/UI/images/img1
+[2024.02.20-13.31.16:815][624]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img14837CCD1469E17E62DA85184283F478A.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img1.uasset'
+[2024.02.20-13.31.16:826][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/img2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img2.uasset" SILENT=true
+[2024.02.20-13.31.16:886][624]LogSavePackage: Moving output files for package: /Game/UI/images/img2
+[2024.02.20-13.31.16:886][624]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img2ACEF53384F0FE16360755C899247E451.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img2.uasset'
+[2024.02.20-13.31.16:889][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/img3" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img3.uasset" SILENT=true
+[2024.02.20-13.31.16:929][624]LogSavePackage: Moving output files for package: /Game/UI/images/img3
+[2024.02.20-13.31.16:929][624]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img3190A402D422C56B4AD9F74AC9CB0EDF0.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img3.uasset'
+[2024.02.20-13.31.16:941][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/MainMenu_WB.uasset" SILENT=true
+[2024.02.20-13.31.16:976][624]LogSavePackage: Moving output files for package: /Game/UI/MainMenu_WB
+[2024.02.20-13.31.16:976][624]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB801F261745E34D2D076FA288EAF456C5.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/MainMenu_WB.uasset'
+[2024.02.20-13.31.16:980][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/new_logo" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/new_logo.uasset" SILENT=true
+[2024.02.20-13.31.17:062][624]LogSavePackage: Moving output files for package: /Game/UI/images/new_logo
+[2024.02.20-13.31.17:062][624]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/new_logoAD8EAA9445F721947B38B2B2BB326EA3.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/new_logo.uasset'
+[2024.02.20-13.31.17:067][624]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset" SILENT=true
+[2024.02.20-13.31.17:075][624]LogSavePackage: Moving output files for package: /Game/UI/StageMap_WB
+[2024.02.20-13.31.17:076][624]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB6D39C8064E99CFF72BC36487D5CB442A.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset'
+[2024.02.20-13.31.17:094][624]LogFileHelpers: InternalPromptForCheckoutAndSave took 834 ms (total: 6.24 sec)
+[2024.02.20-13.31.17:111][624]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.20-13.31.17:111][624]LogContentValidation: Display: Validating /Script/Engine.World /Game/DragonWord/MAP/LevelOne.LevelOne
+[2024.02.20-13.31.17:111][624]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB
+[2024.02.20-13.31.17:112][624]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/images/img3.img3
+[2024.02.20-13.31.17:112][624]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/images/img2.img2
+[2024.02.20-13.31.17:112][624]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/images/img1.img1
+[2024.02.20-13.31.17:112][624]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
+[2024.02.20-13.31.17:113][624]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/images/new_logo.new_logo
+[2024.02.20-13.31.23:213][748]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.31.25:196][784]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB
+[2024.02.20-13.31.25:200][784]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-13.31.25:494][784]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-13.31.27:082][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.31.27:082][784]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: Total job queries 3231, among them cache hits 9 (0.28%)
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: Tracking 3219 distinct input hashes that result in 2256 distinct outputs (70.08%)
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: RAM used: 9.23 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 2.25%
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: Shaders Compiled: 3219
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: Jobs assigned 3222, completed 3219 (99.91%)
+[2024.02.20-13.31.38:633][992]LogShaderCompilers: Display: Average time worker was idle: 932.98 s
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Time job spent in pending queue: average 838.33 s, longest 1830.12 s
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Job execution time: average 30.71 s, max 196.64 s
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Job life time (pending + execution): average 869.83 s, max 1841.02
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2069.75 s
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Jobs were issued in 379 batches (only local compilation was used), average 8.50 jobs/batch
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Average processing rate: 1.56 jobs/sec
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Total thread time: 9685.46 s
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Total thread preprocess time: 327.89 s
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Percentage time preprocessing: 3.39%
+[2024.02.20-13.31.38:634][992]LogShaderCompilers: Display: Effective parallelization: 4.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.20-13.31.38:642][992]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.20-13.31.38:642][992]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 57.60 sec, max 57.60 sec, min 57.60 sec)
+[2024.02.20-13.31.38:642][992]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 40.54 sec, max 40.54 sec, min 40.54 sec)
+[2024.02.20-13.31.38:643][992]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 40.26 sec, max 40.26 sec, min 40.26 sec)
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 39.86 sec, max 39.86 sec, min 39.86 sec)
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 34.69 sec, max 34.69 sec, min 34.69 sec)
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 12.26% of total time (compiled  128 times, average 9.28 sec, max 41.08 sec, min 4.50 sec)
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 8.45% of total time (compiled  128 times, average 6.39 sec, max 27.33 sec, min 0.83 sec)
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 7.37% of total time (compiled  128 times, average 5.58 sec, max 21.25 sec, min 1.76 sec)
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.14% of total time (compiled  102 times, average 4.88 sec, max 22.16 sec, min 1.17 sec)
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.98% of total time (compiled   64 times, average 7.54 sec, max 16.17 sec, min 2.41 sec)
+[2024.02.20-13.31.38:644][992]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.32.03:863][613]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.32.04:074][613]LogUObjectHash: Compacting FUObjectHashTables data took   4.79ms
+[2024.02.20-13.32.08:039][668]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.20-13.32.08:055][668]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-13.32.08:056][668]PIE: New page: PIE session: LevelOne (Feb 21, 2024, 11:32:08 AM)
+[2024.02.20-13.32.08:057][668]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.32.08:060][668]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003279s)
+[2024.02.20-13.32.08:060][668]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/LevelOne.LevelOne to /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne (0.003367s)
+[2024.02.20-13.32.08:060][668]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-13.32.08:061][668]LogAIModule: Creating AISystem for world LevelOne
+[2024.02.20-13.32.08:061][668]LogPlayLevel: PIE: World Init took: (0.001464s)
+[2024.02.20-13.32.08:152][668]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2024.02.20-13.32.08:156][668]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.02.20-13.32.08:156][668]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-13.32.08:156][668]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-13.32.08:156][668]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-13.32.08:156][668]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-13.32.08:156][668]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-13.32.08:156][668]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.20-13.32.08:156][668]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-13.32.08:156][668]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-13.32.08:157][668]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-13.32.08:157][668]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-13.32.08:157][668]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-13.32.08:170][668]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-13.32.08:399][668]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.02.20-13.32.08:399][668]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-13.32.08:399][668]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-13.32.08:399][668]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-13.32.08:401][668]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.02.20-13.32.08:401][668]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2024.02.20-13.32.08:407][668]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.02.20-13.32.08:407][668]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.02.20-13.32.08:407][668]LogInit: FAudioDevice initialized.
+[2024.02.20-13.32.08:407][668]LogAudio: Display: Audio Device (ID: 20) registered with world 'LevelOne'.
+[2024.02.20-13.32.08:430][668]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-13.32.08:432][668]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2024.02.21-00.32.08
+[2024.02.20-13.32.08:432][668]LogWorld: Bringing up level for play took: 0.001939
+[2024.02.20-13.32.08:444][668]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2024.02.20-13.32.08:451][668]PIE: Server logged in
+[2024.02.20-13.32.08:453][668]PIE: Play in editor total start time 0.397 seconds.
+[2024.02.20-13.32.09:931][672]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.32.10:670][672]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.32.22:963][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.32.22:965][906]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.32.22:977][906]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.32.22:985][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.32.23:037][906]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-13.32.23:048][906]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.32.23:126][906]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.32.23:135][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.02.20-13.32.23:150][906]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.02.20-13.32.23:226][906]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.02.20-13.32.23:266][907]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2024.02.20-13.32.24:333][910]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.32.24:834][910]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.32.25:909][920]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.32.26:852][930]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.32.38:376][111]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.32.38:659][111]LogUObjectHash: Compacting FUObjectHashTables data took   3.63ms
+[2024.02.20-13.32.41:404][140]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.32.42:033][142]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.20-13.32.42:064][142]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-13.32.42:065][142]PIE: New page: PIE session: LevelOne (Feb 21, 2024, 11:32:42 AM)
+[2024.02.20-13.32.42:065][142]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.32.42:076][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010183s)
+[2024.02.20-13.32.42:076][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/LevelOne.LevelOne to /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne (0.010326s)
+[2024.02.20-13.32.42:077][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-13.32.42:081][142]LogAIModule: Creating AISystem for world LevelOne
+[2024.02.20-13.32.42:087][142]LogPlayLevel: PIE: World Init took: (0.011307s)
+[2024.02.20-13.32.42:226][142]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.02.20-13.32.42:233][142]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.02.20-13.32.42:233][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-13.32.42:233][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-13.32.42:233][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-13.32.42:233][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-13.32.42:233][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-13.32.42:233][142]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.20-13.32.42:233][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-13.32.42:233][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-13.32.42:235][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-13.32.42:235][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-13.32.42:235][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-13.32.42:244][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-13.32.42:354][142]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.02.20-13.32.42:356][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-13.32.42:356][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-13.32.42:356][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-13.32.42:359][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.02.20-13.32.42:359][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2024.02.20-13.32.42:364][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.02.20-13.32.42:364][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.02.20-13.32.42:364][142]LogInit: FAudioDevice initialized.
+[2024.02.20-13.32.42:364][142]LogAudio: Display: Audio Device (ID: 21) registered with world 'LevelOne'.
+[2024.02.20-13.32.42:370][142]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-13.32.42:371][142]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2024.02.21-00.32.42
+[2024.02.20-13.32.42:371][142]LogWorld: Bringing up level for play took: 0.001305
+[2024.02.20-13.32.42:377][142]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2024.02.20-13.32.42:383][142]PIE: Server logged in
+[2024.02.20-13.32.42:385][142]PIE: Play in editor total start time 0.32 seconds.
+[2024.02.20-13.36.37:211][951]LogInterchangeEngine: [Pending] Importing
+[2024.02.20-13.36.37:286][952]LogInterchangeEngine: [Pending] Importing
+[2024.02.20-13.36.37:560][953]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.20-13.36.37:944][953]LogTexture: Display: Building textures: /Game/UI/images/logo_img.logo_img (BGRA8, 1254x679 x1x1x1) (Required Memory Estimate: 24.964485 MB), EncodeSpeed: Fast
+[2024.02.20-13.36.37:981][953]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.36.38:122][954]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.36.41:534][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.36.41:535][ 84]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.36.41:557][ 84]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.36.41:587][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.36.41:642][ 84]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-13.36.41:700][ 84]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.36.41:863][ 84]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.36.41:879][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.20-13.36.41:923][ 84]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.02.20-13.36.42:153][ 84]LogUObjectHash: Compacting FUObjectHashTables data took  16.36ms
+[2024.02.20-13.36.42:404][ 85]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2024.02.20-13.36.55:072][318]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.36.56:051][321]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Total job queries 3267, among them cache hits 9 (0.28%)
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Tracking 3251 distinct input hashes that result in 2273 distinct outputs (69.92%)
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: RAM used: 9.30 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 2.27%
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Shaders Compiled: 3251
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Jobs assigned 3255, completed 3251 (99.88%)
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Average time worker was idle: 860.31 s
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Time job spent in pending queue: average 829.88 s, longest 1830.12 s
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Job execution time: average 30.44 s, max 196.64 s
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Job life time (pending + execution): average 861.34 s, max 1841.02
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2091.23 s
+[2024.02.20-13.37.00:666][398]LogShaderCompilers: Display: Jobs were issued in 412 batches (only local compilation was used), average 7.90 jobs/batch
+[2024.02.20-13.37.00:667][398]LogShaderCompilers: Display: Average processing rate: 1.55 jobs/sec
+[2024.02.20-13.37.00:667][398]LogShaderCompilers: Display: Total thread time: 9737.64 s
+[2024.02.20-13.37.00:667][398]LogShaderCompilers: Display: Total thread preprocess time: 331.19 s
+[2024.02.20-13.37.00:667][398]LogShaderCompilers: Display: Percentage time preprocessing: 3.40%
+[2024.02.20-13.37.00:667][398]LogShaderCompilers: Display: Effective parallelization: 4.66 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 57.60 sec, max 57.60 sec, min 57.60 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 40.54 sec, max 40.54 sec, min 40.54 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 40.26 sec, max 40.26 sec, min 40.26 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 39.86 sec, max 39.86 sec, min 39.86 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 34.69 sec, max 34.69 sec, min 34.69 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 12.20% of total time (compiled  128 times, average 9.28 sec, max 41.08 sec, min 4.50 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 8.40% of total time (compiled  128 times, average 6.39 sec, max 27.33 sec, min 0.83 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 7.33% of total time (compiled  128 times, average 5.58 sec, max 21.25 sec, min 1.76 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.12% of total time (compiled  102 times, average 4.88 sec, max 22.16 sec, min 1.17 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.96% of total time (compiled   64 times, average 7.54 sec, max 16.17 sec, min 2.41 sec)
+[2024.02.20-13.37.00:673][398]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.37.06:532][516]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.37.12:170][621]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.37.12:688][621]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.02.20-13.37.17:068][660]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.20-13.37.17:105][660]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-13.37.17:123][660]PIE: New page: PIE session: LevelOne (Feb 21, 2024, 11:37:17 AM)
+[2024.02.20-13.37.17:131][660]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.37.17:227][660]LogPlayLevel: PIE: StaticDuplicateObject took: (0.094583s)
+[2024.02.20-13.37.17:227][660]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/LevelOne.LevelOne to /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne (0.096758s)
+[2024.02.20-13.37.17:257][660]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-13.37.17:303][660]LogAIModule: Creating AISystem for world LevelOne
+[2024.02.20-13.37.17:339][660]LogPlayLevel: PIE: World Init took: (0.111797s)
+[2024.02.20-13.37.17:448][660]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2024.02.20-13.37.17:457][660]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.02.20-13.37.17:461][660]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-13.37.17:462][660]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-13.37.17:462][660]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-13.37.17:462][660]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-13.37.17:463][660]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-13.37.17:463][660]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.20-13.37.17:463][660]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-13.37.17:464][660]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-13.37.17:471][660]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-13.37.17:471][660]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-13.37.17:471][660]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-13.37.17:485][660]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-13.37.17:566][660]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.02.20-13.37.17:577][660]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-13.37.17:577][660]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-13.37.17:579][660]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-13.37.17:590][660]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.02.20-13.37.17:591][660]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2024.02.20-13.37.17:593][660]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.02.20-13.37.17:594][660]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.02.20-13.37.17:594][660]LogInit: FAudioDevice initialized.
+[2024.02.20-13.37.17:594][660]LogAudio: Display: Audio Device (ID: 22) registered with world 'LevelOne'.
+[2024.02.20-13.37.17:624][660]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-13.37.17:648][660]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2024.02.21-00.37.17
+[2024.02.20-13.37.17:651][660]LogWorld: Bringing up level for play took: 0.023834
+[2024.02.20-13.37.17:681][660]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2024.02.20-13.37.17:765][660]PIE: Server logged in
+[2024.02.20-13.37.17:768][660]PIE: Play in editor total start time 0.675 seconds.
+[2024.02.20-13.37.19:072][664]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.37.37:728][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.37.37:729][ 52]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.37.37:729][ 52]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.37.37:729][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.37.37:788][ 52]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-13.37.37:801][ 52]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.37.37:880][ 52]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-13.37.37:880][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.02.20-13.37.37:935][ 52]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.02.20-13.37.37:979][ 52]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.37.37:985][ 52]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2024.02.20-13.37.38:024][ 53]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2024.02.20-13.37.39:003][ 56]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.37.39:508][ 56]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.38.14:327][869]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.38.14:503][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2024.02.20-13.38.15:534][871]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.38.20:124][948]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.20-13.38.20:139][948]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-13.38.20:139][948]PIE: New page: PIE session: LevelOne (Feb 21, 2024, 11:38:20 AM)
+[2024.02.20-13.38.20:142][948]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.38.20:144][948]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003471s)
+[2024.02.20-13.38.20:144][948]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/LevelOne.LevelOne to /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne (0.003531s)
+[2024.02.20-13.38.20:146][948]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-13.38.20:146][948]LogAIModule: Creating AISystem for world LevelOne
+[2024.02.20-13.38.20:147][948]LogPlayLevel: PIE: World Init took: (0.001858s)
+[2024.02.20-13.38.20:244][948]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2024.02.20-13.38.20:247][948]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.02.20-13.38.20:247][948]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-13.38.20:247][948]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-13.38.20:247][948]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-13.38.20:247][948]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-13.38.20:247][948]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-13.38.20:247][948]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.20-13.38.20:247][948]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-13.38.20:247][948]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-13.38.20:248][948]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-13.38.20:248][948]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-13.38.20:248][948]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-13.38.20:254][948]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-13.38.20:366][948]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.02.20-13.38.20:366][948]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-13.38.20:366][948]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-13.38.20:366][948]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-13.38.20:370][948]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.02.20-13.38.20:371][948]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=23
+[2024.02.20-13.38.20:373][948]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.02.20-13.38.20:373][948]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.02.20-13.38.20:373][948]LogInit: FAudioDevice initialized.
+[2024.02.20-13.38.20:373][948]LogAudio: Display: Audio Device (ID: 23) registered with world 'LevelOne'.
+[2024.02.20-13.38.20:376][948]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-13.38.20:376][948]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2024.02.21-00.38.20
+[2024.02.20-13.38.20:376][948]LogWorld: Bringing up level for play took: 0.000698
+[2024.02.20-13.38.20:382][948]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.02.20-13.38.20:384][948]PIE: Server logged in
+[2024.02.20-13.38.20:384][948]PIE: Play in editor total start time 0.246 seconds.
+[2024.02.20-13.38.22:096][952]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.38.32:320][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.38.32:320][ 81]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.38.32:320][ 81]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.38.32:321][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.38.32:403][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-13.38.32:420][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.38.32:528][ 81]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-13.38.32:528][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.02.20-13.38.32:541][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.02.20-13.38.32:551][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.38.32:555][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.02.20-13.38.32:585][ 82]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.02.20-13.38.33:551][ 85]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.38.34:052][ 85]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.39.09:372][239]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: Total job queries 3295, among them cache hits 9 (0.27%)
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: Tracking 3279 distinct input hashes that result in 2289 distinct outputs (69.81%)
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: RAM used: 9.35 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 2.28%
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: Shaders Compiled: 3279
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: Jobs assigned 3283, completed 3279 (99.88%)
+[2024.02.20-13.40.08:131][831]LogShaderCompilers: Display: Average time worker was idle: 806.54 s
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Time job spent in pending queue: average 822.81 s, longest 1830.12 s
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Job execution time: average 30.19 s, max 196.64 s
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Job life time (pending + execution): average 854.00 s, max 1841.02
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2108.52 s
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Jobs were issued in 440 batches (only local compilation was used), average 7.46 jobs/batch
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Average processing rate: 1.56 jobs/sec
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Total thread time: 9777.27 s
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Total thread preprocess time: 333.89 s
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Percentage time preprocessing: 3.41%
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Effective parallelization: 4.64 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.02.20-13.40.08:132][831]LogShaderCompilers: Display:                                   FCloudRenderViewPS011false (compiled    1 times, average 57.60 sec, max 57.60 sec, min 57.60 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                                   FCloudRenderViewPS110false (compiled    1 times, average 40.54 sec, max 40.54 sec, min 40.54 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                                   FCloudRenderViewPS111false (compiled    1 times, average 40.26 sec, max 40.26 sec, min 40.26 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                                              FVisualizeHDRPS (compiled    1 times, average 39.86 sec, max 39.86 sec, min 39.86 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                                   FCloudRenderViewPS001false (compiled    1 times, average 34.69 sec, max 34.69 sec, min 34.69 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                                      FScreenProbeIntegrateCS - 12.15% of total time (compiled  128 times, average 9.28 sec, max 41.08 sec, min 4.50 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                      FRenderSingleScatteringWithPreshadingCS - 8.37% of total time (compiled  128 times, average 6.39 sec, max 27.33 sec, min 0.83 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                              FVolumetricFogLightScatteringCS - 7.30% of total time (compiled  128 times, average 5.58 sec, max 21.25 sec, min 1.76 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                                             FDeferredLightPS - 5.10% of total time (compiled  102 times, average 4.88 sec, max 22.16 sec, min 1.17 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display:                          FReflectionEnvironmentSkyLightingPS - 4.94% of total time (compiled   64 times, average 7.54 sec, max 16.17 sec, min 2.41 sec)
+[2024.02.20-13.40.08:133][831]LogShaderCompilers: Display: ================================================
+[2024.02.20-13.40.26:981][377]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.40.28:679][396]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.40.46:546][756]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.40.47:047][756]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.40.48:094][761]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.41.21:933][144]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.43.32:147][553]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.43.37:563][572]LogInterchangeEngine: [Pending] Importing
+[2024.02.20-13.43.37:939][573]LogInterchangeEngine: [Pending] Importing
+[2024.02.20-13.43.38:032][574]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.20-13.43.38:516][574]LogTexture: Display: Building textures: /Game/UI/images/img4.img4 (BGRA8, 1240x626 x1x1x1) (Required Memory Estimate: 22.764412 MB), EncodeSpeed: Fast
+[2024.02.20-13.43.38:686][575]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.43.38:747][575]LogInterchangeEngine: [Success] Import Done
+[2024.02.20-13.44.55:693][ 33]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.45.08:919][231]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.45.17:703][285]BlueprintLog: New page: Compile MainMenu_WB
+[2024.02.20-13.45.19:310][285]LogUObjectHash: Compacting FUObjectHashTables data took  56.20ms
+[2024.02.20-13.45.20:668][289]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.45.24:797][340]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.20-13.45.24:893][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.02.20-13.45.24:907][340]PIE: New page: PIE session: LevelOne (Feb 21, 2024, 11:45:24 AM)
+[2024.02.20-13.45.24:921][340]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.45.24:997][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.075955s)
+[2024.02.20-13.45.24:997][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/LevelOne.LevelOne to /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne (0.077108s)
+[2024.02.20-13.45.25:026][340]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.20-13.45.25:070][340]LogAIModule: Creating AISystem for world LevelOne
+[2024.02.20-13.45.25:098][340]LogPlayLevel: PIE: World Init took: (0.100275s)
+[2024.02.20-13.45.25:222][340]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2024.02.20-13.45.25:236][340]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2024.02.20-13.45.25:242][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.20-13.45.25:242][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.20-13.45.25:242][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.20-13.45.25:242][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.20-13.45.25:243][340]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.20-13.45.25:243][340]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.20-13.45.25:243][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.20-13.45.25:243][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.20-13.45.25:250][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.20-13.45.25:250][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.20-13.45.25:250][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.20-13.45.25:268][340]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.20-13.45.25:459][340]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.02.20-13.45.25:491][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.20-13.45.25:491][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.20-13.45.25:492][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.20-13.45.25:511][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=24
+[2024.02.20-13.45.25:511][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=24
+[2024.02.20-13.45.25:521][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=24
+[2024.02.20-13.45.25:521][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=24
+[2024.02.20-13.45.25:523][340]LogInit: FAudioDevice initialized.
+[2024.02.20-13.45.25:523][340]LogAudio: Display: Audio Device (ID: 24) registered with world 'LevelOne'.
+[2024.02.20-13.45.25:612][340]LogLoad: Game class is 'GameModeBase'
+[2024.02.20-13.45.25:644][340]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 0) at 2024.02.21-00.45.25
+[2024.02.20-13.45.25:649][340]LogWorld: Bringing up level for play took: 0.034173
+[2024.02.20-13.45.25:695][340]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.02.20-13.45.25:789][340]PIE: Server logged in
+[2024.02.20-13.45.25:794][340]PIE: Play in editor total start time 0.919 seconds.
+[2024.02.20-13.45.27:315][344]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.20-13.45.49:348][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.45.49:348][763]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.20-13.45.49:359][763]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.02.20-13.45.49:366][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.45.49:436][763]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.20-13.45.49:457][763]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.20-13.45.49:592][763]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.02.20-13.45.49:597][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.02.20-13.45.49:620][763]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=24
+[2024.02.20-13.45.49:675][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.20-13.45.49:718][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2024.02.20-13.45.49:817][764]LogPlayLevel: Display: Destroying online subsystem :Context_34
