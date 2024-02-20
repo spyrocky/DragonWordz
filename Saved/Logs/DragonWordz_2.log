@@ -1211,6 +1211,7 @@ Recommended: 516.25
 [2024.02.19-13.02.20:894][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2024.02.19-13.02.20:925][ 74]AssetCheck: New page: Asset Save: WB_MainMenu
 [2024.02.19-13.02.20:926][ 74]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_MainMenu.WB_MainMenu
+<<<<<<< Updated upstream
 [2024.02.19-13.27.44:762][541]LogUObjectHash: Compacting FUObjectHashTables data took  18.78ms
 [2024.02.19-13.27.44:846][541]LogStall: Shutdown...
 [2024.02.19-13.27.44:889][541]LogStall: Shutdown complete.
@@ -1771,3 +1772,5 @@ Recommended: 516.25
 [2024.02.19-13.27.49:821][542]LogD3D11RHI: CleanupD3DDevice
 [2024.02.19-13.27.49:931][542]LogExit: Exiting.
 [2024.02.19-13.27.49:961][542]Log file closed, 02/20/24 00:27:49
+=======
+>>>>>>> Stashed changes
