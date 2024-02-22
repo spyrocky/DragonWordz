@@ -2835,3 +2835,406 @@ UnknownFunction []
 [2024.02.21-13.39.33:334][409]AssetCheck: New page: Asset Save: multiple assets
 [2024.02.21-13.39.33:334][409]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
 [2024.02.21-13.39.33:335][409]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Add_Vocab_WB.Add_Vocab_WB
+[2024.02.21-13.43.38:728][918]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.21-13.43.38:729][918]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.21-13.43.38:729][918]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.21-13.45.20:773][140]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.21-13.45.20:833][140]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset" SILENT=true
+[2024.02.21-13.45.20:852][140]LogSavePackage: Moving output files for package: /Game/UI/StageMap_WB
+[2024.02.21-13.45.20:854][140]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB74649E6A4623FB9E7C43F4A2C82314D4.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset'
+[2024.02.21-13.45.20:866][140]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 4.58 sec)
+[2024.02.21-13.45.20:878][140]AssetCheck: New page: Asset Save: StageMap_WB
+[2024.02.21-13.45.20:878][140]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
+[2024.02.21-13.45.21:391][151]BlueprintLog: New page: Compile StageMap_WB
+[2024.02.21-13.45.21:697][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2024.02.21-13.45.26:063][225]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.21-13.45.26:063][225]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.21-13.46.01:425][878]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.02.21-13.46.01:495][878]BlueprintLog: Warning: Blueprint failed to compile:  VocabSetting_WB
+[2024.02.21-13.46.01:496][878]BlueprintLog: Warning: Blueprint failed to compile:  Remove_Vocab_WB
+[2024.02.21-13.46.01:496][878]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.02.21-13.46.01:510][878]LogPlayLevel: [PlayLevel] Compiling MainMenu_WB before play...
+[2024.02.21-13.46.01:538][878]LogPlayLevel: [PlayLevel] Compiling Add_Vocab_WB before play...
+[2024.02.21-13.46.01:954][878]LogUObjectHash: Compacting FUObjectHashTables data took   3.69ms
+[2024.02.21-13.46.01:956][878]LogPlayLevel: PlayLevel: Blueprint regeneration took 463 ms (2 blueprints)
+[2024.02.21-13.46.10:344][878]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2024.02.21-13.46.10:393][878]PIE: New page: PIE session: LevelOne (Feb 22, 2024, 11:46:10 AM)
+[2024.02.21-13.46.10:430][878]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.21-13.46.10:487][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055488s)
+[2024.02.21-13.46.10:488][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/LevelOne.LevelOne to /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne (0.058001s)
+[2024.02.21-13.46.10:514][878]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.21-13.46.10:550][878]LogAIModule: Creating AISystem for world LevelOne
+[2024.02.21-13.46.10:573][878]LogPlayLevel: PIE: World Init took: (0.084884s)
+[2024.02.21-13.46.10:689][878]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2024.02.21-13.46.10:698][878]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.02.21-13.46.10:703][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.02.21-13.46.10:703][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.02.21-13.46.10:703][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.02.21-13.46.10:703][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.02.21-13.46.10:703][878]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.02.21-13.46.10:704][878]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.02.21-13.46.10:704][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.02.21-13.46.10:704][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.02.21-13.46.10:710][878]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.02.21-13.46.10:711][878]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.02.21-13.46.10:711][878]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.02.21-13.46.10:725][878]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.02.21-13.46.10:833][878]LogAudioMixer: Display: Using Audio Hardware Device Speakers/Headphones (Realtek(R) Audio)
+[2024.02.21-13.46.10:850][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.02.21-13.46.10:850][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.02.21-13.46.10:851][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.02.21-13.46.10:857][878]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.02.21-13.46.10:857][878]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.02.21-13.46.10:862][878]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.02.21-13.46.10:862][878]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.02.21-13.46.10:862][878]LogInit: FAudioDevice initialized.
+[2024.02.21-13.46.10:862][878]LogAudio: Display: Audio Device (ID: 5) registered with world 'LevelOne'.
+[2024.02.21-13.46.10:910][878]LogLoad: Game class is 'GameModeBase'
+[2024.02.21-13.46.10:937][878]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2024.02.22-00.46.10
+[2024.02.21-13.46.10:940][878]LogWorld: Bringing up level for play took: 0.029082
+[2024.02.21-13.46.10:965][878]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2024.02.21-13.46.11:018][878]PIE: Server logged in
+[2024.02.21-13.46.11:019][878]PIE: Play in editor total start time 9.539 seconds.
+[2024.02.21-13.46.13:465][883]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.21-13.46.19:999][974]LogScript: Warning: Script Msg: The widget 'MainMenu_WB_C_0' was already added to the screen.
+[2024.02.21-13.46.19:999][974]LogScript: Warning: Last function called:
+	/Game/UI/MainMenu_WB.MainMenu_WB_C.ExecuteUbergraph_MainMenu_WB
+
+[2024.02.21-13.46.25:525][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-13.46.25:526][ 91]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.02.21-13.46.25:533][ 91]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.02.21-13.46.25:539][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.21-13.46.25:573][ 91]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.02.21-13.46.25:585][ 91]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.21-13.46.25:719][ 91]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.02.21-13.46.25:725][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.21-13.46.25:729][ 91]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.02.21-13.46.25:858][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2024.02.21-13.46.25:895][ 92]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2024.02.21-13.46.26:525][ 95]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.21-13.46.27:255][ 95]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.21-14.02.31:919][ 39]LogDerivedDataCache: C:/Users/Mai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.261 and deleted 0 files with total size 0 MiB. Scanned 1342 files in 1342 folders with total size 33 MiB.
+[2024.02.21-14.22.39:576][661]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.02.22-05.49.39:748][666]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [55626208ms] waiting for h/w. InstanceID=1
+[2024.02.22-05.49.40:966][666]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.22-05.49.41:032][666]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3412
+[2024.02.22-05.49.42:325][668]LogHttp: Warning: 000008EEE38D7800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.22-05.49.42:329][668]LogHttp: Warning: 000008EEE38D7800: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.02.22-05.49.42:329][668]LogHttp: Warning: 000008EEE38D7800: libcurl info message cache 0 (Too old connection (55660 seconds idle), disconnect it)
+[2024.02.22-05.49.42:340][668]LogHttp: Warning: 000008EEE38D7800: libcurl info message cache 1 (Connection 3 seems to be dead)
+[2024.02.22-05.49.42:340][668]LogHttp: Warning: 000008EEE38D7800: libcurl info message cache 2 (Closing connection 3)
+[2024.02.22-05.49.42:341][668]LogHttp: Warning: 000008EEE38D7800: libcurl info message cache 3 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.02.22-05.49.42:341][668]LogHttp: Warning: 000008EEE38D7800: libcurl info message cache 4 (Closing connection 4)
+[2024.02.22-05.49.42:616][668]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.22-05.49.46:030][678]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2024.02.22-05.49.46:557][679]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{69bda79d-8788-4db1-90fb-e9e1e158e607}, Name=Speakers/Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=5300.43
+[2024.02.22-05.49.46:563][679]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.22-05.49.46:571][679]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.22-05.49.46:778][680]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3412
+[2024.02.22-05.49.47:643][681]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{69bda79d-8788-4db1-90fb-e9e1e158e607}, Name=Speakers/Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=848.48
+[2024.02.22-05.49.47:644][681]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.22-05.49.47:658][681]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.22-05.56.49:695][944]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-06.01.37:803][892]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.22-06.01.37:817][892]LogSlate: Window 'Content Browser' being destroyed
+[2024.02.22-06.01.39:608][895]LogSlate: Window 'Remove_Vocab_WB' being destroyed
+[2024.02.22-06.01.39:611][895]LogSlate: Window 'Remove_Vocab_WB' being destroyed
+[2024.02.22-06.01.40:356][895]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.40:375][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.41:032][895]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.41:033][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.43:950][895]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.43:950][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.43:964][895]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.43:965][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.45:511][895]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.45:511][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.45:524][895]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.45:525][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.46:766][895]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.46:766][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.46:778][895]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.46:778][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.49:212][895]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.49:218][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.01.49:257][895]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.01.49:257][895]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.02.09:843][575]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.02.22-06.02.09:866][575]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.22-06.02.09:873][575]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.22-06.02.09:899][576]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.22-06.02.24:823][903]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Win_WB
+[2024.02.22-06.02.25:809][903]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.22-06.02.30:369][997]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Win_WB.Win_WB
+[2024.02.22-06.02.30:421][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.02.30:562][997]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.02.32:373][997]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s
+[2024.02.22-06.02.33:775][997]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.02.33:775][997]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.02.33:870][997]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003123s (1.502236s overbudget)
+[2024.02.22-06.03.28:740][983]LogUObjectHash: Compacting FUObjectHashTables data took  19.90ms
+[2024.02.22-06.03.29:016][983]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.03.29:097][983]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB_2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/MainMenu_WB_2.uasset" SILENT=true
+[2024.02.22-06.03.29:185][983]LogSavePackage: Moving output files for package: /Game/UI/MainMenu_WB_2
+[2024.02.22-06.03.29:202][983]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB_2AC68F24A42308C70A8CCC2A02A4F0920.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/MainMenu_WB_2.uasset'
+[2024.02.22-06.03.29:564][983]LogFileHelpers: InternalPromptForCheckoutAndSave took 548 ms (total: 5.13 sec)
+[2024.02.22-06.03.30:231][983]AssetCheck: New page: Asset Save: MainMenu_WB_2
+[2024.02.22-06.03.30:231][983]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/MainMenu_WB_2.MainMenu_WB_2
+[2024.02.22-06.04.13:352][834]LogContentBrowser: Attempting asset rename: MainMenu_WB_2 -> Lose_WB
+[2024.02.22-06.04.14:747][834]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C' ref from Metadata '/Game/UI/MainMenu_WB_2.PackageMetaData'
+[2024.02.22-06.04.14:747][834]LogMetaData: Removing '/Game/UI/Lose_WB.Lose_WB_C' ref from Metadata '/Game/UI/MainMenu_WB_2.PackageMetaData'
+[2024.02.22-06.04.14:747][834]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:PreConstruct' ref from Metadata '/Game/UI/MainMenu_WB_2.PackageMetaData'
+[2024.02.22-06.04.14:747][834]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:Construct' ref from Metadata '/Game/UI/MainMenu_WB_2.PackageMetaData'
+[2024.02.22-06.04.14:747][834]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:Tick' ref from Metadata '/Game/UI/MainMenu_WB_2.PackageMetaData'
+[2024.02.22-06.04.14:747][834]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:BndEvt__MainMenu_WB_quit_btn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/MainMenu_WB_2.PackageMetaData'
+[2024.02.22-06.04.14:748][834]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:BndEvt__MainMenu_WB_start_btn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/MainMenu_WB_2.PackageMetaData'
+[2024.02.22-06.04.14:763][834]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.04.14:822][834]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset" SILENT=true
+[2024.02.22-06.04.14:859][834]LogSavePackage: Moving output files for package: /Game/UI/Lose_WB
+[2024.02.22-06.04.14:859][834]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WBE5C997864F36E4478336918E5A9C1942.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset'
+[2024.02.22-06.04.15:154][834]LogFileHelpers: InternalPromptForCheckoutAndSave took 391 ms (total: 5.52 sec)
+[2024.02.22-06.04.15:679][834]LogUObjectHash: Compacting FUObjectHashTables data took   8.04ms
+[2024.02.22-06.04.15:763][834]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.02.22-06.04.15:832][834]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.02.22-06.04.16:096][834]SourceControl: rm 'Content/UI/MainMenu_WB_2.uasset'
+[2024.02.22-06.04.16:111][834]AssetCheck: New page: Asset Save: Lose_WB
+[2024.02.22-06.04.16:111][834]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Lose_WB.Lose_WB
+[2024.02.22-06.04.19:106][843]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lose_WB.Lose_WB
+[2024.02.22-06.04.19:106][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.04.19:112][843]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.04.20:325][843]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.04.20:326][843]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.04.56:750][552]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
+[2024.02.22-06.04.56:751][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.04.56:809][552]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.04.57:957][552]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.04.57:957][552]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.05.13:744][814]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.05.54:284][451]BlueprintLog: New page: Compile StageMap_WB
+[2024.02.22-06.05.54:515][451]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2024.02.22-06.06.17:654][744]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-06.06.29:023][963]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Add_Vocab_WB.Add_Vocab_WB
+[2024.02.22-06.06.29:024][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.06.29:073][963]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.06.30:127][963]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.06.30:127][963]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.06.40:949][148]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.08.16:514][690]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.08.16:581][690]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset" SILENT=true
+[2024.02.22-06.08.16:604][690]LogSavePackage: Moving output files for package: /Game/UI/Lose_WB
+[2024.02.22-06.08.16:605][690]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WBA46FC8FB482D1E01213A1CA19921BAB1.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset'
+[2024.02.22-06.08.16:618][690]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 5.62 sec)
+[2024.02.22-06.08.16:631][690]AssetCheck: New page: Asset Save: Lose_WB
+[2024.02.22-06.08.16:631][690]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Lose_WB.Lose_WB
+[2024.02.22-06.08.35:412][994]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.11.26:009][617]BlueprintLog: New page: Compile Lose_WB
+[2024.02.22-06.11.26:221][617]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2024.02.22-06.11.55:877][166]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-06.11.55:878][166]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-06.11.55:878][166]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-06.12.16:360][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.12.16:419][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset" SILENT=true
+[2024.02.22-06.12.16:443][926]LogSavePackage: Moving output files for package: /Game/UI/Lose_WB
+[2024.02.22-06.12.16:445][926]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WBF3BB9B2F4581937DA6D8DCAD7971C374.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset'
+[2024.02.22-06.12.16:456][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 5.72 sec)
+[2024.02.22-06.12.16:468][926]AssetCheck: New page: Asset Save: Lose_WB
+[2024.02.22-06.12.16:468][926]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Lose_WB.Lose_WB
+[2024.02.22-06.12.19:001][970]BlueprintLog: New page: Compile Lose_WB
+[2024.02.22-06.12.19:212][970]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2024.02.22-06.12.24:333][ 58]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB
+[2024.02.22-06.12.24:334][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.12.24:442][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.12.25:961][ 58]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.12.25:961][ 58]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.13.02:579][723]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.13.02:579][723]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.13.32:609][923]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2024.02.22-06.13.32:612][923]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.098
+[2024.02.22-06.13.32:614][923]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/StageMap_WB] ([2] browsable assets)...
+[2024.02.22-06.13.32:617][923]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB]
+[2024.02.22-06.13.32:617][923]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/StageMap_WB]
+[2024.02.22-06.13.32:617][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-06.13.32:638][923]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/StageMap_WB_Auto5
+[2024.02.22-06.13.32:638][923]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB_Auto5CCE6D6BB4357C81C97751F992452823F.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto5.uasset'
+[2024.02.22-06.13.32:640][923]LogFileHelpers: Auto-saving content packages took 0.028
+[2024.02.22-06.29.28:169][790]LogDerivedDataCache: C:/Users/Mai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.324 and deleted 0 files with total size 0 MiB. Scanned 1342 files in 1342 folders with total size 33 MiB.
+[2024.02.22-06.33.32:796][827]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.02.22-06.34.01:859][323]LogEditorTransaction: Undo Drag and Drop Widget
+[2024.02.22-06.36.25:920][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   7.25ms
+[2024.02.22-06.36.25:923][ 53]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.608
+[2024.02.22-06.36.25:926][ 53]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Lose_WB] ([2] browsable assets)...
+[2024.02.22-06.36.25:930][ 53]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Lose_WB.Lose_WB]
+[2024.02.22-06.36.25:930][ 53]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lose_WB]
+[2024.02.22-06.36.25:930][ 53]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-06.36.25:953][ 53]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Lose_WB_Auto6
+[2024.02.22-06.36.25:953][ 53]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WB_Auto6A32E463C40039B9C49BB53B327AD18AE.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto6.uasset'
+[2024.02.22-06.36.25:955][ 53]LogFileHelpers: Auto-saving content packages took 0.030
+[2024.02.22-06.36.51:510][526]BlueprintLog: New page: Compile Lose_WB
+[2024.02.22-06.36.51:682][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2024.02.22-06.37.21:137][904]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-06.37.40:877][180]BlueprintLog: New page: Compile Add_Vocab_WB
+[2024.02.22-06.37.41:009][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.02.22-06.38.08:393][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.02.22-06.38.09:879][663]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.22-06.38.10:273][663]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.38.10:273][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.38.10:294][663]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.38.10:294][663]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.38.10:622][663]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/UI/Win_WB.Win_WB
+	Asset Type: WidgetBlueprint
+[2024.02.22-06.38.11:898][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.02.22-06.38.11:975][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.02.22-06.38.12:040][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.02.22-06.38.21:757][860]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-06.38.23:331][866]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-06.38.24:995][872]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-06.38.30:016][920]LogContentBrowser: Attempting asset rename: Lose_WB -> Win_WB
+[2024.02.22-06.38.31:529][920]LogMetaData: Removing '/Game/UI/Win_WB.Win_WB_C' ref from Metadata '/Game/UI/Lose_WB.PackageMetaData'
+[2024.02.22-06.38.31:529][920]LogMetaData: Removing '/Game/UI/Win_WB.SKEL_Win_WB_C' ref from Metadata '/Game/UI/Lose_WB.PackageMetaData'
+[2024.02.22-06.38.31:529][920]LogMetaData: Removing '/Game/UI/Win_WB.SKEL_Win_WB_C:BndEvt__MainMenu_WB_start_btn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Lose_WB.PackageMetaData'
+[2024.02.22-06.38.31:530][920]LogMetaData: Removing '/Game/UI/Win_WB.SKEL_Win_WB_C:BndEvt__MainMenu_WB_quit_btn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Lose_WB.PackageMetaData'
+[2024.02.22-06.38.31:530][920]LogMetaData: Removing '/Game/UI/Win_WB.SKEL_Win_WB_C:Tick' ref from Metadata '/Game/UI/Lose_WB.PackageMetaData'
+[2024.02.22-06.38.31:530][920]LogMetaData: Removing '/Game/UI/Win_WB.SKEL_Win_WB_C:Construct' ref from Metadata '/Game/UI/Lose_WB.PackageMetaData'
+[2024.02.22-06.38.31:532][920]LogMetaData: Removing '/Game/UI/Win_WB.SKEL_Win_WB_C:PreConstruct' ref from Metadata '/Game/UI/Lose_WB.PackageMetaData'
+[2024.02.22-06.38.31:542][920]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.38.31:643][920]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Win_WB.uasset" SILENT=true
+[2024.02.22-06.38.31:674][920]LogSavePackage: Moving output files for package: /Game/UI/Win_WB
+[2024.02.22-06.38.31:674][920]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Win_WB723F60B24771D648E97B4FB1F994AC74.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Win_WB.uasset'
+[2024.02.22-06.38.31:916][920]LogFileHelpers: InternalPromptForCheckoutAndSave took 372 ms (total: 6.09 sec)
+[2024.02.22-06.38.32:331][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2024.02.22-06.38.32:390][920]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.02.22-06.38.32:457][920]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.02.22-06.38.32:643][920]SourceControl: rm 'Content/UI/Lose_WB.uasset'
+[2024.02.22-06.38.32:656][920]AssetCheck: New page: Asset Save: Win_WB
+[2024.02.22-06.38.32:656][920]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Win_WB.Win_WB
+[2024.02.22-06.39.20:748][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2024.02.22-06.39.20:895][506]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.39.20:948][506]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_WB_2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Win_WB_2.uasset" SILENT=true
+[2024.02.22-06.39.20:961][506]LogSavePackage: Moving output files for package: /Game/UI/Win_WB_2
+[2024.02.22-06.39.20:961][506]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Win_WB_297F70AF0417F046AA3A74C8E1EE16178.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Win_WB_2.uasset'
+[2024.02.22-06.39.21:171][506]LogFileHelpers: InternalPromptForCheckoutAndSave took 277 ms (total: 6.37 sec)
+[2024.02.22-06.39.21:841][506]AssetCheck: New page: Asset Save: Win_WB_2
+[2024.02.22-06.39.21:841][506]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Win_WB_2.Win_WB_2
+[2024.02.22-06.39.31:517][706]LogContentBrowser: Attempting asset rename: Win_WB_2 -> Lose_WB
+[2024.02.22-06.39.32:367][706]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C' ref from Metadata '/Game/UI/Win_WB_2.PackageMetaData'
+[2024.02.22-06.39.32:367][706]LogMetaData: Removing '/Game/UI/Lose_WB.Lose_WB_C' ref from Metadata '/Game/UI/Win_WB_2.PackageMetaData'
+[2024.02.22-06.39.32:367][706]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:PreConstruct' ref from Metadata '/Game/UI/Win_WB_2.PackageMetaData'
+[2024.02.22-06.39.32:367][706]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:Construct' ref from Metadata '/Game/UI/Win_WB_2.PackageMetaData'
+[2024.02.22-06.39.32:367][706]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:Tick' ref from Metadata '/Game/UI/Win_WB_2.PackageMetaData'
+[2024.02.22-06.39.32:367][706]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:BndEvt__MainMenu_WB_quit_btn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Win_WB_2.PackageMetaData'
+[2024.02.22-06.39.32:367][706]LogMetaData: Removing '/Game/UI/Lose_WB.SKEL_Lose_WB_C:BndEvt__MainMenu_WB_start_btn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Win_WB_2.PackageMetaData'
+[2024.02.22-06.39.32:369][706]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.39.32:450][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset" SILENT=true
+[2024.02.22-06.39.32:495][706]LogSavePackage: Moving output files for package: /Game/UI/Lose_WB
+[2024.02.22-06.39.32:495][706]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WBE279F6724EE30A97D47AC5ACA2B24A42.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset'
+[2024.02.22-06.39.32:728][706]LogFileHelpers: InternalPromptForCheckoutAndSave took 358 ms (total: 6.73 sec)
+[2024.02.22-06.39.33:127][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2024.02.22-06.39.33:187][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.02.22-06.39.33:244][706]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.22-06.39.33:427][706]SourceControl: rm 'Content/UI/Win_WB_2.uasset'
+[2024.02.22-06.39.33:436][706]AssetCheck: New page: Asset Save: Lose_WB
+[2024.02.22-06.39.33:436][706]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Lose_WB.Lose_WB
+[2024.02.22-06.39.38:541][785]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.39.38:541][785]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.39.46:863][916]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Lose_WB.Lose_WB
+[2024.02.22-06.39.46:864][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.39.46:934][916]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.39.48:210][916]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.39.48:210][916]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.40.10:336][295]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.40.16:656][397]LogEditorTransaction: Undo Paste clipboard contents
+[2024.02.22-06.40.41:563][767]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.43.22:450][427]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.43.22:451][427]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.43.58:229][115]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.22-06.43.58:229][115]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] There can only be one event node bound to this component! Delete  On Clicked (mainMenu_btn)  or the other bound event
+[2024.02.22-06.43.58:231][115]BlueprintLog: New page: Rename Component Error
+[2024.02.22-06.43.58:231][115]BlueprintLog: Error: There can only be one event node bound to this component! Delete  On Clicked (mainMenu_btn)  or the other bound event
+[2024.02.22-06.44.08:482][309]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.44.08:482][309]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.45.21:748][973]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.45.21:748][973]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.45.47:852][532]BlueprintLog: New page: Compile Lose_WB
+[2024.02.22-06.45.47:991][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.02.22-06.45.50:286][567]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.45.50:366][567]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset" SILENT=true
+[2024.02.22-06.45.50:381][567]LogSavePackage: Moving output files for package: /Game/UI/Lose_WB
+[2024.02.22-06.45.50:382][567]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WBDC917A4F492377119EB608ADFE830D2F.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB.uasset'
+[2024.02.22-06.45.50:388][567]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.83 sec)
+[2024.02.22-06.45.50:397][567]AssetCheck: New page: Asset Save: Lose_WB
+[2024.02.22-06.45.50:397][567]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Lose_WB.Lose_WB
+[2024.02.22-06.45.51:945][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.45.51:945][595]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.46.37:887][408]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.02.22-06.46.37:888][408]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.086
+[2024.02.22-06.46.37:889][408]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/StageMap_WB] ([2] browsable assets)...
+[2024.02.22-06.46.37:896][408]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB]
+[2024.02.22-06.46.37:896][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/StageMap_WB]
+[2024.02.22-06.46.37:896][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-06.46.37:908][408]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/StageMap_WB_Auto7
+[2024.02.22-06.46.37:909][408]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB_Auto74B5C40624432C341D98C0F973DD5F0F6.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto7.uasset'
+[2024.02.22-06.46.37:911][408]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Add_Vocab_WB] ([2] browsable assets)...
+[2024.02.22-06.46.37:914][408]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Add_Vocab_WB.Add_Vocab_WB]
+[2024.02.22-06.46.37:914][408]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Add_Vocab_WB]
+[2024.02.22-06.46.37:914][408]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Add_Vocab_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Add_Vocab_WB_Auto7.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-06.46.37:921][408]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Add_Vocab_WB_Auto7
+[2024.02.22-06.46.37:921][408]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Add_Vocab_WB_Auto726C78A8548FDACDDE2383C874637FF7F.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Add_Vocab_WB_Auto7.uasset'
+[2024.02.22-06.46.37:923][408]LogFileHelpers: Auto-saving content packages took 0.034
+[2024.02.22-06.48.39:554][584]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.22-06.49.49:248][959]LogSlate: Window 'Color Picker' being destroyed
+[2024.02.22-06.49.58:407][ 84]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.50.01:488][130]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.50.03:660][159]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.50.06:645][209]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.50.18:003][403]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.52.03:806][289]BlueprintLog: New page: Compile StageMap_WB
+[2024.02.22-06.52.03:953][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.02.22-06.52.05:286][302]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.52.05:377][302]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset" SILENT=true
+[2024.02.22-06.52.05:413][302]LogSavePackage: Moving output files for package: /Game/UI/StageMap_WB
+[2024.02.22-06.52.05:415][302]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB93F16E8D4A3B92C6B4322D839584366D.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset'
+[2024.02.22-06.52.05:427][302]LogFileHelpers: InternalPromptForCheckoutAndSave took 141 ms (total: 6.97 sec)
+[2024.02.22-06.52.05:438][302]AssetCheck: New page: Asset Save: StageMap_WB
+[2024.02.22-06.52.05:438][302]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
+[2024.02.22-06.52.10:103][387]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.52.10:103][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.52.10:114][387]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-06.52.10:114][387]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-06.53.19:394][790]LogBlueprint: Warning: [AssetLog] C:\xampp\htdocs\DragonWordz\Content\UI\StageMap_WB.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  On Clicked (quit_Btn)  and was replaced as a Custom Event!
+[2024.02.22-06.53.44:261][599]BlueprintLog: New page: Compile StageMap_WB
+[2024.02.22-06.53.44:478][599]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2024.02.22-06.53.46:363][622]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.53.46:363][622]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.53.47:166][625]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-06.54.53:343][905]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name WidgetTree_0 while ResolveName, will return /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.quit_Btn.WidgetTree_0 but could also be: /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.setting_btn.WidgetTree_0 or 162 other object(s)
+[2024.02.22-06.54.53:344][905]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Button /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.quit_Btn.WidgetTree_0.BaseBtn) from referencer (BaseBtn_WB_C /Engine/UMG/Editor/Transient.quit_Btn).  Import failed...
+[2024.02.22-06.54.53:344][905]LogProperty: Warning: ObjectProperty /Game/UI/BaseBtn_WB.BaseBtn_WB_C:BaseBtn: unresolved reference to '/Script/UMG.Button'"WidgetTree_0.BaseBtn"''
+[2024.02.22-06.54.53:344][905]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name WidgetTree_0 while ResolveName, will return /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.quit_Btn.WidgetTree_0 but could also be: /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.setting_btn.WidgetTree_0 or 162 other object(s)
+[2024.02.22-06.54.53:344][905]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TextBlock /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.quit_Btn.WidgetTree_0.BtnText_Text) from referencer (BaseBtn_WB_C /Engine/UMG/Editor/Transient.quit_Btn).  Import failed...
+[2024.02.22-06.54.53:345][905]LogProperty: Warning: ObjectProperty /Game/UI/BaseBtn_WB.BaseBtn_WB_C:BtnText_Text: unresolved reference to '/Script/UMG.TextBlock'"WidgetTree_0.BtnText_Text"''
+[2024.02.22-06.54.53:602][906]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.55.35:255][707]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name WidgetTree_0 while ResolveName, will return /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.quit_Btn.WidgetTree_0 but could also be: /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.setting_btn.WidgetTree_0 or 189 other object(s)
+[2024.02.22-06.55.35:256][707]LogProperty: Warning: Illegal TEXT reference to a private object in external package (Button /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.quit_Btn.WidgetTree_0.BaseBtn) from referencer (BaseBtn_WB_C /Engine/UMG/Editor/Transient.setting_btn).  Import failed...
+[2024.02.22-06.55.35:256][707]LogProperty: Warning: ObjectProperty /Game/UI/BaseBtn_WB.BaseBtn_WB_C:BaseBtn: unresolved reference to '/Script/UMG.Button'"WidgetTree_0.BaseBtn"''
+[2024.02.22-06.55.35:257][707]LogUObjectGlobals: Warning: StaticFindFirstObject: Ambiguous object name WidgetTree_0 while ResolveName, will return /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.quit_Btn.WidgetTree_0 but could also be: /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.setting_btn.WidgetTree_0 or 189 other object(s)
+[2024.02.22-06.55.35:259][707]LogProperty: Warning: Illegal TEXT reference to a private object in external package (TextBlock /Game/UI/StageMap_WB.StageMap_WB:WidgetTree.quit_Btn.WidgetTree_0.BtnText_Text) from referencer (BaseBtn_WB_C /Engine/UMG/Editor/Transient.setting_btn).  Import failed...
+[2024.02.22-06.55.35:259][707]LogProperty: Warning: ObjectProperty /Game/UI/BaseBtn_WB.BaseBtn_WB_C:BtnText_Text: unresolved reference to '/Script/UMG.TextBlock'"WidgetTree_0.BtnText_Text"''
+[2024.02.22-06.55.35:520][709]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-06.56.10:535][400]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2024.02.22-06.56.10:536][400]LogBlueprint: Error: [AssetLog]  (no disk path found): [Compiler] There can only be one event node bound to this component! Delete  On Clicked (quit_Btn)  or the other bound event
+[2024.02.22-06.56.10:536][400]BlueprintLog: New page: Rename Component Error
+[2024.02.22-06.56.10:536][400]BlueprintLog: Error: There can only be one event node bound to this component! Delete  On Clicked (quit_Btn)  or the other bound event
+[2024.02.22-06.56.22:051][750]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.56.22:051][750]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.56.57:946][573]BlueprintLog: New page: Compile StageMap_WB
+[2024.02.22-06.56.58:079][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.22-06.57.00:442][609]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.57.00:442][609]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.57.13:507][830]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.57.13:585][830]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset" SILENT=true
+[2024.02.22-06.57.13:621][830]LogSavePackage: Moving output files for package: /Game/UI/StageMap_WB
+[2024.02.22-06.57.13:623][830]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB843B9BAF414861AA79AB0080B94D2710.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/StageMap_WB.uasset'
+[2024.02.22-06.57.13:632][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 7.09 sec)
+[2024.02.22-06.57.13:640][830]AssetCheck: New page: Asset Save: StageMap_WB
+[2024.02.22-06.57.13:640][830]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
