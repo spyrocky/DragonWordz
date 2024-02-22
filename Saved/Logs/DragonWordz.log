@@ -3238,3 +3238,493 @@ UnknownFunction []
 [2024.02.22-06.57.13:632][830]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 7.09 sec)
 [2024.02.22-06.57.13:640][830]AssetCheck: New page: Asset Save: StageMap_WB
 [2024.02.22-06.57.13:640][830]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB
+[2024.02.22-06.59.34:896][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.22-06.59.35:087][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.59.35:141][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB_2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB_2.uasset" SILENT=true
+[2024.02.22-06.59.35:153][386]LogSavePackage: Moving output files for package: /Game/UI/Lose_WB_2
+[2024.02.22-06.59.35:154][386]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WB_2A96982F8491B358411D3C59ABA7C557C.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Lose_WB_2.uasset'
+[2024.02.22-06.59.35:344][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 256 ms (total: 7.35 sec)
+[2024.02.22-06.59.35:988][386]AssetCheck: New page: Asset Save: Lose_WB_2
+[2024.02.22-06.59.35:988][386]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Lose_WB_2.Lose_WB_2
+[2024.02.22-06.59.46:383][658]LogContentBrowser: Attempting asset rename: Lose_WB_2 -> Pause_WB
+[2024.02.22-06.59.47:741][658]LogMetaData: Removing '/Game/UI/Pause_WB.SKEL_Pause_WB_C' ref from Metadata '/Game/UI/Lose_WB_2.PackageMetaData'
+[2024.02.22-06.59.47:741][658]LogMetaData: Removing '/Game/UI/Pause_WB.Pause_WB_C' ref from Metadata '/Game/UI/Lose_WB_2.PackageMetaData'
+[2024.02.22-06.59.47:741][658]LogMetaData: Removing '/Game/UI/Pause_WB.SKEL_Pause_WB_C:PreConstruct' ref from Metadata '/Game/UI/Lose_WB_2.PackageMetaData'
+[2024.02.22-06.59.47:741][658]LogMetaData: Removing '/Game/UI/Pause_WB.SKEL_Pause_WB_C:Construct' ref from Metadata '/Game/UI/Lose_WB_2.PackageMetaData'
+[2024.02.22-06.59.47:742][658]LogMetaData: Removing '/Game/UI/Pause_WB.SKEL_Pause_WB_C:Tick' ref from Metadata '/Game/UI/Lose_WB_2.PackageMetaData'
+[2024.02.22-06.59.47:742][658]LogMetaData: Removing '/Game/UI/Pause_WB.SKEL_Pause_WB_C:BndEvt__MainMenu_WB_quit_btn_K2Node_ComponentBoundEvent_0_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Lose_WB_2.PackageMetaData'
+[2024.02.22-06.59.47:742][658]LogMetaData: Removing '/Game/UI/Pause_WB.SKEL_Pause_WB_C:BndEvt__Lose_WB_setting_btn_K2Node_ComponentBoundEvent_2_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Lose_WB_2.PackageMetaData'
+[2024.02.22-06.59.47:742][658]LogMetaData: Removing '/Game/UI/Pause_WB.SKEL_Pause_WB_C:BndEvt__Lose_WB_setting_btn_K2Node_ComponentBoundEvent_3_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Lose_WB_2.PackageMetaData'
+[2024.02.22-06.59.47:750][658]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-06.59.47:831][658]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Pause_WB.uasset" SILENT=true
+[2024.02.22-06.59.47:872][658]LogSavePackage: Moving output files for package: /Game/UI/Pause_WB
+[2024.02.22-06.59.47:872][658]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Pause_WBEDCE23C44FE869E5DF4C3F919640A826.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Pause_WB.uasset'
+[2024.02.22-06.59.48:070][658]LogFileHelpers: InternalPromptForCheckoutAndSave took 319 ms (total: 7.67 sec)
+[2024.02.22-06.59.48:466][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.02.22-06.59.48:530][658]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.02.22-06.59.48:588][658]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.02.22-06.59.48:771][658]SourceControl: rm 'Content/UI/Lose_WB_2.uasset'
+[2024.02.22-06.59.48:779][658]AssetCheck: New page: Asset Save: Pause_WB
+[2024.02.22-06.59.48:779][658]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause_WB.Pause_WB
+[2024.02.22-06.59.50:891][699]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Pause_WB.Pause_WB
+[2024.02.22-06.59.50:893][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.59.50:951][699]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-06.59.52:208][699]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-06.59.52:208][699]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-07.00.45:935][781]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.48:021][830]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.48:722][842]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.49:362][853]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.49:880][862]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.50:461][869]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.51:043][890]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.51:579][900]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.51:914][906]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.52:246][912]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.52:526][917]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.52:918][924]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.53:417][933]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.54:095][943]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.54:568][960]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.55:004][968]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.55:559][978]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.00.56:049][987]LogEditorTransaction: Undo Nudge Widget
+[2024.02.22-07.01.48:523][894]BlueprintLog: New page: Compile Lose_WB
+[2024.02.22-07.01.48:660][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.02.22-07.01.52:448][947]BlueprintLog: New page: Compile Pause_WB
+[2024.02.22-07.01.52:621][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2024.02.22-07.01.54:135][965]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-07.01.54:221][965]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Pause_WB.uasset" SILENT=true
+[2024.02.22-07.01.54:256][965]LogSavePackage: Moving output files for package: /Game/UI/Pause_WB
+[2024.02.22-07.01.54:258][965]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Pause_WBF2A3B8F1420889D1F85270B618ECDEC1.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Pause_WB.uasset'
+[2024.02.22-07.01.54:269][965]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 7.81 sec)
+[2024.02.22-07.01.54:280][965]AssetCheck: New page: Asset Save: Pause_WB
+[2024.02.22-07.01.54:281][965]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause_WB.Pause_WB
+[2024.02.22-07.02.19:060][469]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.22-07.02.19:064][469]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.077
+[2024.02.22-07.02.19:065][469]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Add_Vocab_WB] ([2] browsable assets)...
+[2024.02.22-07.02.19:068][469]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Add_Vocab_WB.Add_Vocab_WB]
+[2024.02.22-07.02.19:069][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Add_Vocab_WB]
+[2024.02.22-07.02.19:069][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Add_Vocab_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Add_Vocab_WB_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-07.02.19:075][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Add_Vocab_WB_Auto8
+[2024.02.22-07.02.19:075][469]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Add_Vocab_WB_Auto886D334DE4EACFAF9BC85BD86C11CB407.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Add_Vocab_WB_Auto8.uasset'
+[2024.02.22-07.02.19:076][469]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Lose_WB] ([2] browsable assets)...
+[2024.02.22-07.02.19:079][469]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Lose_WB.Lose_WB]
+[2024.02.22-07.02.19:079][469]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lose_WB]
+[2024.02.22-07.02.19:079][469]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-07.02.19:090][469]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Lose_WB_Auto8
+[2024.02.22-07.02.19:090][469]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WB_Auto860BE08294B766B5043D8F9B0758C9EA4.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto8.uasset'
+[2024.02.22-07.02.19:091][469]LogFileHelpers: Auto-saving content packages took 0.027
+[2024.02.22-07.03.31:095][154]BlueprintLog: New page: Compile Pause_WB
+[2024.02.22-07.03.31:241][154]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.02.22-07.03.32:305][165]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-07.03.32:371][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Pause_WB.uasset" SILENT=true
+[2024.02.22-07.03.32:387][165]LogSavePackage: Moving output files for package: /Game/UI/Pause_WB
+[2024.02.22-07.03.32:388][165]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Pause_WB78B98F39495FF6C330C36D93F731ED86.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Pause_WB.uasset'
+[2024.02.22-07.03.32:400][165]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 7.90 sec)
+[2024.02.22-07.03.32:416][165]AssetCheck: New page: Asset Save: Pause_WB
+[2024.02.22-07.03.32:416][165]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause_WB.Pause_WB
+[2024.02.22-07.03.51:157][550]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-07.03.51:157][550]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-07.04.23:976][181]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-07.05.52:920][913]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-07.06.55:450][150]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-07.07.37:409][898]BlueprintLog: New page: Compile Lose_WB
+[2024.02.22-07.07.37:533][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2024.02.22-07.07.41:625][961]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-07.08.13:732][526]BlueprintLog: New page: Compile Win_WB
+[2024.02.22-07.08.13:931][526]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2024.02.22-07.08.39:616][346]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.02.22-07.08.39:662][346]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.22-07.08.39:672][346]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.22-07.08.39:688][347]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.22-07.08.48:919][542]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Highscore_WB
+[2024.02.22-07.08.49:117][542]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.22-07.09.02:392][140]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.02.22-07.09.02:403][140]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.22-07.09.02:412][140]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.22-07.09.02:427][141]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.22-07.09.10:732][312]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> Setting_WB
+[2024.02.22-07.09.10:937][312]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.22-07.09.34:927][775]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Setting_WB.Setting_WB
+[2024.02.22-07.09.34:928][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-07.09.35:070][775]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-07.09.35:820][775]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-07.09.35:820][775]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-07.09.47:080][971]LogWorld: UWorld::CleanupWorld for World_56, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-07.09.47:080][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-07.09.47:093][971]LogWorld: UWorld::CleanupWorld for World_55, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-07.09.47:093][971]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-07.10.01:319][196]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-07.11.34:929][704]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-07.12.13:988][495]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-07.12.52:865][ 63]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.02.22-07.12.52:878][ 63]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.22-07.12.52:890][ 63]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.22-07.12.52:908][ 64]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.22-07.12.54:759][101]LogSlate: Warning: Ignoring SetUserFocus because it's not an active modal Window (user 0 not set to SEditableText [SEditableTextBox.cpp(57)].
+[2024.02.22-07.12.54:759][101]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> P
+[2024.02.22-07.12.54:912][101]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.22-07.12.55:033][101]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.22-07.12.55:039][101]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.099
+[2024.02.22-07.12.55:041][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Win_WB] ([2] browsable assets)...
+[2024.02.22-07.12.55:045][101]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Win_WB.Win_WB]
+[2024.02.22-07.12.55:045][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Win_WB]
+[2024.02.22-07.12.55:045][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Win_WB_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-07.12.55:061][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Win_WB_Auto9
+[2024.02.22-07.12.55:061][101]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Win_WB_Auto9A15E16C54E06F0AAC068BEA736E5A047.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Win_WB_Auto9.uasset'
+[2024.02.22-07.12.55:062][101]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Lose_WB] ([2] browsable assets)...
+[2024.02.22-07.12.55:065][101]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Lose_WB.Lose_WB]
+[2024.02.22-07.12.55:065][101]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lose_WB]
+[2024.02.22-07.12.55:065][101]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-07.12.55:078][101]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Lose_WB_Auto9
+[2024.02.22-07.12.55:078][101]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WB_Auto965D9399C44205E409EA7B5894639006D.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto9.uasset'
+[2024.02.22-07.12.55:079][101]LogFileHelpers: Auto-saving content packages took 0.040
+[2024.02.22-07.13.07:966][415]LogContentBrowser: Attempting asset rename: P -> Play_WB
+[2024.02.22-07.13.08:861][415]LogMetaData: Removing '/Game/UI/Play_WB.SKEL_Play_WB_C' ref from Metadata '/Game/UI/P.PackageMetaData'
+[2024.02.22-07.13.08:861][415]LogMetaData: Removing '/Game/UI/Play_WB.Play_WB_C' ref from Metadata '/Game/UI/P.PackageMetaData'
+[2024.02.22-07.13.08:861][415]LogMetaData: Removing '/Game/UI/Play_WB.Play_WB:EventGraph.K2Node_Event_0' ref from Metadata '/Game/UI/P.PackageMetaData'
+[2024.02.22-07.13.08:861][415]LogMetaData: Removing '/Game/UI/Play_WB.Play_WB:EventGraph.K2Node_Event_1' ref from Metadata '/Game/UI/P.PackageMetaData'
+[2024.02.22-07.13.08:861][415]LogMetaData: Removing '/Game/UI/Play_WB.Play_WB:EventGraph.K2Node_Event_2' ref from Metadata '/Game/UI/P.PackageMetaData'
+[2024.02.22-07.13.08:871][415]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-07.13.08:933][415]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Play_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Play_WB.uasset" SILENT=true
+[2024.02.22-07.13.08:939][415]LogSavePackage: Moving output files for package: /Game/UI/Play_WB
+[2024.02.22-07.13.08:939][415]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Play_WB25B22CB340551C9E8FDF3BAE52F80A5B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Play_WB.uasset'
+[2024.02.22-07.13.09:218][415]LogFileHelpers: InternalPromptForCheckoutAndSave took 346 ms (total: 8.25 sec)
+[2024.02.22-07.13.09:611][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.02.22-07.13.09:682][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.02.22-07.13.09:747][415]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.22-07.13.09:755][415]AssetCheck: New page: Asset Save: Play_WB
+[2024.02.22-07.13.09:756][415]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Play_WB.Play_WB
+[2024.02.22-07.22.57:522][836]LogUObjectHash: Compacting FUObjectHashTables data took  63.51ms
+[2024.02.22-07.22.57:669][836]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 2.031
+[2024.02.22-07.22.57:707][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Add_Vocab_WB] ([2] browsable assets)...
+[2024.02.22-07.22.57:809][836]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Add_Vocab_WB.Add_Vocab_WB]
+[2024.02.22-07.22.57:809][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Add_Vocab_WB]
+[2024.02.22-07.22.57:810][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Add_Vocab_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Add_Vocab_WB_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-07.22.58:061][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Add_Vocab_WB_Auto0
+[2024.02.22-07.22.58:062][836]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Add_Vocab_WB_Auto09C7BA7B54DFAD04B6A57B2A2ABE929E3.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Add_Vocab_WB_Auto0.uasset'
+[2024.02.22-07.22.58:494][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Win_WB] ([2] browsable assets)...
+[2024.02.22-07.22.58:520][836]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Win_WB.Win_WB]
+[2024.02.22-07.22.58:520][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Win_WB]
+[2024.02.22-07.22.58:520][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Win_WB_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-07.22.58:612][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Win_WB_Auto0
+[2024.02.22-07.22.58:613][836]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Win_WB_Auto02F5D717C4AC02C837CBC17A9C468ED1B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Win_WB_Auto0.uasset'
+[2024.02.22-07.22.58:621][836]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Lose_WB] ([2] browsable assets)...
+[2024.02.22-07.22.58:640][836]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Lose_WB.Lose_WB]
+[2024.02.22-07.22.58:640][836]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lose_WB]
+[2024.02.22-07.22.58:640][836]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-07.22.58:709][836]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Lose_WB_Auto0
+[2024.02.22-07.22.58:709][836]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WB_Auto0A5D0E8D5427426B48A9DCFAD7A38E48B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto0.uasset'
+[2024.02.22-07.22.58:710][836]LogFileHelpers: Auto-saving content packages took 1.039
+[2024.02.22-07.29.29:178][  8]LogDerivedDataCache: C:/Users/Mai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.330 and deleted 0 files with total size 0 MiB. Scanned 1342 files in 1342 folders with total size 33 MiB.
+[2024.02.22-08.31.31:751][202]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [994593ms] waiting for h/w. InstanceID=1
+[2024.02.22-08.31.31:775][202]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3412
+[2024.02.22-10.32.45:161][202]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-7273439ms], ThreadID=3412
+[2024.02.22-10.32.46:703][202]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [7278460ms] waiting for h/w. InstanceID=1
+[2024.02.22-10.32.47:169][202]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.22-10.32.47:713][203]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.22-10.32.47:778][203]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{69bda79d-8788-4db1-90fb-e9e1e158e607}, Name=Speakers/Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=7279202.00
+[2024.02.22-10.32.47:786][203]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.22-10.32.47:799][203]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.22-10.32.48:214][204]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.22-10.32.48:216][204]LogHttp: Warning: 000008EEDE79DC00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.22-10.32.48:218][204]LogHttp: Warning: 000008EEDE79DC00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.02.22-10.32.48:218][204]LogHttp: Warning: 000008EEDE79DC00: libcurl info message cache 0 (Too old connection (7283 seconds idle), disconnect it)
+[2024.02.22-10.32.48:218][204]LogHttp: Warning: 000008EEDE79DC00: libcurl info message cache 1 (Connection 8 seems to be dead)
+[2024.02.22-10.32.48:218][204]LogHttp: Warning: 000008EEDE79DC00: libcurl info message cache 2 (Closing connection 8)
+[2024.02.22-10.32.48:218][204]LogHttp: Warning: 000008EEDE79DC00: libcurl info message cache 3 (Hostname in DNS cache was stale, zapped)
+[2024.02.22-10.32.48:218][204]LogHttp: Warning: 000008EEDE79DC00: libcurl info message cache 4 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.02.22-10.32.48:218][204]LogHttp: Warning: 000008EEDE79DC00: libcurl info message cache 5 (Closing connection 9)
+[2024.02.22-10.32.48:218][204]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.22-10.32.48:223][204]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3412
+[2024.02.22-10.32.48:714][205]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.22-10.32.48:720][205]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{69bda79d-8788-4db1-90fb-e9e1e158e607}, Name=Speakers/Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=475.58
+[2024.02.22-10.32.48:721][205]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.22-10.32.48:736][205]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.22-10.47.10:723][783]LogDerivedDataCache: C:/Users/Mai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.334 and deleted 0 files with total size 0 MiB. Scanned 1342 files in 1342 folders with total size 33 MiB.
+[2024.02.22-11.05.35:718][297]BlueprintLog: New page: Compile Setting_WB
+[2024.02.22-11.05.37:345][297]LogUObjectHash: Compacting FUObjectHashTables data took  34.67ms
+[2024.02.22-11.05.45:528][454]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.05.45:528][454]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.07.05:737][529]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.07.05:739][529]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.07.05:739][529]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.07.37:374][420]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.07.37:374][420]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.08.57:348][983]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-11.09.52:835][988]BlueprintLog: New page: Compile Setting_WB
+[2024.02.22-11.09.53:012][988]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2024.02.22-11.09.53:819][996]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.09.53:916][996]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Setting_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Setting_WB.uasset" SILENT=true
+[2024.02.22-11.09.53:956][996]LogSavePackage: Moving output files for package: /Game/UI/Setting_WB
+[2024.02.22-11.09.53:957][996]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Setting_WBDDAC89514903BC9B8811C08BD270B7E2.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Setting_WB.uasset'
+[2024.02.22-11.09.54:173][996]LogFileHelpers: InternalPromptForCheckoutAndSave took 354 ms (total: 8.60 sec)
+[2024.02.22-11.09.54:459][996]AssetCheck: New page: Asset Save: Setting_WB
+[2024.02.22-11.09.54:460][996]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Setting_WB.Setting_WB
+[2024.02.22-11.10.09:784][336]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.10.09:784][336]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.10.48:801][258]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.10.48:801][258]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.10.48:801][258]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.11.11:025][978]BlueprintLog: New page: Compile Pause_WB
+[2024.02.22-11.11.11:261][978]LogUObjectHash: Compacting FUObjectHashTables data took  14.80ms
+[2024.02.22-11.11.12:009][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.11.12:073][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Pause_WB.uasset" SILENT=true
+[2024.02.22-11.11.12:114][984]LogSavePackage: Moving output files for package: /Game/UI/Pause_WB
+[2024.02.22-11.11.12:115][984]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Pause_WBE939EBA14746DEF9676B539A40A2E4B0.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Pause_WB.uasset'
+[2024.02.22-11.11.12:124][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 8.72 sec)
+[2024.02.22-11.11.12:133][984]AssetCheck: New page: Asset Save: Pause_WB
+[2024.02.22-11.11.12:133][984]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Pause_WB.Pause_WB
+[2024.02.22-11.11.30:684][483]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.11.30:684][483]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.13.58:512][750]BlueprintLog: New page: Compile Setting_WB
+[2024.02.22-11.13.58:645][750]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2024.02.22-11.13.59:862][764]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.13.59:898][764]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Setting_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Setting_WB.uasset" SILENT=true
+[2024.02.22-11.13.59:908][764]LogSavePackage: Moving output files for package: /Game/UI/Setting_WB
+[2024.02.22-11.13.59:909][764]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Setting_WB3EC86B5B4C662012B5FFE79BFF841836.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Setting_WB.uasset'
+[2024.02.22-11.13.59:917][764]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 8.77 sec)
+[2024.02.22-11.13.59:925][764]AssetCheck: New page: Asset Save: Setting_WB
+[2024.02.22-11.13.59:925][764]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Setting_WB.Setting_WB
+[2024.02.22-11.15.11:316][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2024.02.22-11.15.11:325][450]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.105
+[2024.02.22-11.15.11:328][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/StageMap_WB] ([2] browsable assets)...
+[2024.02.22-11.15.11:332][450]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB]
+[2024.02.22-11.15.11:332][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/StageMap_WB]
+[2024.02.22-11.15.11:332][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.15.11:349][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/StageMap_WB_Auto1
+[2024.02.22-11.15.11:350][450]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB_Auto147BC27A544A83FCF33394CA94450067A.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto1.uasset'
+[2024.02.22-11.15.11:352][450]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Pause_WB] ([2] browsable assets)...
+[2024.02.22-11.15.11:355][450]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Pause_WB.Pause_WB]
+[2024.02.22-11.15.11:355][450]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Pause_WB]
+[2024.02.22-11.15.11:355][450]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Pause_WB_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.15.11:368][450]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Pause_WB_Auto1
+[2024.02.22-11.15.11:368][450]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Pause_WB_Auto1A2A0B39841A4E708AA0553B09A763287.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Pause_WB_Auto1.uasset'
+[2024.02.22-11.15.11:369][450]LogFileHelpers: Auto-saving content packages took 0.043
+[2024.02.22-11.16.46:711][520]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.16.46:711][520]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.17.41:750][735]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.17.41:751][735]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.17.41:751][735]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2024.02.22-11.18.02:775][415]BlueprintLog: New page: Compile StageMap_WB
+[2024.02.22-11.18.02:933][415]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.02.22-11.18.06:567][474]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.18.06:567][474]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.18.16:642][648]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.18.16:642][648]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.18.45:609][187]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.18.45:610][187]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.21.02:111][716]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-11.26.01:720][ 77]LogUObjectHash: Compacting FUObjectHashTables data took  14.95ms
+[2024.02.22-11.26.01:733][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.944
+[2024.02.22-11.26.01:735][ 77]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/StageMap_WB] ([2] browsable assets)...
+[2024.02.22-11.26.01:743][ 77]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB]
+[2024.02.22-11.26.01:743][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/StageMap_WB]
+[2024.02.22-11.26.01:743][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.26.01:775][ 77]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/StageMap_WB_Auto2
+[2024.02.22-11.26.01:776][ 77]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB_Auto241CF399449A5329C16752D9B1A2415DD.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto2.uasset'
+[2024.02.22-11.26.01:778][ 77]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Pause_WB] ([2] browsable assets)...
+[2024.02.22-11.26.01:781][ 77]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Pause_WB.Pause_WB]
+[2024.02.22-11.26.01:781][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Pause_WB]
+[2024.02.22-11.26.01:781][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Pause_WB_Auto2.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.26.01:807][ 77]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Pause_WB_Auto2
+[2024.02.22-11.26.01:807][ 77]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Pause_WB_Auto243CB53A64091426D49CADE972D3DEE72.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Pause_WB_Auto2.uasset'
+[2024.02.22-11.26.01:808][ 77]LogFileHelpers: Auto-saving content packages took 0.074
+[2024.02.22-11.26.25:358][505]BlueprintLog: New page: Compile Pause_WB
+[2024.02.22-11.26.25:504][505]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.02.22-11.28.43:652][ 96]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.28.43:652][ 96]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.30.24:635][219]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-11.31.16:111][844]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/UMG': No such file or directory
+[2024.02.22-11.32.47:062][380]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-11.36.04:219][ 77]LogUObjectHash: Compacting FUObjectHashTables data took  51.20ms
+[2024.02.22-11.36.04:290][ 77]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 1.939
+[2024.02.22-11.36.04:306][ 77]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Setting_WB] ([2] browsable assets)...
+[2024.02.22-11.36.04:323][ 77]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Setting_WB.Setting_WB]
+[2024.02.22-11.36.04:324][ 77]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Setting_WB]
+[2024.02.22-11.36.04:324][ 77]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Setting_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Setting_WB_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.36.04:415][ 77]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Setting_WB_Auto3
+[2024.02.22-11.36.04:415][ 77]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Setting_WB_Auto3341FDBE64167EFE8CC99149591CE23DD.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Setting_WB_Auto3.uasset'
+[2024.02.22-11.36.04:427][ 77]LogFileHelpers: Auto-saving content packages took 0.135
+[2024.02.22-11.39.51:100][802]BlueprintLog: New page: Compile Setting_WB
+[2024.02.22-11.39.52:056][802]LogUObjectHash: Compacting FUObjectHashTables data took  19.16ms
+[2024.02.22-11.40.10:205][130]LogContentBrowser: Attempting asset rename: images -> assets
+[2024.02.22-11.40.12:053][130]LogShaderCompilers: Display: ================================================
+[2024.02.22-11.40.12:053][130]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.02.22-11.40.12:053][130]LogShaderCompilers: Display: Total job queries 156, among them cache hits 9 (5.77%)
+[2024.02.22-11.40.12:053][130]LogShaderCompilers: Display: Tracking 147 distinct input hashes that result in 107 distinct outputs (72.79%)
+[2024.02.22-11.40.12:053][130]LogShaderCompilers: Display: RAM used: 0.43 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.10%
+[2024.02.22-11.40.12:053][130]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100.00%)
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Job execution time: average 5.95 s, max 6.11 s
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Job life time (pending + execution): average 5.97 s, max 6.12
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 6.12 s
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Average processing rate: 0.33 jobs/sec
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Total thread time: 5.12 s
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Total thread preprocess time: 1.11 s
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Percentage time preprocessing: 21.68%
+[2024.02.22-11.40.12:054][130]LogShaderCompilers: Display: Effective parallelization: 0.84 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.02.22-11.40.12:055][130]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2024.02.22-11.40.12:055][130]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2024.02.22-11.40.12:055][130]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 2.42 sec, max 2.42 sec, min 2.42 sec)
+[2024.02.22-11.40.12:055][130]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2024.02.22-11.40.12:055][130]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 52.84% of total time (compiled    1 times, average 2.71 sec, max 2.71 sec, min 2.71 sec)
+[2024.02.22-11.40.12:055][130]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 47.16% of total time (compiled    1 times, average 2.42 sec, max 2.42 sec, min 2.42 sec)
+[2024.02.22-11.40.12:055][130]LogShaderCompilers: Display: ================================================
+[2024.02.22-11.40.12:142][130]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.40.12:231][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/Menu_BG" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/Menu_BG.uasset" SILENT=true
+[2024.02.22-11.40.12:331][130]LogSavePackage: Moving output files for package: /Game/UI/assets/Menu_BG
+[2024.02.22-11.40.12:331][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Menu_BG2081582D4EE78764FBB6CEB8718FBDDD.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/Menu_BG.uasset'
+[2024.02.22-11.40.12:336][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/Menu_BG" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/Menu_BG.uasset" SILENT=true
+[2024.02.22-11.40.12:340][130]LogSavePackage: Moving output files for package: /Game/UI/images/Menu_BG
+[2024.02.22-11.40.12:341][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Menu_BG15BE6A6E462E0FC98942B9AE616C1282.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/Menu_BG.uasset'
+[2024.02.22-11.40.12:349][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/img4" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/img4.uasset" SILENT=true
+[2024.02.22-11.40.12:365][130]LogSavePackage: Moving output files for package: /Game/UI/assets/img4
+[2024.02.22-11.40.12:365][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img4D5264AFD44D69824C21C979A75D0FE5D.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/img4.uasset'
+[2024.02.22-11.40.12:366][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/img4" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img4.uasset" SILENT=true
+[2024.02.22-11.40.12:369][130]LogSavePackage: Moving output files for package: /Game/UI/images/img4
+[2024.02.22-11.40.12:369][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img4A90307A845D24AA3D363F5BD5E9162C5.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img4.uasset'
+[2024.02.22-11.40.12:373][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/Button_Normal" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/Button_Normal.uasset" SILENT=true
+[2024.02.22-11.40.12:377][130]LogSavePackage: Moving output files for package: /Game/UI/assets/Button_Normal
+[2024.02.22-11.40.12:378][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Button_Normal80E5B2D44DCF574AD64BA38A604342CD.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/Button_Normal.uasset'
+[2024.02.22-11.40.12:379][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/Button_Normal" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/Button_Normal.uasset" SILENT=true
+[2024.02.22-11.40.12:380][130]LogSavePackage: Moving output files for package: /Game/UI/images/Button_Normal
+[2024.02.22-11.40.12:381][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Button_NormalC0D8515847985D7075BE71AB3C10AF04.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/Button_Normal.uasset'
+[2024.02.22-11.40.12:384][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/Button_Hovered" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/Button_Hovered.uasset" SILENT=true
+[2024.02.22-11.40.12:389][130]LogSavePackage: Moving output files for package: /Game/UI/assets/Button_Hovered
+[2024.02.22-11.40.12:390][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Button_Hovered241A340B4D2FBF73C9B26BBC3FC27A1C.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/Button_Hovered.uasset'
+[2024.02.22-11.40.12:391][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/Button_Hovered" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/Button_Hovered.uasset" SILENT=true
+[2024.02.22-11.40.12:393][130]LogSavePackage: Moving output files for package: /Game/UI/images/Button_Hovered
+[2024.02.22-11.40.12:394][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Button_Hovered58F0902F4817CC8C24A50D8975AF4C1C.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/Button_Hovered.uasset'
+[2024.02.22-11.40.12:396][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/lv5" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/lv5.uasset" SILENT=true
+[2024.02.22-11.40.12:455][130]LogSavePackage: Moving output files for package: /Game/UI/assets/lv5
+[2024.02.22-11.40.12:455][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/lv5E0B1976746FA118930FBBA8A3C216133.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/lv5.uasset'
+[2024.02.22-11.40.12:465][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/lv5" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/lv5.uasset" SILENT=true
+[2024.02.22-11.40.12:467][130]LogSavePackage: Moving output files for package: /Game/UI/images/lv5
+[2024.02.22-11.40.12:467][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/lv5D67211394FAB9DD9F62F6EB4AFF96020.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/lv5.uasset'
+[2024.02.22-11.40.12:469][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/lv4" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/lv4.uasset" SILENT=true
+[2024.02.22-11.40.12:506][130]LogSavePackage: Moving output files for package: /Game/UI/assets/lv4
+[2024.02.22-11.40.12:506][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/lv4CF7471B84A7261EC7797A9A9D3237A2B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/lv4.uasset'
+[2024.02.22-11.40.12:514][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/lv4" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/lv4.uasset" SILENT=true
+[2024.02.22-11.40.12:515][130]LogSavePackage: Moving output files for package: /Game/UI/images/lv4
+[2024.02.22-11.40.12:516][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/lv4C47B82094F793E78C5E022AF98368672.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/lv4.uasset'
+[2024.02.22-11.40.12:517][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/lv2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/lv2.uasset" SILENT=true
+[2024.02.22-11.40.12:558][130]LogSavePackage: Moving output files for package: /Game/UI/assets/lv2
+[2024.02.22-11.40.12:559][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/lv2FBEEC7D94880263800CF7EA67890C7F1.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/lv2.uasset'
+[2024.02.22-11.40.12:567][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/lv2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/lv2.uasset" SILENT=true
+[2024.02.22-11.40.12:568][130]LogSavePackage: Moving output files for package: /Game/UI/images/lv2
+[2024.02.22-11.40.12:568][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/lv2BFC2FAE549456D3AAE3B41B0B1DA390D.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/lv2.uasset'
+[2024.02.22-11.40.12:570][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/lv3" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/lv3.uasset" SILENT=true
+[2024.02.22-11.40.12:599][130]LogSavePackage: Moving output files for package: /Game/UI/assets/lv3
+[2024.02.22-11.40.12:599][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/lv3D589B7F9440D5B9BECC884A19DEC9E84.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/lv3.uasset'
+[2024.02.22-11.40.12:606][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/lv3" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/lv3.uasset" SILENT=true
+[2024.02.22-11.40.12:608][130]LogSavePackage: Moving output files for package: /Game/UI/images/lv3
+[2024.02.22-11.40.12:608][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/lv384B08D9D4EAC03323CA006B6CE47172B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/lv3.uasset'
+[2024.02.22-11.40.12:613][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/img1" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/img1.uasset" SILENT=true
+[2024.02.22-11.40.12:642][130]LogSavePackage: Moving output files for package: /Game/UI/assets/img1
+[2024.02.22-11.40.12:642][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img151801C774081DFE46785F4B51B734B3F.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/img1.uasset'
+[2024.02.22-11.40.12:648][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/img1" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img1.uasset" SILENT=true
+[2024.02.22-11.40.12:650][130]LogSavePackage: Moving output files for package: /Game/UI/images/img1
+[2024.02.22-11.40.12:651][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img16988BC2642A9DA1E90681583328CB857.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img1.uasset'
+[2024.02.22-11.40.12:664][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/new_logo" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/new_logo.uasset" SILENT=true
+[2024.02.22-11.40.12:677][130]LogSavePackage: Moving output files for package: /Game/UI/assets/new_logo
+[2024.02.22-11.40.12:677][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/new_logo7CAFFF004EE92936985162848E82C6CB.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/new_logo.uasset'
+[2024.02.22-11.40.12:678][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/new_logo" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/new_logo.uasset" SILENT=true
+[2024.02.22-11.40.12:680][130]LogSavePackage: Moving output files for package: /Game/UI/images/new_logo
+[2024.02.22-11.40.12:681][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/new_logo2DF2E23C4DD8BF8236165C82364ABFED.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/new_logo.uasset'
+[2024.02.22-11.40.12:687][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/logo_img" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/logo_img.uasset" SILENT=true
+[2024.02.22-11.40.12:704][130]LogSavePackage: Moving output files for package: /Game/UI/assets/logo_img
+[2024.02.22-11.40.12:704][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/logo_img4289BF5A4F31476FCE20B194CE4180B0.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/logo_img.uasset'
+[2024.02.22-11.40.12:705][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/logo_img" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/logo_img.uasset" SILENT=true
+[2024.02.22-11.40.12:709][130]LogSavePackage: Moving output files for package: /Game/UI/images/logo_img
+[2024.02.22-11.40.12:709][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/logo_img5A5FF72C49B02033943E0A8509C236DC.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/logo_img.uasset'
+[2024.02.22-11.40.12:713][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/logo1" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/logo1.uasset" SILENT=true
+[2024.02.22-11.40.12:722][130]LogSavePackage: Moving output files for package: /Game/UI/assets/logo1
+[2024.02.22-11.40.12:722][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/logo1A4743689493045BBD7823484EB059B9A.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/logo1.uasset'
+[2024.02.22-11.40.12:724][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/logo1" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/logo1.uasset" SILENT=true
+[2024.02.22-11.40.12:725][130]LogSavePackage: Moving output files for package: /Game/UI/images/logo1
+[2024.02.22-11.40.12:726][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/logo107385B68473CF42EF89DB59DF38D82E7.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/logo1.uasset'
+[2024.02.22-11.40.12:731][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/logo" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/logo.uasset" SILENT=true
+[2024.02.22-11.40.12:739][130]LogSavePackage: Moving output files for package: /Game/UI/assets/logo
+[2024.02.22-11.40.12:739][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/logo09FE202C486E67BD5AB5A4BA7CEC4ACE.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/logo.uasset'
+[2024.02.22-11.40.12:741][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/logo" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/logo.uasset" SILENT=true
+[2024.02.22-11.40.12:742][130]LogSavePackage: Moving output files for package: /Game/UI/images/logo
+[2024.02.22-11.40.12:743][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/logo6C7A08AE4C20DA830A0CD095B7FC9677.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/logo.uasset'
+[2024.02.22-11.40.12:749][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/img3" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/img3.uasset" SILENT=true
+[2024.02.22-11.40.12:760][130]LogSavePackage: Moving output files for package: /Game/UI/assets/img3
+[2024.02.22-11.40.12:761][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img3C7911DEF4224AC29C10F7D8F084FFD87.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/img3.uasset'
+[2024.02.22-11.40.12:762][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/img3" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img3.uasset" SILENT=true
+[2024.02.22-11.40.12:764][130]LogSavePackage: Moving output files for package: /Game/UI/images/img3
+[2024.02.22-11.40.12:765][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img3956065A140A23035704FD09459AD0EE0.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img3.uasset'
+[2024.02.22-11.40.12:771][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/img2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/img2.uasset" SILENT=true
+[2024.02.22-11.40.12:793][130]LogSavePackage: Moving output files for package: /Game/UI/assets/img2
+[2024.02.22-11.40.12:793][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img2096FFE0349D61D08C50B2A923F3F9250.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/assets/img2.uasset'
+[2024.02.22-11.40.12:795][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/images/img2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img2.uasset" SILENT=true
+[2024.02.22-11.40.12:796][130]LogSavePackage: Moving output files for package: /Game/UI/images/img2
+[2024.02.22-11.40.12:797][130]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/img27C7C98C94F2028DC054976913841C2FE.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/images/img2.uasset'
+[2024.02.22-11.40.13:378][130]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.23 sec (total: 10.0 sec)
+[2024.02.22-11.40.16:276][130]AssetCheck: New page: Asset Save: multiple assets
+[2024.02.22-11.40.16:277][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/Menu_BG.Menu_BG
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/img4.img4
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/Button_Normal.Button_Normal
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/Button_Hovered.Button_Hovered
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/img2.img2
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/img3.img3
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/logo.logo
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/logo1.logo1
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/logo_img.logo_img
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/new_logo.new_logo
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/img1.img1
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/lv3.lv3
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/lv2.lv2
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/lv4.lv4
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/lv5.lv5
+[2024.02.22-11.40.16:278][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/Button_Hovered.Button_Hovered
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/Button_Normal.Button_Normal
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/img4.img4
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/UI/images/Menu_BG.Menu_BG
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/img2.img2
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/img3.img3
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/logo.logo
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/logo1.logo1
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/logo_img.logo_img
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/new_logo.new_logo
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/lv5.lv5
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/lv4.lv4
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/lv2.lv2
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/lv3.lv3
+[2024.02.22-11.40.16:279][130]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/UI/assets/img1.img1
+[2024.02.22-11.40.27:527][276]LogInterchangeEngine: [Pending] Importing
+[2024.02.22-11.40.27:528][276]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.02.22-11.40.27:562][277]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.22-11.40.27:562][277]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.22-11.40.27:609][277]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.02.22-11.40.27:903][277]LogTexture: Display: Building textures: /Game/UI/assets/red_volume.red_volume (TFO_AutoDXT, 252x236 x1x1x1) (Required Memory Estimate: 9.439697 MB), EncodeSpeed: Fast
+[2024.02.22-11.40.27:922][277]LogTexture: Display: Building textures: /Game/UI/assets/green_volume.green_volume (BGRA8, 248x242 x1x1x1) (Required Memory Estimate: 1.817722 MB), EncodeSpeed: Fast
+[2024.02.22-11.40.27:924][277]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.02.22-11.40.27:947][277]LogInterchangeEngine: [Success] Import Done
+[2024.02.22-11.40.28:022][278]LogInterchangeEngine: [Success] Import Done
+[2024.02.22-11.40.49:765][674]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.49:766][674]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineLightProfiles: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineLightProfiles' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.49:766][674]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.49:766][674]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.49:766][674]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.52:941][813]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineResources: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineResources' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.54:684][851]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineResources/AICON-Red_Low.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineResources/AICON-Red_Low.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.54:684][851]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/UI: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/UI' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.54:684][851]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineMaterials: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineMaterials' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.57:148][927]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/UI/FrameMaterial.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/UI/FrameMaterial.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.40.57:148][927]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/Devices/Generic: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/Devices/Generic' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-11.41.38:598][664]BlueprintLog: New page: Compile Setting_WB
+[2024.02.22-11.41.38:903][664]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2024.02.22-11.41.51:740][856]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.41.51:814][856]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Setting_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Setting_WB.uasset" SILENT=true
+[2024.02.22-11.41.51:857][856]LogSavePackage: Moving output files for package: /Game/UI/Setting_WB
+[2024.02.22-11.41.51:859][856]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Setting_WBB5F2E5144C110436D4F3CF8907086E7E.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Setting_WB.uasset'
+[2024.02.22-11.41.51:869][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 10.1 sec)
+[2024.02.22-11.41.51:887][856]AssetCheck: New page: Asset Save: Setting_WB
+[2024.02.22-11.41.51:887][856]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Setting_WB.Setting_WB
