@@ -3728,3 +3728,511 @@ UnknownFunction []
 [2024.02.22-11.41.51:869][856]LogFileHelpers: InternalPromptForCheckoutAndSave took 128 ms (total: 10.1 sec)
 [2024.02.22-11.41.51:887][856]AssetCheck: New page: Asset Save: Setting_WB
 [2024.02.22-11.41.51:887][856]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Setting_WB.Setting_WB
+[2024.02.22-11.44.24:191][240]LogWorld: UWorld::CleanupWorld for World_63, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-11.44.24:202][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-11.44.24:315][240]LogWorld: UWorld::CleanupWorld for World_62, bSessionEnded=true, bCleanupResources=true
+[2024.02.22-11.44.24:315][240]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.02.22-11.45.04:587][946]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2024.02.22-11.45.04:604][946]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2024.02.22-11.45.04:614][946]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2024.02.22-11.45.04:636][947]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2024.02.22-11.45.06:677][988]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> NewWidgetBlueprint
+[2024.02.22-11.45.06:987][988]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2024.02.22-11.45.08:148][ 17]LogUObjectHash: Compacting FUObjectHashTables data took  23.07ms
+[2024.02.22-11.45.10:814][ 17]LogSlate: Window 'Delete Assets' being destroyed
+[2024.02.22-11.45.10:936][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.02.22-11.45.11:018][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.02.22-11.45.11:081][ 17]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.02.22-11.45.32:979][402]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.02.22-11.45.33:129][402]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.45.33:212][402]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Setting_WB_2" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Setting_WB_2.uasset" SILENT=true
+[2024.02.22-11.45.33:237][402]LogSavePackage: Moving output files for package: /Game/UI/Setting_WB_2
+[2024.02.22-11.45.33:237][402]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Setting_WB_2C51CC8EE4249BA25D586E6B3469B1F37.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Setting_WB_2.uasset'
+[2024.02.22-11.45.33:463][402]LogFileHelpers: InternalPromptForCheckoutAndSave took 334 ms (total: 10.4 sec)
+[2024.02.22-11.45.34:069][402]AssetCheck: New page: Asset Save: Setting_WB_2
+[2024.02.22-11.45.34:070][402]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Setting_WB_2.Setting_WB_2
+[2024.02.22-11.45.49:163][737]LogContentBrowser: Attempting asset rename: Setting_WB_2 -> Instruction_WB
+[2024.02.22-11.45.50:399][737]LogMetaData: Removing '/Game/UI/Instruction_WB.SKEL_Instruction_WB_C' ref from Metadata '/Game/UI/Setting_WB_2.PackageMetaData'
+[2024.02.22-11.45.50:399][737]LogMetaData: Removing '/Game/UI/Instruction_WB.Instruction_WB_C' ref from Metadata '/Game/UI/Setting_WB_2.PackageMetaData'
+[2024.02.22-11.45.50:399][737]LogMetaData: Removing '/Game/UI/Instruction_WB.SKEL_Instruction_WB_C:BndEvt__Setting_WB_back_btn_K2Node_ComponentBoundEvent_1_OnButtonClickedEvent__DelegateSignature' ref from Metadata '/Game/UI/Setting_WB_2.PackageMetaData'
+[2024.02.22-11.45.50:423][737]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-11.45.50:496][737]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Instruction_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Instruction_WB.uasset" SILENT=true
+[2024.02.22-11.45.50:528][737]LogSavePackage: Moving output files for package: /Game/UI/Instruction_WB
+[2024.02.22-11.45.50:528][737]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Instruction_WBAAE9CC334B63FC0D4710DE86BFE579AB.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Instruction_WB.uasset'
+[2024.02.22-11.45.50:702][737]LogFileHelpers: InternalPromptForCheckoutAndSave took 279 ms (total: 10.7 sec)
+[2024.02.22-11.45.51:056][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.02.22-11.45.51:118][737]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.02.22-11.45.51:178][737]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.02.22-11.45.51:352][737]SourceControl: rm 'Content/UI/Setting_WB_2.uasset'
+[2024.02.22-11.45.51:371][737]AssetCheck: New page: Asset Save: Instruction_WB
+[2024.02.22-11.45.51:371][737]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Instruction_WB.Instruction_WB
+[2024.02.22-11.45.58:914][868]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/Instruction_WB.Instruction_WB
+[2024.02.22-11.45.58:960][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-11.45.59:011][868]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.02.22-11.46.00:519][868]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.46.00:519][868]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2024.02.22-11.47.09:846][122]LogDerivedDataCache: C:/Users/Mai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.459 and deleted 0 files with total size 0 MiB. Scanned 1352 files in 1352 folders with total size 34 MiB.
+[2024.02.22-11.47.45:559][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.02.22-11.47.45:563][512]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.082
+[2024.02.22-11.47.45:565][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/MainMenu_WB] ([2] browsable assets)...
+[2024.02.22-11.47.45:566][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/MainMenu_WB.MainMenu_WB]
+[2024.02.22-11.47.45:566][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/MainMenu_WB]
+[2024.02.22-11.47.45:566][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:585][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/MainMenu_WB_Auto4
+[2024.02.22-11.47.45:586][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/MainMenu_WB_Auto4D06687B847343B93EF196B8159809ED3.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/MainMenu_WB_Auto4.uasset'
+[2024.02.22-11.47.45:588][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/StageMap_WB] ([2] browsable assets)...
+[2024.02.22-11.47.45:591][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/StageMap_WB.StageMap_WB]
+[2024.02.22-11.47.45:591][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/StageMap_WB]
+[2024.02.22-11.47.45:591][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/StageMap_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:611][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/StageMap_WB_Auto4
+[2024.02.22-11.47.45:612][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/StageMap_WB_Auto46A266E5246670CD91AE6D0A1D566F6EC.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/StageMap_WB_Auto4.uasset'
+[2024.02.22-11.47.45:614][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/BaseBtn_WB] ([2] browsable assets)...
+[2024.02.22-11.47.45:616][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/BaseBtn_WB.BaseBtn_WB]
+[2024.02.22-11.47.45:616][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/BaseBtn_WB]
+[2024.02.22-11.47.45:616][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/BaseBtn_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/BaseBtn_WB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:641][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/BaseBtn_WB_Auto4
+[2024.02.22-11.47.45:641][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/BaseBtn_WB_Auto4456892AE4268E23D559595B4D2C352CC.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/BaseBtn_WB_Auto4.uasset'
+[2024.02.22-11.47.45:642][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Add_Vocab_WB] ([2] browsable assets)...
+[2024.02.22-11.47.45:645][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Add_Vocab_WB.Add_Vocab_WB]
+[2024.02.22-11.47.45:645][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Add_Vocab_WB]
+[2024.02.22-11.47.45:645][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Add_Vocab_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Add_Vocab_WB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:655][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Add_Vocab_WB_Auto4
+[2024.02.22-11.47.45:656][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Add_Vocab_WB_Auto43A5BB2114340E3BAA2AE999CE25FBD6B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Add_Vocab_WB_Auto4.uasset'
+[2024.02.22-11.47.45:658][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Win_WB] ([2] browsable assets)...
+[2024.02.22-11.47.45:661][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Win_WB.Win_WB]
+[2024.02.22-11.47.45:661][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Win_WB]
+[2024.02.22-11.47.45:661][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Win_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Win_WB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:681][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Win_WB_Auto4
+[2024.02.22-11.47.45:681][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Win_WB_Auto4905EB17A49C15822F2FA99AD59F71987.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Win_WB_Auto4.uasset'
+[2024.02.22-11.47.45:683][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Lose_WB] ([2] browsable assets)...
+[2024.02.22-11.47.45:685][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Lose_WB.Lose_WB]
+[2024.02.22-11.47.45:685][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Lose_WB]
+[2024.02.22-11.47.45:685][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Lose_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:702][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Lose_WB_Auto4
+[2024.02.22-11.47.45:702][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Lose_WB_Auto4652BEE6E44207D42091B04AB47E2D6BC.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Lose_WB_Auto4.uasset'
+[2024.02.22-11.47.45:704][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Pause_WB] ([2] browsable assets)...
+[2024.02.22-11.47.45:707][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Pause_WB.Pause_WB]
+[2024.02.22-11.47.45:707][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Pause_WB]
+[2024.02.22-11.47.45:707][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Pause_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Pause_WB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:724][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Pause_WB_Auto4
+[2024.02.22-11.47.45:724][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Pause_WB_Auto4AD530B6F4CA1752242AF5DBEC09EAA1C.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Pause_WB_Auto4.uasset'
+[2024.02.22-11.47.45:726][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/assets/green_volume] ([1] browsable assets)...
+[2024.02.22-11.47.45:727][512]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/assets/green_volume.green_volume]
+[2024.02.22-11.47.45:727][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/assets/green_volume]
+[2024.02.22-11.47.45:727][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/green_volume" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/assets/green_volume_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:735][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/assets/green_volume_Auto4
+[2024.02.22-11.47.45:735][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/green_volume_Auto40E369DAB480D82B625CE879140FD20E9.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/assets/green_volume_Auto4.uasset'
+[2024.02.22-11.47.45:736][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/assets/red_volume] ([1] browsable assets)...
+[2024.02.22-11.47.45:737][512]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/assets/red_volume.red_volume]
+[2024.02.22-11.47.45:737][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/assets/red_volume]
+[2024.02.22-11.47.45:737][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/red_volume" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/assets/red_volume_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:740][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/assets/red_volume_Auto4
+[2024.02.22-11.47.45:740][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/red_volume_Auto4676C44EF4B5824203E1442B6A1AAFFA9.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/assets/red_volume_Auto4.uasset'
+[2024.02.22-11.47.45:741][512]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Instruction_WB] ([2] browsable assets)...
+[2024.02.22-11.47.45:744][512]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Instruction_WB.Instruction_WB]
+[2024.02.22-11.47.45:744][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Instruction_WB]
+[2024.02.22-11.47.45:744][512]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Instruction_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Instruction_WB_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-11.47.45:752][512]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Instruction_WB_Auto4
+[2024.02.22-11.47.45:753][512]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Instruction_WB_Auto4D61D9A8942884D627778BFAC8C45B6CF.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Instruction_WB_Auto4.uasset'
+[2024.02.22-11.47.45:754][512]LogFileHelpers: Auto-saving content packages took 0.191
+[2024.02.22-12.06.16:837][884]LogEditorTransaction: Undo Resize Widget
+[2024.02.22-12.07.19:844][733]LogUObjectHash: Compacting FUObjectHashTables data took  29.02ms
+[2024.02.22-12.07.19:853][733]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 1.134
+[2024.02.22-12.07.19:860][733]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/Instruction_WB] ([2] browsable assets)...
+[2024.02.22-12.07.19:866][733]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/Instruction_WB.Instruction_WB]
+[2024.02.22-12.07.19:866][733]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/Instruction_WB]
+[2024.02.22-12.07.19:866][733]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Instruction_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Instruction_WB_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-12.07.19:935][733]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/Instruction_WB_Auto5
+[2024.02.22-12.07.19:935][733]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Instruction_WB_Auto54DE7497D4BD0B542D7BBB9B688077DD8.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/Instruction_WB_Auto5.uasset'
+[2024.02.22-12.07.19:945][733]LogFileHelpers: Auto-saving content packages took 0.090
+[2024.02.22-12.09.00:177][347]LogInterchangeEngine: [Pending] Importing
+[2024.02.22-12.09.00:251][348]LogInterchangeEngine: [Pending] Importing
+[2024.02.22-12.09.00:519][348]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.22-12.09.00:627][349]LogTexture: Display: Building textures: /Game/UI/instruction.instruction (BGRA8, 248x42 x1x1x1) (Required Memory Estimate: 0.367126 MB), EncodeSpeed: Fast
+[2024.02.22-12.09.01:041][349]LogInterchangeEngine: [Success] Import Done
+[2024.02.22-12.09.01:143][350]LogInterchangeEngine: [Success] Import Done
+[2024.02.22-12.09.07:999][440]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.09.07:999][440]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineLightProfiles: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineLightProfiles' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.09.08:000][440]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.09.08:000][440]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.09.08:000][440]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.09.11:157][590]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorLandscapeResources: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorLandscapeResources' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.09.11:157][590]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial_Inst.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.09.11:157][590]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MATInst.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorMaterials/Cascade/CASC_BackgroundCube_MATInst.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.11.08:278][776]BlueprintLog: New page: Compile Instruction_WB
+[2024.02.22-12.11.08:674][776]LogUObjectHash: Compacting FUObjectHashTables data took   4.75ms
+[2024.02.22-12.11.24:764][991]LogInterchangeEngine: [Pending] Importing
+[2024.02.22-12.11.24:769][991]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2024.02.22-12.11.24:825][992]LogTexture: Display: Building textures: /Game/UI/assets/control.control (BGRA8, 130x68 x1x1x1) (Required Memory Estimate: 0.321022 MB), EncodeSpeed: Fast
+[2024.02.22-12.11.24:860][992]LogInterchangeEngine: [Pending] Importing
+[2024.02.22-12.11.25:121][992]LogInterchangeEngine: [Success] Import Done
+[2024.02.22-12.11.25:215][993]LogInterchangeEngine: [Success] Import Done
+[2024.02.22-12.11.34:462][198]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/ArtTools/RenderToTexture/Textures/127grey.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.11.34:462][198]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineLightProfiles: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineLightProfiles' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.11.34:462][198]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.11.34:462][198]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/MaterialTemplates/VertexAnimation/AdvancedFlag.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.11.34:462][198]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorResources/Ai_Spawnpoint.uasset: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorResources/Ai_Spawnpoint.uasset' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.11.37:707][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/Devices/Vive: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/Devices/Vive' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.11.37:707][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/Devices/Oculus: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/Devices/Oculus' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.11.37:707][306]SourceControl: fatal: C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/Devices/STEM: 'C:/Program Files/Epic Games/UE_5.1/Engine/Content/VREditor/Devices/STEM' is outside repository at 'C:/xampp/htdocs/DragonWordz'
+[2024.02.22-12.15.40:200][665]LogEditorViewport: Clicking Background
+[2024.02.22-12.15.41:419][669]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.22-12.15.43:902][699]BlueprintLog: New page: Compile Instruction_WB
+[2024.02.22-12.15.46:987][699]LogUObjectHash: Compacting FUObjectHashTables data took  66.76ms
+[2024.02.22-12.15.56:935][879]BlueprintLog: New page: Compile Instruction_WB
+[2024.02.22-12.15.57:192][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.02.22-12.15.57:955][881]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-12.15.58:039][881]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Instruction_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Instruction_WB.uasset" SILENT=true
+[2024.02.22-12.15.58:109][881]LogSavePackage: Moving output files for package: /Game/UI/Instruction_WB
+[2024.02.22-12.15.58:111][881]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Instruction_WB530D1FA246D4C9697194AA9CA202AD74.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Instruction_WB.uasset'
+[2024.02.22-12.15.58:127][881]LogFileHelpers: InternalPromptForCheckoutAndSave took 172 ms (total: 10.9 sec)
+[2024.02.22-12.15.58:406][881]AssetCheck: New page: Asset Save: Instruction_WB
+[2024.02.22-12.15.58:407][881]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Instruction_WB.Instruction_WB
+[2024.02.22-12.17.20:490][230]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2024.02.22-12.17.20:498][230]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelOne' took 0.170
+[2024.02.22-12.17.20:504][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/instruction] ([1] browsable assets)...
+[2024.02.22-12.17.20:507][230]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/instruction.instruction]
+[2024.02.22-12.17.20:507][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/instruction]
+[2024.02.22-12.17.20:507][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/instruction" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/instruction_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-12.17.20:526][230]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/instruction_Auto6
+[2024.02.22-12.17.20:526][230]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/instruction_Auto6D03F231B42BCFA72836BD69EE79ACF8B.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/instruction_Auto6.uasset'
+[2024.02.22-12.17.20:531][230]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/UI/assets/control] ([1] browsable assets)...
+[2024.02.22-12.17.20:533][230]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/UI/assets/control.control]
+[2024.02.22-12.17.20:533][230]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/assets/control]
+[2024.02.22-12.17.20:533][230]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/assets/control" FILE="../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/assets/control_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2024.02.22-12.17.20:542][230]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/assets/control_Auto6
+[2024.02.22-12.17.20:542][230]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/control_Auto655D610CB4486B8ED82FD698E6066330E.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Saved/Autosaves/Game/UI/assets/control_Auto6.uasset'
+[2024.02.22-12.17.20:549][230]LogFileHelpers: Auto-saving content packages took 0.051
+[2024.02.22-12.21.31:156][535]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.02.22-12.21.31:241][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/Instruction_WB" FILE="../../../../../../xampp/htdocs/DragonWordz/Content/UI/Instruction_WB.uasset" SILENT=true
+[2024.02.22-12.21.31:258][535]LogSavePackage: Moving output files for package: /Game/UI/Instruction_WB
+[2024.02.22-12.21.31:259][535]LogSavePackage: Moving '../../../../../../xampp/htdocs/DragonWordz/Saved/Instruction_WB624F99E94A5909921D942BA91DCF6489.tmp' to '../../../../../../xampp/htdocs/DragonWordz/Content/UI/Instruction_WB.uasset'
+[2024.02.22-12.21.31:268][535]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 11.0 sec)
+[2024.02.22-12.21.31:306][535]AssetCheck: New page: Asset Save: Instruction_WB
+[2024.02.22-12.21.31:306][535]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/Instruction_WB.Instruction_WB
+[2024.02.22-12.47.10:571][709]LogDerivedDataCache: C:/Users/Mai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.182 and deleted 0 files with total size 0 MiB. Scanned 1354 files in 1354 folders with total size 34 MiB.
+[2024.02.22-13.47.10:485][505]LogDerivedDataCache: C:/Users/Mai/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.096 and deleted 0 files with total size 0 MiB. Scanned 1354 files in 1354 folders with total size 34 MiB.
+[2024.02.22-14.23.32:811][811]LogHttp: Warning: 000008EEAF6C2300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.22-14.23.32:813][811]LogHttp: Warning: 000008EEAF6C2300: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.02.22-14.23.32:813][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 0 (Found bundle for host: 0x8ee6d960270 [serially])
+[2024.02.22-14.23.32:813][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 1 (Re-using existing connection #13 with host datarouter.ol.epicgames.com)
+[2024.02.22-14.23.32:814][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (34.202.103.130) port 443 (#13))
+[2024.02.22-14.23.32:814][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.02.22-14.23.32:814][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.02.22-14.23.32:814][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.02.22-14.23.32:814][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.02.22-14.23.32:814][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 7 (Closing connection 13)
+[2024.02.22-14.23.32:814][811]LogHttp: Warning: 000008EEAF6C2300: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.02.22-14.23.32:814][811]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6CC300: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6CC300: request failed, libcurl error: 28 (Timeout was reached)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6CC300: libcurl info message cache 0 (Too old connection (649 seconds idle), disconnect it)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6CC300: libcurl info message cache 1 (Connection 14 seems to be dead)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6CC300: libcurl info message cache 2 (Closing connection 14)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6CC300: libcurl info message cache 3 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6CC300: libcurl info message cache 4 (Connection time-out)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6CC300: libcurl info message cache 5 (Closing connection 15)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: request failed, libcurl error: 7 (Couldn't connect to server)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 0 (Hostname datarouter.ol.epicgames.com was found in DNS cache)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 1 (  Trying 34.204.221.32:443...)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 2 (connect to 34.204.221.32 port 443 failed: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 3 (  Trying 52.201.32.88:443...)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 4 (connect to 52.201.32.88 port 443 failed: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 5 (  Trying 3.92.36.70:443...)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 6 (connect to 3.92.36.70 port 443 failed: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 7 (  Trying 18.206.73.146:443...)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 8 (connect to 18.206.73.146 port 443 failed: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 9 (  Trying 54.243.217.71:443...)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 10 (connect to 54.243.217.71 port 443 failed: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 11 (  Trying 52.200.249.23:443...)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 12 (connect to 52.200.249.23 port 443 failed: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 13 (  Trying 34.230.219.176:443...)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 14 (connect to 34.230.219.176 port 443 failed: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 15 (  Trying 44.215.209.44:443...)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 16 (connect to 44.215.209.44 port 443 failed: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 17 (Failed to connect to datarouter.ol.epicgames.com port 443 after 73 ms: Host unreachable)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: 000008EEAF6C8200: libcurl info message cache 18 (Closing connection 16)
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.22-14.52.37:292][502]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.22-14.53.17:378][612]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5002ms] waiting for h/w. InstanceID=1
+[2024.02.23-02.05.27:449][612]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [40333732ms] waiting for h/w. InstanceID=1
+[2024.02.23-02.05.27:789][612]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.23-02.05.28:435][612]LogD3D11RHI: Timed out while waiting for GPU to catch up. (500 ms)
+[2024.02.23-02.05.32:450][612]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2024.02.23-02.05.32:944][612]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2024.02.23-02.05.33:181][612]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=3412
+[2024.02.23-02.05.34:981][618]LogHttp: Warning: 000008EEAF6CBE00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.02.23-02.05.34:982][618]LogHttp: Warning: 000008EEAF6CBE00: request failed, libcurl error: 6 (Couldn't resolve host name)
+[2024.02.23-02.05.34:982][618]LogHttp: Warning: 000008EEAF6CBE00: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2024.02.23-02.05.34:982][618]LogHttp: Warning: 000008EEAF6CBE00: libcurl info message cache 1 (Could not resolve host: datarouter.ol.epicgames.com)
+[2024.02.23-02.05.34:982][618]LogHttp: Warning: 000008EEAF6CBE00: libcurl info message cache 2 (Closing connection 17)
+[2024.02.23-02.05.34:982][618]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FEEB3E1-4D9D-E02A-8A3C-08BF092C665C%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=b5ff316942a1afafe2cfdfaca360d535%7Cd693280b67574b5db28fc29e2f1d3085%7Cd26d264b-1fba-4cd0-b843-8d24173b3908&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.02.23-02.05.36:375][621]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{69bda79d-8788-4db1-90fb-e9e1e158e607}, Name=Speakers/Headphones (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=2878.03
+[2024.02.23-02.05.36:381][621]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2024.02.23-02.05.36:397][621]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.02.23-02.08.07:162][ 64]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.23-02.08.07:685][ 65]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2024.02.23-02.08.09:041][ 66]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2024.02.23-02.08.18:195][200]LogD3D11RHI: Error: Direct3DDevice->CreateTexture2D(TextureDesc,SubResourceData,OutTexture2D) failed with error E_OUTOFMEMORY
+ at D:\build\++UE5\Sync\Engine\Source\Runtime\Windows\D3D11RHI\Private\D3D11Texture.cpp:321
+ Size=1524x860x1 PF=11 D3DFormat=DXGI_FORMAT_R32G8X24_TYPELESS(0x00000013), NumMips=1, Flags=D3D11_BIND_DEPTH_STENCIL D3D11_BIND_SHADER_RESOURCE , Usage:0x0, CPUFlags:0x0, MiscFlags:0x0, SampleCount:0x1, SampleQuality:0x0, SubresPtr:0x0000000000000000, SubresPitch:0, SubresSlicePitch:0, DebugInfo: 
+[2024.02.23-02.08.18:196][200]LogD3D11RHI: Error: 	Budget:	1686.13 MB
+[2024.02.23-02.08.18:196][200]LogD3D11RHI: Error: 	Used:	  74.10 MB
+[2024.02.23-02.08.27:308][200]LogConsoleResponse:     15 = 73984 KB (2D 4352x4352 PF_FloatRGB UAV) Lumen.RadianceCache.FinalRadianceAtlas
+[2024.02.23-02.08.27:309][200]LogConsoleResponse:     33 = 65536 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneDirectLighting
+[2024.02.23-02.08.27:309][200]LogConsoleResponse:     36 = 65536 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneFinalLighting
+[2024.02.23-02.08.27:310][200]LogConsoleResponse:     34 = 65536 KB (2D 4096x4096 PF_FloatR11G11B10 RT UAV) Lumen.SceneIndirectLighting
+[2024.02.23-02.08.27:310][200]LogConsoleResponse:     32 = 65536 KB (2D 4096x4096 PF_FloatR11G11B10 RT) Lumen.SceneEmissive
+[2024.02.23-02.08.27:310][200]LogConsoleResponse:    232 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.RadianceCache.FilteredRadianceProbeAtlasTexture
+[2024.02.23-02.08.27:310][200]LogConsoleResponse:     14 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.RadianceCache.RadianceProbeAtlasTextureSource
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:    227 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.Radiosity.FilteredTraceRadianceAtlas
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     57 = 65536 KB (2D 4096x4096 PF_FloatRGB UAV) Lumen.Radiosity.TraceRadianceAtlas
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     29 = 65536 KB (2D 4096x4096 PF_R8G8B8A8 RT) Lumen.SceneAlbedo
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     38 = 57344 KB (3D 1024x1024x56 PF_R8 UAV) GlobalDistanceField.PageAtlas
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     28 = 32768 KB (2D 4096x4096 PF_G16 RT) Lumen.SceneDepth
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     13 = 32768 KB (2D 4096x4096 PF_R16F UAV) Lumen.RadianceCache.DepthProbeAtlasTexture
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     31 = 32768 KB (2D 4096x4096 PF_R8G8 RT) Lumen.SceneNormal
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:    199 = 32768 KB (2D 8192x2048 PF_ShadowDepth) WholeSceneShadowmap
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     19 = 21504 KB (2D 2048x2048 PF_FloatRGB UAV) Lumen.RadianceCache.FinalRadianceAtlas
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:    195 = 20479 KB (2D 3048x1720 PF_R32_FLOAT RT) Editor.PrimitivesDepthHistory
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     30 = 16384 KB (2D 4096x4096 PF_G8 RT) Lumen.SceneOpacity
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     35 = 16384 KB (2D 4096x4096 PF_R8 RT UAV) Lumen.SceneNumFramesAccumulatedAtlas
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     61 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHBlueAtlas
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     60 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHGreenAtlas
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     59 = 8192 KB (2D 1024x1024 PF_FloatRGBA UAV) Lumen.Radiosity.ProbeSHRedAtlas
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:     54 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:      9 = 8192 KB (3D 1024x1024x8 PF_G8 UAV) DistanceFields.DistanceFieldBrickTexture
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:    220 = 7696 KB (2D 1324x744 PF_A16B16G16R16 RT UAV) SceneVelocity
+[2024.02.23-02.08.27:311][200]LogConsoleResponse:    139 = 7696 KB (2D 1324x744 PF_FloatRGBA RT UAV) Lumen.Reflections.SpecularIndirect
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:    264 = 7696 KB (2D 1324x744 PF_FloatRGBA RT UAV) Lumen.Reflections.SpecularIndirect
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:     48 = 7696 KB (2D 1324x744 PF_FloatRGBA RT UAV) SceneColor
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:    282 = 7696 KB (2D 1324x744 PF_FloatRGBA RT) Translucency.AfterDOF.Color
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:    124 = 7696 KB (2D 1324x744 PF_FloatRGBA UAV) Lumen.Reflections.ReflectionRayBuffer
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:    262 = 7696 KB (2D 1324x744 PF_FloatRGBA UAV) Lumen.Reflections.ResolvedSpecularIndirect
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:    249 = 7696 KB (2D 1324x744 PF_FloatRGBA UAV) Lumen.ScreenProbeGather.DiffuseIndirect
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:    245 = 7696 KB (2D 1324x744 PF_FloatRGBA UAV) Lumen.ScreenProbeGather.DiffuseIndirect
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:     37 = 7168 KB (3D 512x512x28 PF_R8 UAV) GlobalDistanceField.CoverageAtlas
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:    317 = 5120 KB (2D 1524x860 PF_A2B10G10R10 RT) Tonemap
+[2024.02.23-02.08.27:312][200]LogConsoleResponse:    174 = 5120 KB (2D 1524x860 PF_FloatR11G11B10 UAV) TSR.Output
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:     20 = 5120 KB (2D 1524x860 PF_FloatR11G11B10 UAV) TSR.Output
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    299 = 5120 KB (2D 1524x860 PF_FloatR11G11B10 UAV) TSR.Output
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    301 = 5120 KB (2D[1] 1524x860 PF_FloatR11G11B10 UAV) TSR.History.ColorArray
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    176 = 5120 KB (2D[1] 1524x860 PF_FloatR11G11B10 UAV) TSR.History.ColorArray
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:     10 = 4810 KB (2D 1324x744 PF_DepthStencil) SceneDepthZ
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    233 = 4096 KB (2D 1024x1024 PF_FloatRGB UAV) Lumen.RadianceCache.FilteredRadianceProbeAtlasTexture
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:     18 = 4096 KB (2D 1024x1024 PF_FloatRGB UAV) Lumen.RadianceCache.RadianceProbeAtlasTextureSource
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    217 = 3848 KB (2D 1324x744 PF_A2B10G10R10 RT) GBufferA
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    244 = 3848 KB (2D 1324x744 PF_A2B10G10R10 UAV) Lumen.ScreenProbeGather.ScreenBentNormal
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:     68 = 3848 KB (2D 1324x744 PF_A2B10G10R10 UAV) TSR.History.Guide
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    288 = 3848 KB (2D 1324x744 PF_A2B10G10R10 UAV) TSR.ReprojectedHistoryGuide
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    219 = 3848 KB (2D 1324x744 PF_B8G8R8A8 RT sRGB) GBufferC
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    218 = 3848 KB (2D 1324x744 PF_B8G8R8A8 RT) GBufferB
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    221 = 3848 KB (2D 1324x744 PF_B8G8R8A8 RT) GBufferD
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    222 = 3848 KB (2D 1324x744 PF_B8G8R8A8 RT) GBufferE
+[2024.02.23-02.08.27:313][200]LogConsoleResponse:    271 = 3848 KB (2D 1324x744 PF_B8G8R8A8 RT) ShadowMaskTexture
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    125 = 3848 KB (2D 1324x744 PF_FloatRGB UAV) Lumen.Reflections.ReflectionTraceRadiance
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    246 = 3848 KB (2D 1324x744 PF_FloatRGB UAV) Lumen.ScreenProbeGather.BackfaceDiffuseIndirect
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    250 = 3848 KB (2D 1324x744 PF_FloatRGB UAV) Lumen.ScreenProbeGather.BackfaceDiffuseIndirect
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    247 = 3848 KB (2D 1324x744 PF_FloatRGB UAV) Lumen.ScreenProbeGather.RoughSpecularIndirect
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    251 = 3848 KB (2D 1324x744 PF_FloatRGB UAV) Lumen.ScreenProbeGather.RoughSpecularIndirect
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    126 = 3848 KB (2D 1324x744 PF_FloatRGB UAV) Lumen.ScreenProbeGather.RoughSpecularIndirect
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    285 = 3848 KB (2D 1324x744 PF_G16R16 UAV) TSR.Velocity.Dilated
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    292 = 3848 KB (2D 1324x744 PF_G16R16 UAV) TSR.Velocity.GrandVelocity
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    165 = 3848 KB (2D 1324x744 PF_G16R16 UAV) TSR.Velocity.HoleFilled
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    290 = 3848 KB (2D 1324x744 PF_G16R16 UAV) TSR.Velocity.HoleFilled
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:     41 = 3848 KB (2D 1324x744 PF_R32_FLOAT UAV) Lumen.DepthHistory
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    259 = 3848 KB (2D 1324x744 PF_R32_FLOAT UAV) Lumen.Reflections.ReflectionDownsampledDepth
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    284 = 3848 KB (2D 1324x744 PF_R32_UINT UAV) TSR.PrevClosestDepthTexture
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    283 = 3848 KB (2D 1324x744 PF_R32_UINT UAV) TSR.PrevUseCountTexture
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:     67 = 3848 KB (2D 1324x744 PF_R8G8B8A8 UAV) TSR.History.Moire
+[2024.02.23-02.08.27:314][200]LogConsoleResponse:    289 = 3848 KB (2D 1324x744 PF_R8G8B8A8 UAV) TSR.ReprojectedHistoryMoire
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    302 = 2560 KB (2D 1524x860 PF_R8G8 UAV) TSR.History.Metadata
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    177 = 2560 KB (2D 1524x860 PF_R8G8 UAV) TSR.History.Metadata
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    243 = 2270 KB (2D 830x700 PF_FloatRGB UAV) Lumen.ScreenProbeGather.ScreenProbeFilteredRadianceWithBorder
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:     17 = 2048 KB (2D 1024x1024 PF_R16F UAV) Lumen.RadianceCache.DepthProbeAtlasTexture
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    273 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeAmbient0
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    267 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeAmbient1
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    269 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeAmbient1
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    274 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDirectional0
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    270 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDirectional1
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    268 = 2048 KB (3D 64x64x64 PF_FloatRGBA RT UAV) TranslucentVolumeDirectional1
+[2024.02.23-02.08.27:315][200]LogConsoleResponse:    231 = 1951 KB (2D 1328x752 PF_R16_UINT UAV) Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeIndices
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    260 = 1924 KB (2D 1324x744 PF_R16_UINT UAV) Lumen.Reflections.RayTraceDistance
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    169 = 1924 KB (2D 1324x744 PF_R16_UINT UAV) TSR.History.SubpixelInfo
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    294 = 1924 KB (2D 1324x744 PF_R16_UINT UAV) TSR.History.SubpixelInfo
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    265 = 1924 KB (2D 1324x744 PF_R16F RT UAV) Lumen.Reflections.AccumulatedResolveVariance
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    140 = 1924 KB (2D 1324x744 PF_R16F RT UAV) Lumen.Reflections.AccumulatedResolveVariance
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    261 = 1924 KB (2D 1324x744 PF_R16F UAV) Lumen.Reflections.ReflectionTraceHit
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    263 = 1924 KB (2D 1324x744 PF_R16F UAV) Lumen.Reflections.ResolveVariance
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    286 = 1924 KB (2D 1324x744 PF_R16F UAV) TSR.ClosestDepthTexture
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    295 = 1924 KB (2D 1324x744 PF_R8G8 UAV) TSR.HistoryRejection
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    291 = 1924 KB (2D 1324x744 PF_R8G8 UAV) TSR.velocity.HoleFillMask
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    287 = 1924 KB (2D[2] 1324x744 PF_R8_UINT UAV) TSR.ParallaxFactor
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:     44 = 1922 KB (2D 661x372 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:     58 = 1922 KB (2D 661x372 PF_FloatRGBA RT) VolumetricRenderTarget.Reconstruct
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:     76 = 1728 KB (3D 192x48x48 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    201 = 1728 KB (3D 192x48x48 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    203 = 1453 KB (2D 664x560 PF_FloatRGB UAV) Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:     78 = 1453 KB (2D 664x560 PF_FloatRGB UAV) Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    237 = 1453 KB (2D 664x560 PF_FloatRGB UAV) Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance
+[2024.02.23-02.08.27:316][200]LogConsoleResponse:    236 = 1453 KB (2D 664x560 PF_R32_UINT UAV) Lumen.ScreenProbeGather.TraceHit
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    212 = 1366 KB (2D 1024x512 PF_R16F UAV) HZBClosest
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    211 = 1366 KB (2D 1024x512 PF_R16F UAV) HZBFurthest
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    216 = 1280 KB (2D 512x512 PF_DepthStencil) Lumen.CardCaptureDepthStencilAtlas
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    315 = 1280 KB (2D 762x430 PF_FloatR11G11B10 RT) BloomX
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    316 = 1280 KB (2D 762x430 PF_FloatR11G11B10 RT) BloomY
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    300 = 1280 KB (2D 762x430 PF_FloatR11G11B10 UAV) TSR.HalfResOutput
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    275 = 1203 KB (2D 662x372 PF_DepthStencil) HalfResolutionDepthCheckerboardMinMax
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    215 = 1024 KB (2D 512x512 PF_FloatR11G11B10 RT) Lumen.CardCaptureEmissiveAtlas
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    208 = 1024 KB (2D 512x512 PF_FloatR11G11B10 RT) Lumen.ResampledCardCaptureDirectLighting
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    209 = 1024 KB (2D 512x512 PF_FloatR11G11B10 RT) Lumen.ResampledCardCaptureIndirectLighting
+[2024.02.23-02.08.27:317][200]LogConsoleResponse:    213 = 1024 KB (2D 512x512 PF_R8G8B8A8 RT) Lumen.CardCaptureAlbedoAtlas
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    214 = 1024 KB (2D 512x512 PF_R8G8B8A8 RT) Lumen.CardCaptureNormalAtlas
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:     23 = 977 KB (3D 63x63x252 PF_R8 UAV) GlobalDistanceField.MipTexture
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    266 = 962 KB (2D 1324x744 PF_G8 UAV) Lumen.Reflections.NumHistoryFramesAccumulated
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    141 = 962 KB (2D 1324x744 PF_G8 UAV) Lumen.Reflections.NumHistoryFramesAccumulated
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    128 = 962 KB (2D 1324x744 PF_R8 UAV) Lumen.ScreenProbeGather.FastUpdateMode
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    253 = 962 KB (2D 1324x744 PF_R8 UAV) Lumen.ScreenProbeGather.FastUpdateMode
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    252 = 962 KB (2D 1324x744 PF_R8 UAV) Lumen.ScreenProbeGather.NumHistoryFramesAccumulated
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    127 = 962 KB (2D 1324x744 PF_R8 UAV) Lumen.ScreenProbeGather.NumHistoryFramesAccumulated
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    277 = 962 KB (2D 1324x744 PF_R8 UAV) TSR.AntiAliasing.Noise
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    293 = 962 KB (2D 1324x744 PF_R8 UAV) TSR.ParallaxRejectionMask
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    296 = 962 KB (2D 1324x744 PF_R8 UAV) TSR.SceneColorLdrLuma
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    225 = 962 KB (2D 1324x744 PF_R8_UINT RT) LightingChannels
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    298 = 962 KB (2D 1324x744 PF_R8_UINT UAV) TSR.AntiAliasing.Filtered
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    297 = 962 KB (2D 1324x744 PF_R8_UINT UAV) TSR.AntiAliasing.Raw
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    272 = 962 KB (2D 662x372 PF_G16R16F UAV) RayTracedShadows
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:     43 = 961 KB (2D 661x372 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:     56 = 961 KB (2D 661x372 PF_G16R16F RT) VolumetricRenderTarget.ReconstructDepth
+[2024.02.23-02.08.27:318][200]LogConsoleResponse:    254 = 922 KB (3D 126x72x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.FilteredVolumeTraceRadiance
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    256 = 922 KB (3D 126x72x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.FilteredVolumeTraceRadiance
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:     24 = 729 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableCombined
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:     21 = 729 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableMovableLayer
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:     22 = 729 KB (3D 36x36x144 PF_R32_UINT UAV) GlobalDistanceField.PageTableStationaryLayer
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    235 = 727 KB (2D 664x560 PF_R16_UINT UAV) Lumen.ScreenProbeGather.RayInfosForTracing
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    234 = 727 KB (2D 664x560 PF_R16F UAV) Lumen.ScreenProbeGather.LightingProbabilityDensityFunction
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:     46 = 481 KB (2D 331x186 PF_FloatRGBA RT UAV) VolumetricRenderTarget.Tracing
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    255 = 461 KB (3D 126x72x26 PF_R16F UAV) Lumen.TranslucencyVolume.VolumeTraceHitDistance
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    238 = 364 KB (2D 664x560 PF_R8 UAV) Lumen.ScreenProbeGather.ScreenProbeHitDistance
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    239 = 364 KB (2D 664x560 PF_R8 UAV) Lumen.ScreenProbeGather.ScreenProbeTraceMoving
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    314 = 320 KB (2D 381x215 PF_FloatR11G11B10 RT) BloomX
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    305 = 320 KB (2D 381x215 PF_FloatR11G11B10 RT) BloomY
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    242 = 273 KB (2D 498x70 PF_FloatRGBA UAV) Lumen.ScreenProbeGather.ScreenProbeRadianceSHDirectional
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    210 = 256 KB (2D 512x512 PF_R8 RT) Lumen.ResampledCardCaptureNumFramesAccumulated
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:     45 = 241 KB (2D 331x186 PF_G16R16F RT UAV) VolumetricRenderTarget.TracingDepth
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    258 = 205 KB (3D 42x24x26 PF_FloatRGBA UAV) Lumen.TranslucencyVolume.SHLighting1
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:    207 = 205 KB (3D 42x24x26 PF_FloatRGBA UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2024.02.23-02.08.27:319][200]LogConsoleResponse:     82 = 205 KB (3D 42x24x26 PF_FloatRGBA UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    202 = 162 KB (3D 72x24x24 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:     77 = 162 KB (3D 72x24x24 PF_R32_UINT UAV) Lumen.RadianceCache.RadianceProbeIndirectionTexture
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:      8 = 128 KB (3D 32x32x16 PF_FloatRGBA UAV) SkyAtmosphere.CameraAPVolume0
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:     26 = 128 KB (3D 32x32x32 PF_A2B10G10R10 RT) CombineLUTs
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    257 = 103 KB (3D 42x24x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.SHLighting0
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:     81 = 103 KB (3D 42x24x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    206 = 103 KB (3D 42x24x26 PF_FloatRGB UAV) Lumen.TranslucencyVolume.SHLightingNewHistory0
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:     80 = 91 KB (2D 83x70 PF_A32B32G32R32F UAV) Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    205 = 91 KB (2D 83x70 PF_A32B32G32R32F UAV) Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    313 = 81 KB (2D 191x108 PF_FloatR11G11B10 RT) BloomX
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    306 = 81 KB (2D 191x108 PF_FloatR11G11B10 RT) BloomY
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    198 = 78 KB (2D 192x104 PF_FloatRGB UAV) SkyAtmosphere.SkyViewLut
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:      4 = 64 KB (2D 256x64 PF_FloatRGB UAV) SkyAtmosphere.TransmittanceLut
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:      3 = 33 KB (2D 66x64 PF_A16B16G16R16) SSProfiles
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    241 = 23 KB (2D 83x70 PF_FloatR11G11B10 UAV) Lumen.ScreenProbeGather.ScreenProbeRadianceSHAmbient
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    204 = 23 KB (2D 83x70 PF_R32_UINT UAV) Lumen.ScreenProbeGather.ScreenProbeSceneDepth
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:     79 = 23 KB (2D 83x70 PF_R32_UINT UAV) Lumen.ScreenProbeGather.ScreenProbeSceneDepth
+[2024.02.23-02.08.27:320][200]LogConsoleResponse:    312 = 21 KB (2D 96x54 PF_FloatR11G11B10 RT) BloomX
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    307 = 21 KB (2D 96x54 PF_FloatR11G11B10 RT) BloomY
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    248 = 16 KB (2D 166x93 PF_R8_UINT UAV) Lumen.Reflections.ResolveTileUsed
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    230 = 16 KB (2D 83x47 PF_R32_UINT UAV) Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeHeader
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    229 = 12 KB (2D 83x70 PF_R16_UINT UAV) Lumen.ScreenProbeGather.ScreenProbeWorldSpeed
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    228 = 12 KB (2D 83x70 PF_R8G8 UAV) Lumen.ScreenProbeGather.ScreenProbeWorldNormal
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    311 = 6 KB (2D 48x27 PF_FloatR11G11B10 RT) BloomX
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    308 = 6 KB (2D 48x27 PF_FloatR11G11B10 RT) BloomY
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:      2 = 6 KB (2D 768x8 PF_R8) AsciiTexture
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    240 = 6 KB (2D 83x70 PF_R8 UAV) Lumen.ScreenProbeGather.ScreenProbeMoving
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:      5 = 4 KB (2D 32x32 PF_FloatRGB UAV) SkyAtmosphere.MultiScatteredLuminanceLut
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    310 = 2 KB (2D 24x14 PF_FloatR11G11B10 RT) BloomX
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    309 = 2 KB (2D 24x14 PF_FloatR11G11B10 RT) BloomY
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    303 = 1 KB (2D 128x1 PF_R32_UINT UAV) Histogram.Scatter32
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:     11 = 1 KB (2D 16x16 PF_R16F UAV) OctahedralSolidAngleTexture
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    304 = 1 KB (2D 16x2 PF_A32B32G32R32F UAV) Histogram
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:     42 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:     25 = 1 KB (2D 1x1 PF_A32B32G32R32F RT UAV) EyeAdaptation
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:      6 = 1 KB (2D 1x1 PF_FloatRGB UAV) SkyAtmosphere.DistantSkyLightLut
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:     75 = 1 KB (2D 1x1 PF_R16F UAV) Dummy
+[2024.02.23-02.08.27:321][200]LogConsoleResponse:    200 = 1 KB (2D 1x1 PF_R16F UAV) Dummy
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    281 = 1 KB (2D 1x1 PF_R32_FLOAT UAV) OIT.SampleDepth
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    279 = 1 KB (2D 1x1 PF_R32_UINT UAV) OIT.SampleColor
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    278 = 1 KB (2D 1x1 PF_R32_UINT UAV) OIT.SampleCount
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    280 = 1 KB (2D 1x1 PF_R32_UINT UAV) OIT.SampleTrans
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    224 = 1 KB (2D 1x1 PF_R8 UAV) Strata.DummyWritableTexture
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    223 = 1 KB (2D[1] 1x1 PF_R32_UINT UAV) Strata.DummyWritableTexture
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    226 = 1 KB (2D[1] 4x4 PF_R32_UINT UAV) Dummy-OutDepthBuffer
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:      1 = 1 KB (3D 1x1x1 PF_B8G8R8A8 RT) HairLUT0
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    276 = 1 KB (Cube 1 PF_FloatRGBA RT UAV) Cloud.ColorCubeDummy
+[2024.02.23-02.08.27:322][200]LogConsoleResponse: 
+[2024.02.23-02.08.27:322][200]LogConsoleResponse: Pool: 951/1253 MB (referenced/allocated)
+[2024.02.23-02.08.27:322][200]LogConsoleResponse: 
+[2024.02.23-02.08.27:322][200]LogConsoleResponse: RDGResourceName (what was rendered this frame, use <RDGResourceName>@<Version> to get intermediate versions):
+[2024.02.23-02.08.27:322][200]LogConsoleResponse:    BloomX                                                Lumen.RadianceCache.RadianceProbeAtlasTextureSource Lumen.ScreenProbeGather.BackfaceDiffuseIndirect               Lumen.TranslucencyVolume.VolumeTraceRadiance TSR.AntiAliasing.Raw
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    BloomY                                                Lumen.RadianceCache.RadianceProbeIndirectionTexture Lumen.ScreenProbeGather.DiffuseIndirect                       OIT.SampleColor                              TSR.ClosestDepthTexture
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    Cloud.ColorCubeDummy                                  Lumen.Radiosity.FilteredTraceRadianceAtlas          Lumen.ScreenProbeGather.FastUpdateMode                        OIT.SampleCount                              TSR.HalfResOutput
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    CombineLUTs                                           Lumen.Radiosity.ProbeSHBlueAtlas                    Lumen.ScreenProbeGather.LightingProbabilityDensityFunction    OIT.SampleDepth                              TSR.History.ColorArray
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    Dummy                                                 Lumen.Radiosity.ProbeSHGreenAtlas                   Lumen.ScreenProbeGather.NumHistoryFramesAccumulated           OIT.SampleTrans                              TSR.History.Guide
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    Dummy-OutDepthBuffer                                  Lumen.Radiosity.ProbeSHRedAtlas                     Lumen.ScreenProbeGather.RayInfosForTracing                    RayTracedShadows                             TSR.History.Metadata
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    Editor.PrimitivesColor                                Lumen.Radiosity.TraceRadianceAtlas                  Lumen.ScreenProbeGather.RoughSpecularIndirect                 Scene(1/16)                                  TSR.History.Moire
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    Editor.PrimitivesDepth                                Lumen.Reflections.AccumulatedResolveVariance        Lumen.ScreenProbeGather.ScreenBentNormal                      Scene(1/32)                                  TSR.History.SubpixelInfo
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    Editor.PrimitivesDepthHistory                         Lumen.Reflections.NumHistoryFramesAccumulated       Lumen.ScreenProbeGather.ScreenProbeFilteredRadiance           Scene(1/4)                                   TSR.HistoryRejection
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    Editor.SelectionOutline                               Lumen.Reflections.RayTraceDistance                  Lumen.ScreenProbeGather.ScreenProbeFilteredRadianceWithBorder Scene(1/64)                                  TSR.Moire.Luma
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    EyeAdaptation                                         Lumen.Reflections.ReflectionDownsampledDepth        Lumen.ScreenProbeGather.ScreenProbeHitDistance                Scene(1/8)                                   TSR.Output
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    GBufferA                                              Lumen.Reflections.ReflectionRayBuffer               Lumen.ScreenProbeGather.ScreenProbeMoving                     SceneColor                                   TSR.ParallaxFactor
+[2024.02.23-02.08.27:323][200]LogConsoleResponse:    GBufferB                                              Lumen.Reflections.ReflectionTraceHit                Lumen.ScreenProbeGather.ScreenProbeRadiance                   SceneDepthZ                                  TSR.ParallaxRejectionMask
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    GBufferC                                              Lumen.Reflections.ReflectionTraceRadiance           Lumen.ScreenProbeGather.ScreenProbeRadianceSHAmbient          SceneVelocity                                TSR.PrevClosestDepthTexture
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    GBufferD                                              Lumen.Reflections.ResolvedSpecularIndirect          Lumen.ScreenProbeGather.ScreenProbeRadianceSHDirectional      SelectionOutlineColor                        TSR.PrevUseCountTexture
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    GBufferE                                              Lumen.Reflections.ResolveTileUsed                   Lumen.ScreenProbeGather.ScreenProbeSceneDepth                 ShadowMaskTexture                            TSR.ReprojectedHistoryGuide
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    HalfResolutionDepthCheckerboardMinMax                 Lumen.Reflections.ResolveVariance                   Lumen.ScreenProbeGather.ScreenProbeTraceMoving                SkyAtmosphere.CameraAPVolume0                TSR.ReprojectedHistoryMoire
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    Histogram                                             Lumen.Reflections.SpecularIndirect                  Lumen.ScreenProbeGather.ScreenProbeTranslatedWorldPosition    SkyAtmosphere.DistantSkyLightLut             TSR.SceneColorLdrLuma
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    Histogram.Scatter32                                   Lumen.ResampledCardCaptureDirectLighting            Lumen.ScreenProbeGather.ScreenProbeWorldNormal                SkyAtmosphere.MultiScatteredLuminanceLut     TSR.Velocity.Dilated
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    HZBClosest                                            Lumen.ResampledCardCaptureIndirectLighting          Lumen.ScreenProbeGather.ScreenProbeWorldSpeed                 SkyAtmosphere.SkyViewLut                     TSR.Velocity.GrandVelocity
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    HZBFurthest                                           Lumen.ResampledCardCaptureNumFramesAccumulated      Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeHeader         SkyAtmosphere.TransmittanceLut               TSR.Velocity.HoleFilled
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    LightingChannels                                      Lumen.SceneAlbedo                                   Lumen.ScreenProbeGather.ScreenTileAdaptiveProbeIndices        Strata.DummyWritableTexture                  TSR.velocity.HoleFillMask
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    Lumen.CardCaptureAlbedoAtlas                          Lumen.SceneDepth                                    Lumen.ScreenProbeGather.TileClassificationModes               Tonemap                                      ViewFamilyTexture
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    Lumen.CardCaptureDepthStencilAtlas                    Lumen.SceneDirectLighting                           Lumen.ScreenProbeGather.TraceHit                              Translucency.AfterDOF.Color                  VolumetricRenderTarget.Reconstruct
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    Lumen.CardCaptureEmissiveAtlas                        Lumen.SceneEmissive                                 Lumen.ScreenProbeGather.TraceRadiance                         TranslucentVolumeAmbient0                    VolumetricRenderTarget.ReconstructDepth
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    Lumen.CardCaptureNormalAtlas                          Lumen.SceneFinalLighting                            Lumen.TranslucencyVolume.FilteredVolumeTraceRadiance          TranslucentVolumeAmbient1                    VolumetricRenderTarget.Tracing
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    Lumen.DepthHistory                                    Lumen.SceneIndirectLighting                         Lumen.TranslucencyVolume.SHLighting0                          TranslucentVolumeDirectional0                VolumetricRenderTarget.TracingDepth
+[2024.02.23-02.08.27:324][200]LogConsoleResponse:    Lumen.RadianceCache.DepthProbeAtlasTexture            Lumen.SceneNormal                                   Lumen.TranslucencyVolume.SHLighting1                          TranslucentVolumeDirectional1                WholeSceneShadowmap
+[2024.02.23-02.08.27:325][200]LogConsoleResponse:    Lumen.RadianceCache.FilteredRadianceProbeAtlasTexture Lumen.SceneNumFramesAccumulatedAtlas                Lumen.TranslucencyVolume.SHLightingNewHistory0                TSR.AntiAliasing.Filtered
+[2024.02.23-02.08.27:325][200]LogConsoleResponse:    Lumen.RadianceCache.FinalRadianceAtlas                Lumen.SceneOpacity                                  Lumen.TranslucencyVolume.VolumeTraceHitDistance               TSR.AntiAliasing.Noise
+[2024.02.23-02.08.27:325][200]LogConsoleResponse: 
+[2024.02.23-02.08.27:325][200]Cmd: rhi.DumpMemory
+[2024.02.23-02.08.27:455][200]RHI resource memory (not tracked by our allocator)
+[2024.02.23-02.08.27:456][200]         0.000MB  -  Pixel buffer memory - STAT_PixelBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:456][200]       132.141MB  -  Structured buffer memory - STAT_StructuredBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]         0.000MB  -  Ray Tracing Acceleration Structure memory - STAT_RTAccelerationStructureMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]       206.020MB  -  Vertex buffer memory - STAT_VertexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]         1.552MB  -  Index buffer memory - STAT_IndexBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]         0.842MB  -  Uniform buffer memory - STAT_UniformBufferMemory - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]        18.063MB  -  Texture memory Cube - STAT_TextureMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]         0.172MB  -  Texture memory 3D - STAT_TextureMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]       128.560MB  -  Texture memory 2D - STAT_TextureMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]         0.000MB  -  Render target memory Cube - STAT_RenderTargetMemoryCube - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:457][200]       101.180MB  -  Render target memory 3D - STAT_RenderTargetMemory3D - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:458][200]      1785.729MB  -  Render target memory 2D - STAT_RenderTargetMemory2D - STATGROUP_RHI - STATCAT_Advanced
+[2024.02.23-02.08.27:458][200]2374.259MB total
+[2024.02.23-02.08.27:462][200]LogWindows: FPlatformMisc::RequestExit(1)
+[2024.02.23-02.08.27:463][200]LogWindows: FPlatformMisc::RequestExitWithStatus(1, 0)
+[2024.02.23-02.08.27:463][200]Cmd: Mem FromReport
+[2024.02.23-02.08.27:464][200]LogCore: Engine exit requested (reason: Win RequestExit)
+[2024.02.23-02.08.27:465][200]LogMemory: Platform Memory Stats for WindowsEditor
+[2024.02.23-02.08.27:465][200]LogMemory: Process Physical Memory: 402.39 MB used, 3408.38 MB peak
+[2024.02.23-02.08.27:465][200]LogMemory: Process Virtual Memory: 7670.43 MB used, 7874.34 MB peak
+[2024.02.23-02.08.27:465][200]LogMemory: Physical Memory: 7428.27 MB used,  571.16 MB free, 7999.43 MB total
+[2024.02.23-02.08.27:465][200]LogMemory: Virtual Memory: 32575.10 MB used,  0.33 MB free, 32575.43 MB total
+[2024.02.23-02.08.27:465][200]LogMemory: 
+[2024.02.23-02.08.27:466][200]Allocator Stats for Mimalloc: (not implemented)
+[2024.02.23-02.08.27:466][200]LogMemory: Memory Stats:
+[2024.02.23-02.08.27:466][200]LogMemory: FMemStack (gamethread) current size = 0.00 MB
+[2024.02.23-02.08.27:466][200]LogMemory: FPageAllocator (all threads) allocation size [used/ unused] = [3.62 / 0.62] MB
+[2024.02.23-02.08.27:466][200]LogMemory: Nametable memory usage = 12.54 MB
