@@ -1,1 +1,21 @@
-[0301/131256.231:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0308/142540.798:ERROR:rankings.cc(769)] Inconsistent LRU.
+[0308/142540.798:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.805:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.807:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.807:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.807:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.807:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/142540.808:ERROR:entry_impl.cc(998)] Failed to save user data
+[0308/142540.808:ERROR:entry_impl.cc(998)] Failed to save user data
+[0308/142540.808:ERROR:entry_impl.cc(998)] Failed to save user data
+[0308/142540.808:ERROR:entry_impl.cc(998)] Failed to save user data
