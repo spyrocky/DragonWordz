@@ -6,3 +6,13 @@
 [0308/145752.706:ERROR:entry_impl.cc(998)] Failed to save user data
 [0308/145752.706:ERROR:entry_impl.cc(998)] Failed to save user data
 [0308/145949.869:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0308/150722.141:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0308/150906.489:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0308/151847.775:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0308/151848.073:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/151848.074:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/151848.074:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/151848.076:WARNING:storage_block-inl.h(146)] Failed data load.
+[0308/151848.077:ERROR:entry_impl.cc(998)] Failed to save user data
+[0308/151848.077:ERROR:entry_impl.cc(998)] Failed to save user data
+[0308/151854.737:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
