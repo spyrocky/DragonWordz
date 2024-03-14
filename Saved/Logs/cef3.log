@@ -1,8 +1,1 @@
-[0314/202859.417:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0314/202900.130:WARNING:storage_block-inl.h(146)] Failed data load.
-[0314/202900.130:WARNING:storage_block-inl.h(146)] Failed data load.
-[0314/202900.130:WARNING:storage_block-inl.h(146)] Failed data load.
-[0314/202900.131:WARNING:storage_block-inl.h(146)] Failed data load.
-[0314/202900.131:ERROR:entry_impl.cc(998)] Failed to save user data
-[0314/202900.131:ERROR:entry_impl.cc(998)] Failed to save user data
-[0314/203052.791:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0315/092318.204:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
