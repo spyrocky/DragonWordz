@@ -1,7 +1,0 @@
-[0308/143732.926:ERROR:backend_impl.cc(1041)] Critical error found -8
-[0308/143733.274:WARNING:storage_block-inl.h(146)] Failed data load.
-[0308/143733.274:WARNING:storage_block-inl.h(146)] Failed data load.
-[0308/143733.275:WARNING:storage_block-inl.h(146)] Failed data load.
-[0308/143733.275:WARNING:storage_block-inl.h(146)] Failed data load.
-[0308/143733.277:ERROR:entry_impl.cc(998)] Failed to save user data
-[0308/143733.277:ERROR:entry_impl.cc(998)] Failed to save user data

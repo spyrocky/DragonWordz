@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2024/03/15-11:05:42.066 df8 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
 2024/03/15-11:05:42.067 df8 Recovering log #3
 2024/03/15-11:05:42.067 df8 Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+=======
+2024/03/14-18:01:38.851 837c Creating DB C:/Users/ngocm/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/03/14-18:01:38.937 837c Reusing MANIFEST C:/Users/ngocm/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+>>>>>>> AddingObjectsLevelOne
