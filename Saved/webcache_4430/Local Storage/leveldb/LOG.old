@@ -1,24 +1,14 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
-2024/03/15-10:51:33.192 3eac Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/03/15-10:51:33.194 3eac Recovering log #3
-2024/03/15-10:51:33.195 3eac Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/03/15-11:05:42.066 df8 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/03/15-11:05:42.067 df8 Recovering log #3
+2024/03/15-11:05:42.067 df8 Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
 =======
+2024/03/14-18:01:38.851 837c Creating DB C:/Users/ngocm/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/03/14-18:01:38.937 837c Reusing MANIFEST C:/Users/ngocm/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
 >>>>>>> AddingObjectsLevelOne
 =======
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-2024/02/19-16:58:57.910 5904 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/02/19-16:58:57.911 5904 Recovering log #3
-2024/02/19-16:58:57.912 5904 Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
-=======
-2024/03/07-14:46:43.691 118c Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/03/07-14:46:43.693 118c Recovering log #3
-2024/03/07-14:46:43.695 118c Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
->>>>>>> Stashed changes
-=======
-2024/03/07-14:42:54.772 d68 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2024/03/07-14:42:54.788 d68 Recovering log #3
-2024/03/07-14:42:54.789 d68 Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
->>>>>>> Stashed changes
+2024/03/07-14:57:52.264 8430 Reusing MANIFEST C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/03/07-14:57:52.265 8430 Recovering log #3
+2024/03/07-14:57:52.267 8430 Reusing old log C:/Users/makem/Documents/GitHub/DragonWordz/Saved/webcache_4430\Local Storage\leveldb/000003.log 
 >>>>>>> origin/LevelTwoMap
