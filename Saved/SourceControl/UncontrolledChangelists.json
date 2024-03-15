@@ -45,14 +45,16 @@
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Components/AN_Footstep.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Hit01.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Hit02.uasset",
-				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Skill01.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Ability_Attack0.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_SkillR.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Ability_Attack1.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Skille_fireball.uasset",
-				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Skill02.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Hit03.uasset",
-				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Hit04.uasset"
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Hit04.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Enemies/AI/TaskDeco/BTT_RangeAttack.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Enemies/AI/TaskDeco/BTT_BackToSpawnPoint.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Skill01.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/AM_Skill02.uasset"
 			]
 		}
 	]
