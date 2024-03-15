@@ -41,3 +41,4 @@
 [0315/175607.189:ERROR:entry_impl.cc(998)] Failed to save user data
 [0315/175607.189:ERROR:entry_impl.cc(998)] Failed to save user data
 [0315/175615.920:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0315/175925.668:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
