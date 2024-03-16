@@ -5,8 +5,6 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-<<<<<<< HEAD
-=======
 				"C:/Users/ngocm/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelOne.umap",
 				"C:/Users/ngocm/Documents/GitHub/DragonWordz/Content/Fantastic_Village_Pack/textures/T_ENV_farmfield_BC_Mat.uasset",
 				"C:/Users/ngocm/Documents/GitHub/DragonWordz/Content/Fantastic_Village_Pack/textures/T_ENV_TERRAIN_gravel_BC_Mat.uasset",
@@ -61,9 +59,23 @@
 				"C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/_GENERATED/makem/Stairs_D4177329.uasset",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/TestMap.umap",
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelOne.umap",
->>>>>>> AddingObjectsLevelOne
 				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/BP_WizardPlayer.uasset",
-				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IM_Input.uasset"
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Setting/GM_PlayMode.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Setting/GM_MenuMode.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Setting/BP_PlayerController.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IA_Attack.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IA_WASD.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IA_Jump.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IA_Mouse.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IA_Shift.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IM_Input.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Animation/ABP_WizardPlayer.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/Player/Components/STRUCT_Combo.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/BattleWizardPolyart/Materials/StageMat.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/BattleWizardPolyart/CharacterBP/WizardSM_BP.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/BattleWizardPolyart/Animations/BattleRunForwardAnim.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/InputSystem/IAMouse.uasset",
+				"C:/Users/pimkamonw/Documents/GitHub/DragonWordz/DragonWordz/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
 			]
 		}
 	]
