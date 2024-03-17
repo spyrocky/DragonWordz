@@ -2447,3 +2447,967 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.03.17-11.45.10:430][241]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
 [2024.03.17-11.45.10:642][241]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2024.03.17-11.45.12:445][247]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.12:642][247]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.14:462][253]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.14:643][253]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.16:479][259]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.16:644][259]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.18:500][265]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.18:644][265]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.20:513][271]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.20:644][271]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.22:431][277]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.22:644][277]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.24:451][283]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.24:644][283]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.26:472][289]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.26:646][289]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.28:487][295]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.28:647][295]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.30:501][301]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.30:647][301]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.32:524][307]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.32:647][307]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.34:440][313]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.34:647][313]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.36:474][319]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.36:647][319]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.38:504][325]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.38:649][325]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.40:520][331]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.40:649][331]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.42:438][337]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.42:651][337]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.44:457][343]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.44:650][343]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.46:476][349]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.46:650][349]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.48:500][355]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.48:651][355]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.50:522][361]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.50:651][361]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.52:552][367]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.52:653][367]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.54:475][373]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.54:652][373]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.56:494][379]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.56:652][379]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.45.58:512][385]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.45.58:652][385]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.00:531][391]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.00:653][391]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.02:447][397]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.02:654][397]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.04:469][403]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.04:653][403]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.06:489][409]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.06:653][409]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.08:526][415]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.08:654][415]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.10:457][421]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.10:653][421]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.12:474][427]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.12:654][427]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.14:490][433]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.14:655][433]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.16:510][439]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.16:656][439]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.18:529][445]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.18:655][445]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.20:548][451]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.20:655][451]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.22:473][457]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.22:656][457]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.24:492][463]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.24:657][463]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.26:518][469]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.26:655][469]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.28:537][475]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.28:656][475]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.30:554][481]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.30:657][481]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.32:484][487]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.32:656][487]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.34:509][493]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.34:658][493]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.36:530][499]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.36:658][499]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.38:449][505]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.38:657][505]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.40:469][511]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.40:657][511]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.42:592][517]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.42:658][517]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.44:521][523]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.44:659][523]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.46:550][529]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.46:659][529]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.48:470][535]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.48:659][535]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.50:609][541]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.50:660][541]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.52:535][547]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.52:660][547]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.54:462][553]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.54:660][553]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.56:498][559]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.56:660][559]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.46.58:523][565]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.46.58:662][565]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.00:548][571]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.00:663][571]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.02:475][577]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.02:663][577]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.04:601][583]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.04:663][583]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.06:533][589]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.06:663][589]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.08:452][595]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.08:662][595]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.10:572][601]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.10:663][601]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.12:488][607]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.12:663][607]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.14:515][613]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.14:664][613]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.16:536][619]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.16:665][619]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.18:455][625]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.18:665][625]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.20:470][631]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.20:665][631]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.22:485][637]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.22:665][637]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.24:502][643]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.24:665][643]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.26:519][649]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.26:665][649]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.28:537][655]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.28:665][655]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.30:457][661]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.30:667][661]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.32:576][667]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.32:666][667]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.34:509][673]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.34:668][673]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.36:529][679]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.36:667][679]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.38:448][685]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.38:667][685]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.40:468][691]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.40:667][691]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.42:482][697]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.42:667][697]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.44:504][703]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.44:669][703]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.46:527][709]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.46:668][709]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.48:650][904]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.48:664][905]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.49:974][ 22]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.49:988][ 23]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.51:207][137]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.51:223][138]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.53:133][331]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.53:146][332]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.54:461][450]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.54:476][451]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.56:693][688]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.56:708][689]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.47.58:012][802]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.47.58:025][803]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.00:242][ 33]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.00:257][ 34]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.01:460][153]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.01:479][154]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.03:490][356]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.03:503][357]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.05:726][586]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.05:740][587]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.07:957][815]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.07:971][816]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.09:180][908]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.09:195][909]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.10:502][ 24]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.10:519][ 26]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.11:727][114]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.11:740][115]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.13:651][295]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.13:664][296]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.15:877][522]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.15:890][523]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.17:102][632]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.17:116][633]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.18:322][735]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.18:335][736]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.19:209][834]LogContentBrowser: Deferred new asset file creation: PlayerRespawnPos1
+[2024.03.17-11.48.19:213][834]LogContentBrowser: Creating deferred item: PlayerRespawnPos1
+[2024.03.17-11.48.19:222][835]LogContentBrowser: Renaming the item being created (Deferred Item: PlayerRespawnPos1).
+[2024.03.17-11.48.19:534][848]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.19:548][849]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.21:750][ 89]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.21:769][ 91]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.23:976][330]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.23:991][332]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.26:102][571]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.26:122][573]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.28:325][812]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.28:342][814]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.30:555][ 32]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.30:569][ 33]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.31:903][193]LogContentBrowser: Attempting asset rename: PlayerRespawnPos1 -> BP_PlayerRespawnPos
+[2024.03.17-11.48.31:924][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.03.17-11.48.31:928][193]LogContentBrowser: End creating deferred item PlayerRespawnPos1
+[2024.03.17-11.48.32:778][208]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.32:793][209]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.33:635][293]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/DragonWord/BPObjects/BP_PlayerRespawnPos.BP_PlayerRespawnPos
+[2024.03.17-11.48.33:635][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.03.17-11.48.34:299][295]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.34:311][296]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.35:628][400]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.35:643][401]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.36:840][489]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.36:874][490]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.38:869][652]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.38:888][653]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.39:084][671]LogViewport: Scene viewport resized to 1024x566, mode Windowed.
+[2024.03.17-11.48.40:893][783]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.40:912][784]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.41:655][848]LogViewport: Scene viewport resized to 1023x566, mode Windowed.
+[2024.03.17-11.48.41:679][850]LogViewport: Scene viewport resized to 1018x566, mode Windowed.
+[2024.03.17-11.48.41:700][852]LogViewport: Scene viewport resized to 1007x566, mode Windowed.
+[2024.03.17-11.48.41:723][854]LogViewport: Scene viewport resized to 974x566, mode Windowed.
+[2024.03.17-11.48.41:743][856]LogViewport: Scene viewport resized to 922x566, mode Windowed.
+[2024.03.17-11.48.41:764][858]LogViewport: Scene viewport resized to 865x566, mode Windowed.
+[2024.03.17-11.48.41:788][860]LogViewport: Scene viewport resized to 815x566, mode Windowed.
+[2024.03.17-11.48.41:808][862]LogViewport: Scene viewport resized to 776x566, mode Windowed.
+[2024.03.17-11.48.41:830][864]LogViewport: Scene viewport resized to 735x566, mode Windowed.
+[2024.03.17-11.48.41:851][866]LogViewport: Scene viewport resized to 694x566, mode Windowed.
+[2024.03.17-11.48.41:871][868]LogViewport: Scene viewport resized to 661x566, mode Windowed.
+[2024.03.17-11.48.41:891][870]LogViewport: Scene viewport resized to 635x566, mode Windowed.
+[2024.03.17-11.48.41:911][872]LogViewport: Scene viewport resized to 617x566, mode Windowed.
+[2024.03.17-11.48.41:932][874]LogViewport: Scene viewport resized to 596x566, mode Windowed.
+[2024.03.17-11.48.41:951][876]LogViewport: Scene viewport resized to 579x566, mode Windowed.
+[2024.03.17-11.48.41:972][878]LogViewport: Scene viewport resized to 567x566, mode Windowed.
+[2024.03.17-11.48.42:704][938]LogSlate: Took 0.000127 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.03.17-11.48.42:923][940]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.42:944][941]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.45:147][114]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.45:165][115]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.47:075][273]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.47:092][274]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.47:188][282]LogStaticMesh: Display: Building static mesh autumn...
+[2024.03.17-11.48.47:208][282]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/PN_OpenWorldFoliage/ColorExamples/autumn) ...
+[2024.03.17-11.48.47:209][282]LogStaticMesh: Built static mesh [0.02s] /Game/PN_OpenWorldFoliage/ColorExamples/autumn.autumn
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: ================================================
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Total job queries 317, among them cache hits 65 (20.50%)
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Tracking 243 distinct input hashes that result in 172 distinct outputs (70.78%)
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: RAM used: 1.79 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Jobs assigned 10, completed 1 (10.00%)
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.06 s
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Job execution time: average 0.96 s, max 0.96 s
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Job life time (pending + execution): average 1.01 s, max 1.01
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.01 s
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Average processing rate: 0.99 jobs/sec
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Total thread time: 0.46 s
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Total thread preprocess time: 0.03 s
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Percentage time preprocessing: 6.96%
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Effective parallelization: 0.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.46 sec, max 0.46 sec, min 0.46 sec)
+[2024.03.17-11.48.48:258][325]LogShaderCompilers: Display: ================================================
+[2024.03.17-11.48.49:097][348]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.49:127][349]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.51:118][508]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.51:140][510]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.51:542][557]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Awning.Awning should be resaved to improve async compilation performance.
+[2024.03.17-11.48.51:544][557]LogStaticMesh: Display: Building static mesh Awning...
+[2024.03.17-11.48.51:551][557]LogTexture: Display: Building textures: /Game/HandPaintedEnvironment/Assets/Textures/Summer/Awning_normal.Awning_normal (TFO_BC5, 1024x1024 x1x1x1) (Required Memory Estimate: 258.562488 MB), EncodeSpeed: Fast
+[2024.03.17-11.48.51:564][557]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/HandPaintedEnvironment/Assets/Models/Awning) ...
+[2024.03.17-11.48.51:569][557]LogTexture: Display: Building textures: /Game/HandPaintedEnvironment/Assets/Textures/Summer/Awning_texture.Awning_texture (TFO_AutoDXT, 1024x1024 x1x1x1) (Required Memory Estimate: 146.645823 MB), EncodeSpeed: Fast
+[2024.03.17-11.48.51:575][557]LogStaticMesh: Built static mesh [0.03s] /Game/HandPaintedEnvironment/Assets/Models/Awning.Awning
+[2024.03.17-11.48.52:435][588]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.52:448][589]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.54:357][718]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.54:384][718]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.56:277][912]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.56:289][913]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.48.58:299][ 94]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.48.58:315][ 95]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.00:317][241]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.00:333][242]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.02:334][394]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.02:351][395]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.04:357][582]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.04:378][584]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.05:576][699]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.05:595][701]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.07:797][931]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.07:811][932]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.09:715][141]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.09:734][143]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.11:935][382]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.11:948][383]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.13:861][595]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.13:883][597]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.16:096][833]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.16:116][835]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.18:320][ 73]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.18:339][ 75]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.20:549][314]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.20:564][315]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B295817C6-46FE-1571-62D9-AC93698E2EE1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=aa8e07614ae0c614dd696da1851009e7%7C3797e501308a495bb69fc839de289a30%7Cd0dd6aa7-e802-469f-bdd3-c950215dca82&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: request failed, libcurl error: 65 (Send failed since rewinding of the data stream failed)
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 0 (Found bundle for host: 0x7e0c7180780 [serially])
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 1 (Re-using existing connection #1 with host datarouter.ol.epicgames.com)
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (54.83.111.215) port 443 (#1))
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, close notify (256):)
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 5 (Connection died, retrying a fresh connect (retry count: 1))
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 7 (Closing connection 1)
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: 000007E132EBFA00: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, close notify (256):)
+[2024.03.17-11.49.21:108][380]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B295817C6-46FE-1571-62D9-AC93698E2EE1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=aa8e07614ae0c614dd696da1851009e7%7C3797e501308a495bb69fc839de289a30%7Cd0dd6aa7-e802-469f-bdd3-c950215dca82&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2024.03.17-11.49.22:465][527]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.22:478][528]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.24:489][740]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.24:503][741]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.26:508][952]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.26:528][954]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.27:428][ 56]BlueprintLog: New page: Compile BP_PlayerRespawnPos
+[2024.03.17-11.49.27:493][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2024.03.17-11.49.27:733][ 58]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.27:751][ 59]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.28:847][141]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.03.17-11.49.28:895][141]LogSavePackage: Moving output files for package: /Game/DragonWord/BPObjects/BP_PlayerRespawnPos
+[2024.03.17-11.49.28:895][141]LogSavePackage: Moving '../../../../../../Users/pimkamonw/Documents/GitHub/DragonWordz/Saved/BP_PlayerRespawnPosB84F36BF463D21B3EDBC68B0A2C8593E.tmp' to '../../../../../../Users/pimkamonw/Documents/GitHub/DragonWordz/Content/DragonWord/BPObjects/BP_PlayerRespawnPos.uasset'
+[2024.03.17-11.49.28:902][141]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 658 ms)
+[2024.03.17-11.49.28:908][141]AssetCheck: New page: Asset Save: BP_PlayerRespawnPos
+[2024.03.17-11.49.28:908][141]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/DragonWord/BPObjects/BP_PlayerRespawnPos.BP_PlayerRespawnPos
+[2024.03.17-11.49.29:756][195]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.29:774][195]LogSlate: Window 'BP_PlayerRespawnPos' being destroyed
+[2024.03.17-11.49.29:796][195]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.29:796][195]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.49.29:823][195]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.31:777][391]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.31:792][392]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.32:997][509]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.33:011][509]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.34:169][636]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.03.17-11.49.35:030][706]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.35:052][707]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.37:147][903]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.37:342][903]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.39:574][944]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.39:642][944]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.41:501][950]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.41:641][950]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.43:524][956]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.43:642][956]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.45:442][962]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.45:642][962]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.47:459][968]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.47:642][968]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.49:479][ 50]LogUdpMessaging: Display: Added local interface '192.168.1.39' to multicast group '230.0.0.1:6666'
+[2024.03.17-11.49.49:493][ 51]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2024.03.17-11.49.50:202][131]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2024.03.17-11.49.50:209][131]LogStall: Shutdown...
+[2024.03.17-11.49.50:212][131]LogStall: Shutdown complete.
+[2024.03.17-11.49.50:271][131]LogSlate: Window 'DragonWordz - Unreal Editor' being destroyed
+[2024.03.17-11.49.50:324][132]Cmd: QUIT_EDITOR
+[2024.03.17-11.49.50:324][132]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2024.03.17-11.49.50:341][132]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2024.03.17-11.49.50:341][132]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2024.03.17-11.49.50:341][132]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2024.03.17-11.49.50:343][132]LogWorld: UWorld::CleanupWorld for SecondTestMap, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.50:343][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.03.17-11.49.50:343][132]LogStylusInput: Shutting down StylusInput subsystem.
+[2024.03.17-11.49.50:348][132]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2024.03.17-11.49.50:962][132]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2024.03.17-11.49.50:962][132]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2024.03.17-11.49.50:962][132]LogAudio: Display: Audio Device unregistered from world 'SecondTestMap'.
+[2024.03.17-11.49.50:962][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.17-11.49.50:963][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2024.03.17-11.49.50:967][132]LogAudio: Display: Audio Device Manager Shutdown
+[2024.03.17-11.49.50:975][132]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2024.03.17-11.49.50:975][132]LogExit: Preparing to exit.
+[2024.03.17-11.49.50:996][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:000][132]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2024.03.17-11.49.51:208][132]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:210][132]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:212][132]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:213][132]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:215][132]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:216][132]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:219][132]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:221][132]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:223][132]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:225][132]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:227][132]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:229][132]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:231][132]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:232][132]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.03.17-11.49.51:305][132]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2024.03.17-11.49.51:313][132]LogExit: Editor shut down
+[2024.03.17-11.49.51:314][132]LogExit: Transaction tracking system shut down
+[2024.03.17-11.49.51:440][132]LogExit: Object subsystem successfully closed.
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: ================================================
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Total job queries 323, among them cache hits 67 (20.74%)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Tracking 256 distinct input hashes that result in 181 distinct outputs (70.70%)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: RAM used: 1.91 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.12%
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Shaders Compiled: 14
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Jobs assigned 14, completed 14 (100.00%)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Average time worker was idle: 2.43 s
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.09 s
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Job execution time: average 1.35 s, max 2.40 s
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Job life time (pending + execution): average 1.42 s, max 2.45
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.08 s
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Jobs were issued in 14 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Average processing rate: 4.54 jobs/sec
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Total thread time: 9.53 s
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Total thread preprocess time: 0.35 s
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Percentage time preprocessing: 3.72%
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Effective parallelization: 3.09 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    1 times, average 1.39 sec, max 1.39 sec, min 1.39 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.08 sec, max 1.74 sec, min 0.42 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    2 times, average 0.80 sec, max 1.23 sec, min 0.36 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    2 times, average 0.65 sec, max 0.86 sec, min 0.44 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 22.60% of total time (compiled    2 times, average 1.08 sec, max 1.74 sec, min 0.42 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:                                                 FLumenCardVS - 16.71% of total time (compiled    2 times, average 0.80 sec, max 1.23 sec, min 0.36 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap - 15.13% of total time (compiled    1 times, average 1.44 sec, max 1.44 sec, min 1.44 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:                                                  FHitProxyVS - 14.55% of total time (compiled    1 times, average 1.39 sec, max 1.39 sec, min 1.39 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.55% of total time (compiled    2 times, average 0.65 sec, max 0.86 sec, min 0.44 sec)
+[2024.03.17-11.49.51:445][132]LogShaderCompilers: Display: ================================================
+[2024.03.17-11.49.51:549][132]LogShaderCompilers: Display: Shaders left to compile 0
+[2024.03.17-11.49.51:559][132]LogVirtualization: UE::Virtualization was shutdown
+[2024.03.17-11.49.51:579][132]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (995)
+[2024.03.17-11.49.51:579][132]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (993)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module Voice (991)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module BlueprintGraph (989)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (987)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (985)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module SubobjectEditor (983)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module AddContentDialog (979)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module WidgetCarousel (978)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module StatusBar (975)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (973)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module StatsViewer (971)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (969)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module AutomationWorker (967)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module IKRigEditor (965)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module ControlRigEditor (963)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (961)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (959)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (957)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module PlanarCut (955)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module CharacterAI (953)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module WaveTableEditor (951)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (949)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module GooglePADEditor (947)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (945)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (943)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module TextureAlignMode (941)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module BspMode (939)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module GeometryMode (937)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (935)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (933)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (931)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (929)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (927)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module WebMMedia (925)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (923)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (921)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (919)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (917)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (915)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (913)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (911)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module SequenceRecorder (910)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module SmartSnapping (907)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (905)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (903)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module SessionServices (901)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module MeshPaint (899)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (897)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module PlacementMode (896)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module FoliageEdit (893)
+[2024.03.17-11.49.51:580][132]LogModuleManager: Shutting down and abandoning module LandscapeEditor (891)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (889)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module ActorPickerMode (887)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module ViewportSnapping (885)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module ViewportInteraction (883)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module ClothPainter (881)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (880)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module LogVisualizer (877)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (875)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (873)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (872)
+[2024.03.17-11.49.51:581][132]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (870)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (867)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (865)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (863)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (861)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module AnimationSettings (859)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (857)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module CSVtoSVG (855)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (853)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module EditorConfig (851)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (849)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module EditorFramework (847)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (845)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module TraceInsights (843)
+[2024.03.17-11.49.51:719][132]MemoryProfiler: Shutdown
+[2024.03.17-11.49.51:719][132]NetworkingProfiler: Shutdown
+[2024.03.17-11.49.51:719][132]LoadingProfiler: Shutdown
+[2024.03.17-11.49.51:719][132]TimingProfiler: Shutdown
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module TraceServices (842)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (839)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (838)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module InputBindingEditor (835)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module MergeActors (833)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (831)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module LocalizationService (830)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module HardwareTargeting (827)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (825)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module UndoHistory (823)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module XmlParser (821)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module Blutility (819)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (817)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (816)
+[2024.03.17-11.49.51:719][132]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (813)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (812)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module SettingsEditor (809)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module ProjectLauncher (807)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module SessionFrontend (805)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module ProfilerClient (803)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module DeviceManager (801)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module AutomationController (799)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module AutomationWindow (797)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module Layers (795)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (793)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module DetailCustomizations (791)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module PackagesDialog (789)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (787)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module Persona (785)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (784)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module AnimGraph (782)
+[2024.03.17-11.49.51:720][132]LogModuleManager: Shutting down and abandoning module Kismet (779)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module KismetWidgets (778)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module GraphEditor (775)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module StructViewer (773)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module ClassViewer (771)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module NaniteTools (769)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (767)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (765)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module SourceControlWindows (763)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module OutputLog (761)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module Documentation (759)
+[2024.03.17-11.49.51:728][132]LogModuleManager: Shutting down and abandoning module LiveCoding (757)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (755)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module MovieScene (753)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (751)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (749)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (747)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module AudioMixer (746)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module AudioMixerCore (745)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module LauncherPlatform (741)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module AnalyticsET (739)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module PortalServices (737)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module PortalRpc (735)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module MessagingRpc (733)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module AIModule (731)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module GameplayDebugger (730)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module AITestSuite (728)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module NavigationSystem (726)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module DataLayerEditor (723)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module EditorWidgets (722)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (719)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (717)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module TypedElementFramework (715)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (713)
+[2024.03.17-11.49.51:732][132]LogModuleManager: Shutting down and abandoning module ProfilerService (711)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module TaskGraph (709)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (707)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (705)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (703)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module TakesCore (701)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module MegascansPlugin (699)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module Bridge (697)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (695)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (693)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (691)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module CollectionManager (690)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module LightMixer (687)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (685)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ControlRigSpline (683)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (681)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (679)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module InterchangeTests (677)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (675)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module TemplateSequence (673)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (671)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module SequencerScripting (669)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (667)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module UVEditorTools (665)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module UVEditor (663)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (661)
+[2024.03.17-11.49.51:964][132]LogOpenImageDenoise: OIDN shutting down
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module MeshLODToolset (659)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (657)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (655)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (653)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (651)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module Iris (649)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (647)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (645)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (643)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module DataflowNodes (641)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module DataflowEditor (639)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (637)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (635)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (634)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (632)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (629)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (627)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (625)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (623)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module FractureEditor (621)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ChaosNiagara (619)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module BackChannel (617)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (615)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AutomationUtils (613)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module SynthesisEditor (611)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ResonanceAudio (609)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (607)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (605)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (603)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (601)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (599)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (597)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ModelingOperators (595)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (593)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ModelingComponents (591)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryFramework (590)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (587)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module MeshModelingTools (585)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module InputDebugging (583)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GooglePAD (581)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module DynamicMesh (579)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (577)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AndroidPermission (575)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (573)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (571)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AudioCapture (569)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (568)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AssetTags (565)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (563)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (561)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module AppleImageUtils (559)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (557)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module VariantManager (555)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (554)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (551)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (549)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (547)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module StylusInput (545)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (543)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (541)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (539)
+[2024.03.17-11.49.51:964][132]LogModuleManager: Shutting down and abandoning module PluginBrowser (537)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (535)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module EditorDebugTools (533)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (531)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (529)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module CryptoKeys (527)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (525)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (523)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module GLTFImporter (521)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module GLTFCore (519)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module CurveEditorTools (517)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (515)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (513)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module PluginUtils (511)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (509)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (507)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (505)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangePipelines (503)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeExport (501)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeMessages (499)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeImport (497)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (495)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeNodes (493)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (491)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (489)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (487)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InterchangeEditor (485)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module UObjectPlugin (483)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (481)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (479)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (477)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (475)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module GitSourceControl (473)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module DumpGPUServices (471)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (469)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (467)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module TakeSequencer (465)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module TakeMovieScene (463)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module AlembicImporter (461)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module AlembicLibrary (460)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module GeometryCache (459)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (458)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (453)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module ImgMedia (449)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (447)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module MediaPlate (445)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module MediaCompositing (443)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (441)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (439)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module Paper2DEditor (437)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (435)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (433)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (431)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module TraceUtilities (429)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module InputEditor (427)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (425)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module IKRig (423)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (421)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module ControlRig (419)
+[2024.03.17-11.49.51:966][132]LogModuleManager: Shutting down and abandoning module ActorSequence (417)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (415)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module PBIK (413)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module FullBodyIK (411)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (409)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module TakeRecorder (408)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module ChaosCaching (405)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module LevelSequence (404)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module SignificanceManager (401)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module Synthesis (399)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module SoundFields (397)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (395)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (393)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module MetasoundEditor (391)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module AudioWidgets (390)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (389)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (385)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module MetasoundEngine (383)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module WaveTable (382)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (380)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (377)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (375)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (373)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (371)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (369)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module CableComponent (367)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (365)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (364)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (361)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (359)
+[2024.03.17-11.49.51:967][132]LogModuleManager: Shutting down and abandoning module UdpMessaging (357)
+[2024.03.17-11.49.52:067][132]LogModuleManager: Shutting down and abandoning module TcpMessaging (355)
+[2024.03.17-11.49.52:168][132]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (353)
+[2024.03.17-11.49.52:168][132]LogModuleManager: Shutting down and abandoning module DataValidation (351)
+[2024.03.17-11.49.52:168][132]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (349)
+[2024.03.17-11.49.52:168][132]LogModuleManager: Shutting down and abandoning module FacialAnimation (347)
+[2024.03.17-11.49.52:168][132]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (345)
+[2024.03.17-11.49.52:168][132]LogModuleManager: Shutting down and abandoning module LevelEditor (344)
+[2024.03.17-11.49.52:169][132]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (343)
+[2024.03.17-11.49.52:169][132]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (341)
+[2024.03.17-11.49.52:169][132]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (339)
+[2024.03.17-11.49.52:169][132]LogModuleManager: Shutting down and abandoning module MainFrame (337)
+[2024.03.17-11.49.52:169][132]LogModuleManager: Shutting down and abandoning module HotReload (336)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module TreeMap (332)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (329)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (327)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module AnimationSharing (325)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module GameplayCameras (323)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (321)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module Niagara (319)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module SignalProcessing (318)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module NiagaraEditor (316)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module ContentBrowser (315)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module ToolMenus (314)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module ContentBrowserData (312)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module NiagaraCore (307)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (305)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (303)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module Paper2D (301)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (299)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module EnhancedInput (297)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (295)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (293)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module AndroidFileServer (291)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (289)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module PacketHandler (287)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module TimeManagement (285)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module AnimationDataController (283)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (281)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (279)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module MediaAssets (277)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module Overlay (275)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module OverlayEditor (274)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module VREditor (271)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module StringTableEditor (269)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (267)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (265)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module FunctionalTesting (263)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (261)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (260)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module UMG (257)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module UMGEditor (256)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module EditorStyle (251)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module SlateReflector (249)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module Slate (247)
+[2024.03.17-11.49.52:170][132]LogModuleManager: Shutting down and abandoning module SlateCore (245)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (243)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (241)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module UnrealEd (239)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MRMesh (237)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module Messaging (235)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (233)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (231)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module Networking (229)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module Core (227)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MaterialEditor (225)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MovieSceneTools (223)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module CurveEditor (222)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module Sequencer (220)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module KismetCompiler (217)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MeshBuilder (215)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module NaniteBuilder (213)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MeshUtilities (211)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (210)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (209)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (208)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (206)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (204)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (202)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module MaterialBaking (198)
+[2024.03.17-11.49.52:171][132]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (195)
+[2024.03.17-11.49.52:183][132]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (191)
+[2024.03.17-11.49.52:183][132]LogModuleManager: Shutting down and abandoning module DerivedDataCache (189)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TargetPlatform (187)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (186)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (184)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (182)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (180)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (178)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module AudioFormatBink (176)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (173)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (171)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (169)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (167)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (165)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (163)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (161)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (159)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (157)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (155)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TextureFormat (153)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module ImageWrapper (152)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (150)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (148)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (146)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (144)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (142)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (140)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module TurnkeySupport (137)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module InputCore (134)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module Settings (132)
+[2024.03.17-11.49.52:184][132]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (130)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (128)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (127)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module GeometryCore (123)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (120)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (119)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module AVEncoder (118)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module D3D12RHI (114)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (112)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module ChaosCloth (110)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (108)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (106)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module ChunkDownloader (104)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module VariantManagerContent (102)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module DatasmithContent (100)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module GLTFExporter (98)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module PixWinPlugin (96)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (92)
+[2024.03.17-11.49.52:185][132]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (90)
+[2024.03.17-11.49.52:186][132]LogModuleManager: Shutting down and abandoning module XMPP (85)
+[2024.03.17-11.49.52:186][132]LogModuleManager: Shutting down and abandoning module WebSockets (84)
+[2024.03.17-11.49.52:203][132]LogModuleManager: Shutting down and abandoning module HTTP (81)
+[2024.03.17-11.49.52:203][132]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2024.03.17-11.49.52:203][132]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B295817C6-46FE-1571-62D9-AC93698E2EE1%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=aa8e07614ae0c614dd696da1851009e7%7C3797e501308a495bb69fc839de289a30%7Cd0dd6aa7-e802-469f-bdd3-c950215dca82&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2024.03.17-11.49.52:209][132]LogModuleManager: Shutting down and abandoning module SSL (80)
+[2024.03.17-11.49.52:210][132]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (76)
+[2024.03.17-11.49.52:210][132]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (74)
+[2024.03.17-11.49.52:210][132]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (72)
+[2024.03.17-11.49.52:210][132]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2024.03.17-11.49.52:210][132]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2024.03.17-11.49.52:210][132]LogModuleManager: Shutting down and abandoning module AISupportModule (66)
+[2024.03.17-11.49.52:210][132]LogModuleManager: Shutting down and abandoning module WmfMedia (64)
+[2024.03.17-11.49.52:211][132]LogModuleManager: Shutting down and abandoning module Media (63)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (60)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2024.03.17-11.49.52:212][132]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2024.03.17-11.49.52:213][132]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2024.03.17-11.49.52:442][132]LogD3D12RHI: ~FD3D12DynamicRHI
+[2024.03.17-11.49.52:496][132]LogExit: Exiting.
+[2024.03.17-11.49.52:499][132]Log file closed, 03/17/24 22:49:52
