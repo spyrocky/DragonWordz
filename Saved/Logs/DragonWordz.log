@@ -2053,3 +2053,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.05-03.08.42:491][  7]LogAssetRegistry: Asset discovery search completed in 63.4428 seconds
 [2024.04.05-03.08.42:632][  7]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000214 seconds (updated 0 objects)
 [2024.04.05-03.08.44:954][ 12]LogTcpMessaging: Started Connection to '127.0.0.1:6666'
+[2024.04.05-03.09.20:579][119]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.RecastNavMesh-Default).
+[2024.04.05-03.09.57:135][229]LogDerivedDataCache: C:/Users/ngocm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:26.561 and deleted 0 files with total size 0 MiB. Scanned 13768 files in 13360 folders with total size 1849 MiB.
