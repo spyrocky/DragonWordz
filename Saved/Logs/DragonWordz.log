@@ -2173,3 +2173,498 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.11-12.57.11:946][747]LogViewport: Scene viewport resized to 996x434, mode Windowed.
 [2024.04.11-12.57.12:003][749]LogViewport: Scene viewport resized to 996x417, mode Windowed.
 [2024.04.11-12.57.12:067][751]LogViewport: Scene viewport resized to 996x412, mode Windowed.
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: ================================================
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: Total job queries 920, among them cache hits 179 (19.46%)
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: Tracking 741 distinct input hashes that result in 376 distinct outputs (50.74%)
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: RAM used: 1.89 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.11-12.58.12:379][ 42]LogShaderCompilers: Display: ================================================
+[2024.04.11-12.58.50:404][778]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2024.04.11-12.58.50:532][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-12.58.50:640][778]LogSavePackage: Moving output files for package: /Game/HandPaintedEnvironment/Assets/Models/Pine_tree_2_FoliageType
+[2024.04.11-12.58.50:640][778]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Pine_tree_2_FoliageType774B271D4FA450218C163187283F5E9B.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/HandPaintedEnvironment/Assets/Models/Pine_tree_2_FoliageType.uasset'
+[2024.04.11-12.58.51:314][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 783 ms (total: 1.73 sec)
+[2024.04.11-12.58.51:322][778]AssetCheck: New page: Asset Save: Pine_tree_2_FoliageType
+[2024.04.11-12.58.51:322][778]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/HandPaintedEnvironment/Assets/Models/Pine_tree_2_FoliageType.Pine_tree_2_FoliageType
+[2024.04.11-12.58.51:335][779]LogAutomationController: Ignoring very large delta of 5.30 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-12.59.05:722][ 59]LogSlate: Window 'Message' being destroyed
+[2024.04.11-12.59.05:727][ 59]Message dialog closed, result: Cancel, title: Message, text: Asset /Game/HandPaintedEnvironment/Assets/Models/Rock_4_FoliageType already exists.
+[2024.04.11-12.59.08:459][ 59]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2024.04.11-12.59.08:478][ 60]LogAutomationController: Ignoring very large delta of 8.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-12.59.16:082][270]Cmd: TRANSACTION UNDO
+[2024.04.11-12.59.16:082][270]LogEditorTransaction: Undo Foliage Editing
+[2024.04.11-13.00.11:632][982]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Leaves_1.Leaves_1 should be resaved to improve async compilation performance.
+[2024.04.11-13.00.13:647][105]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Leaves_2.Leaves_2 should be resaved to improve async compilation performance.
+[2024.04.11-13.00.15:129][168]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Leaves_3.Leaves_3 should be resaved to improve async compilation performance.
+[2024.04.11-13.01.13:512][200]LogStaticMesh: Display: Building static mesh openWorld_flower_02_02...
+[2024.04.11-13.01.13:523][200]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02.openWorld_flower_02_02
+[2024.04.11-13.01.13:524][200]LogStaticMesh: Display: Building static mesh openWorld_flower_02_02...
+[2024.04.11-13.01.13:531][200]LogStaticMesh: Built static mesh [0.01s] /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02.openWorld_flower_02_02
+[2024.04.11-13.01.13:755][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02.openWorld_flower_02_02
+[2024.04.11-13.01.13:756][211]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02.openWorld_flower_02_02
+[2024.04.11-13.01.13:757][211]LogActorFactory: Actor Factory spawned StaticMesh /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02.openWorld_flower_02_02 as actor: StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_0
+[2024.04.11-13.01.15:580][242]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2024.04.11-13.01.15:722][242]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.01.15:822][242]LogSavePackage: Moving output files for package: /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02_FoliageType
+[2024.04.11-13.01.15:822][242]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/openWorld_flower_02_02_FoliageTyFCE87B4F4A473F632CBA46B18416CB7C.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02_FoliageType.uasset'
+[2024.04.11-13.01.16:398][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 676 ms (total: 2.41 sec)
+[2024.04.11-13.01.16:406][242]AssetCheck: New page: Asset Save: openWorld_flower_02_02_FoliageType
+[2024.04.11-13.01.16:406][242]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_02_02_FoliageType.openWorld_flower_02_02_FoliageType
+[2024.04.11-13.01.16:419][243]LogAutomationController: Ignoring very large delta of 2.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-13.01.31:513][740]LogViewport: Scene viewport resized to 996x431, mode Windowed.
+[2024.04.11-13.01.31:524][741]LogViewport: Scene viewport resized to 996x439, mode Windowed.
+[2024.04.11-13.01.31:608][743]LogViewport: Scene viewport resized to 996x515, mode Windowed.
+[2024.04.11-13.01.31:664][745]LogViewport: Scene viewport resized to 996x562, mode Windowed.
+[2024.04.11-13.01.31:723][747]LogViewport: Scene viewport resized to 996x594, mode Windowed.
+[2024.04.11-13.01.31:776][749]LogViewport: Scene viewport resized to 996x612, mode Windowed.
+[2024.04.11-13.01.31:837][751]LogViewport: Scene viewport resized to 996x620, mode Windowed.
+[2024.04.11-13.01.31:896][753]LogViewport: Scene viewport resized to 996x623, mode Windowed.
+[2024.04.11-13.01.32:064][762]LogViewport: Scene viewport resized to 996x608, mode Windowed.
+[2024.04.11-13.01.32:094][764]LogViewport: Scene viewport resized to 996x592, mode Windowed.
+[2024.04.11-13.01.32:176][766]LogViewport: Scene viewport resized to 996x581, mode Windowed.
+[2024.04.11-13.01.33:914][821]LogViewport: Scene viewport resized to 996x848, mode Windowed.
+[2024.04.11-13.01.36:731][885]LogViewport: Scene viewport resized to 998x848, mode Windowed.
+[2024.04.11-13.01.36:793][887]LogViewport: Scene viewport resized to 1006x848, mode Windowed.
+[2024.04.11-13.01.36:892][889]LogViewport: Scene viewport resized to 1051x848, mode Windowed.
+[2024.04.11-13.01.36:960][891]LogViewport: Scene viewport resized to 1075x848, mode Windowed.
+[2024.04.11-13.01.37:033][893]LogViewport: Scene viewport resized to 1102x848, mode Windowed.
+[2024.04.11-13.01.37:105][895]LogViewport: Scene viewport resized to 1132x848, mode Windowed.
+[2024.04.11-13.01.37:185][897]LogViewport: Scene viewport resized to 1152x848, mode Windowed.
+[2024.04.11-13.06.00:972][147]Cmd: TRANSACTION UNDO
+[2024.04.11-13.06.00:972][147]LogEditorTransaction: Undo Foliage Editing
+[2024.04.11-13.06.43:745][613]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/DragonWord/MAP/LevelTwo/F/': No such file or directory
+[2024.04.11-13.06.43:750][613]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.06.43:830][613]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.11-13.06.43:847][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.04.11-13.06.43:861][613]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2024.04.11-13.06.43:871][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/X3/4MLMAZDHHJUQSRUA33JGAS
+[2024.04.11-13.06.43:871][613]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/4MLMAZDHHJUQSRUA33JGAS7F935AB34FBBEFA0A8AA489CA52F4807.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/X3/4MLMAZDHHJUQSRUA33JGAS.uasset'
+[2024.04.11-13.06.43:875][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/5/LU/L4YMMF01C86M6ZQLOG2ROE
+[2024.04.11-13.06.43:875][613]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/L4YMMF01C86M6ZQLOG2ROE2C31569445D9475CBC78959FA56B6C66.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/5/LU/L4YMMF01C86M6ZQLOG2ROE.uasset'
+[2024.04.11-13.06.43:879][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/2/SY/VYNSICIOMC7MCEQXRLHXZC
+[2024.04.11-13.06.43:879][613]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VYNSICIOMC7MCEQXRLHXZCC9CDDB28420CDFCC141F6C964640AC4D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/2/SY/VYNSICIOMC7MCEQXRLHXZC.uasset'
+[2024.04.11-13.06.43:886][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/E/GG/WBAUQGCDVPIA2NTQGZBYWZ
+[2024.04.11-13.06.43:886][613]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/WBAUQGCDVPIA2NTQGZBYWZ3AD115934938BA33C0EBE08F4653C904.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/E/GG/WBAUQGCDVPIA2NTQGZBYWZ.uasset'
+[2024.04.11-13.06.43:893][613]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/9/OW/V9TL0Y9ONDU2IU57XH16MH
+[2024.04.11-13.06.43:893][613]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/V9TL0Y9ONDU2IU57XH16MHBC37895E447B2F3A6451F8BCD2C6B80B.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/9/OW/V9TL0Y9ONDU2IU57XH16MH.uasset'
+[2024.04.11-13.06.44:789][613]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.03 sec (total: 3.45 sec)
+[2024.04.11-13.06.44:795][613]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-13.06.44:795][613]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_1_0
+[2024.04.11-13.06.44:795][613]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_1_0
+[2024.04.11-13.06.44:795][613]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_2_0
+[2024.04.11-13.06.44:795][613]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_2_0
+[2024.04.11-13.06.44:795][613]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_3_0
+[2024.04.11-13.06.45:365][623]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/DragonWord/MAP/LevelTwo/F/': No such file or directory
+[2024.04.11-13.11.18:901][474]Cmd: TRANSACTION UNDO
+[2024.04.11-13.11.18:901][474]LogEditorTransaction: Undo Foliage Editing
+[2024.04.11-13.11.55:086][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.11.55:154][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/9/OW/V9TL0Y9ONDU2IU57XH16MH
+[2024.04.11-13.11.55:154][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/V9TL0Y9ONDU2IU57XH16MHFFCE2A0A4D3D74819EEF4C83CFC9E151.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/9/OW/V9TL0Y9ONDU2IU57XH16MH.uasset'
+[2024.04.11-13.11.55:164][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/X3/4MLMAZDHHJUQSRUA33JGAS
+[2024.04.11-13.11.55:165][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/4MLMAZDHHJUQSRUA33JGAS7161408348AE2D42E42A019A32D4A88D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/X3/4MLMAZDHHJUQSRUA33JGAS.uasset'
+[2024.04.11-13.11.55:173][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/E/GG/WBAUQGCDVPIA2NTQGZBYWZ
+[2024.04.11-13.11.55:174][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/WBAUQGCDVPIA2NTQGZBYWZ205DC64B4568B3BCC14A909E97C70C48.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/E/GG/WBAUQGCDVPIA2NTQGZBYWZ.uasset'
+[2024.04.11-13.11.55:178][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/5/LU/L4YMMF01C86M6ZQLOG2ROE
+[2024.04.11-13.11.55:179][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/L4YMMF01C86M6ZQLOG2ROEDA3DEAF24626D8982772B7A67A36C667.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/5/LU/L4YMMF01C86M6ZQLOG2ROE.uasset'
+[2024.04.11-13.11.55:184][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/2/SY/VYNSICIOMC7MCEQXRLHXZC
+[2024.04.11-13.11.55:184][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VYNSICIOMC7MCEQXRLHXZC956546C941045B957D2C9FB76D21C504.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/2/SY/VYNSICIOMC7MCEQXRLHXZC.uasset'
+[2024.04.11-13.11.55:191][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/3/3N/S5P04L3OD9HYLN538PL0XQ
+[2024.04.11-13.11.55:191][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/S5P04L3OD9HYLN538PL0XQA1F42251442D910F78A995B98528910D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/3/3N/S5P04L3OD9HYLN538PL0XQ.uasset'
+[2024.04.11-13.11.55:196][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/6F/M114AU7W6YU1HMT9B45WW5
+[2024.04.11-13.11.55:196][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/M114AU7W6YU1HMT9B45WW5ED48076E46284E049D2435A9D7A43989.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/6F/M114AU7W6YU1HMT9B45WW5.uasset'
+[2024.04.11-13.11.55:205][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/Y4/J1TCJABHFIGG8U61J5DA7L
+[2024.04.11-13.11.55:205][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/J1TCJABHFIGG8U61J5DA7L9043762F410F1C56EA962CB57268B888.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/Y4/J1TCJABHFIGG8U61J5DA7L.uasset'
+[2024.04.11-13.11.55:210][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/Y8/91IKHUYQD4LGE723SJIJJ3
+[2024.04.11-13.11.55:210][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/91IKHUYQD4LGE723SJIJJ3395C1E714076D933C2FF298BDD57A004.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/Y8/91IKHUYQD4LGE723SJIJJ3.uasset'
+[2024.04.11-13.11.55:215][ 72]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/78/OZFLC8V5RG9XTZ00VYA0CA
+[2024.04.11-13.11.55:215][ 72]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/OZFLC8V5RG9XTZ00VYA0CA78E378AE492E117AA49949AB463A0E7E.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/78/OZFLC8V5RG9XTZ00VYA0CA.uasset'
+[2024.04.11-13.11.56:511][ 72]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.42 sec (total: 4.87 sec)
+[2024.04.11-13.11.56:523][ 72]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_1_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_1_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_2_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_2_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_3_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_3_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_-1_0
+[2024.04.11-13.11.56:523][ 72]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+[2024.04.11-13.11.56:558][ 73]LogAutomationController: Ignoring very large delta of 2.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-13.14.45:294][900]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.14.45:343][900]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/6F/M114AU7W6YU1HMT9B45WW5
+[2024.04.11-13.14.45:343][900]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/M114AU7W6YU1HMT9B45WW5C147BA4F4B6BA0CD8205CAAA61D7CC07.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/6F/M114AU7W6YU1HMT9B45WW5.uasset'
+[2024.04.11-13.14.45:353][900]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/78/OZFLC8V5RG9XTZ00VYA0CA
+[2024.04.11-13.14.45:353][900]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/OZFLC8V5RG9XTZ00VYA0CAA8D9895D447CF3AB89FAFB9F083B6429.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/78/OZFLC8V5RG9XTZ00VYA0CA.uasset'
+[2024.04.11-13.14.45:358][900]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 4.94 sec)
+[2024.04.11-13.14.45:367][900]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-13.14.45:367][900]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2024.04.11-13.14.45:367][900]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+[2024.04.11-13.17.42:467][791]LogWorldPartition: Actor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/X3/4MLMAZDHHJUQSRUA33JGAS.PackageMetaData in its package
+[2024.04.11-13.17.42:470][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.04.11-13.17.45:879][791]LogSlate: Window 'Save Content' being destroyed
+[2024.04.11-13.17.46:015][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.17.46:111][791]LogSavePackage: Moving output files for package: /Game/HandPaintedEnvironment/Assets/Models/Pine_tree_2_FoliageType
+[2024.04.11-13.17.46:112][791]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Pine_tree_2_FoliageTypeD9AB30574F429A38D194AB858B553429.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/HandPaintedEnvironment/Assets/Models/Pine_tree_2_FoliageType.uasset'
+[2024.04.11-13.17.46:122][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 106 ms (total: 5.04 sec)
+[2024.04.11-13.17.46:749][791]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DragonWord/MAP/LevelOne.LevelOne
+[2024.04.11-13.17.46:749][791]Cmd: MAP LOAD FILE="../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.11-13.17.46:749][791]LightingResults: New page: Lighting Build
+[2024.04.11-13.17.46:749][791]LoadErrors: New page: Loading map: LevelOne.umap
+[2024.04.11-13.17.46:758][791]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-13.17.46:770][791]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.04.11-13.17.46:771][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-13.17.46:782][791]LogContentBundle: [Container: LevelTwo] Deleting container.
+[2024.04.11-13.17.46:782][791]MapCheck: New page: Map Check
+[2024.04.11-13.17.46:782][791]LightingResults: New page: Lighting Build
+[2024.04.11-13.17.46:807][791]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.11-13.17.46:828][791]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: ================================================
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: Total job queries 1304, among them cache hits 411 (31.52%)
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: Tracking 893 distinct input hashes that result in 417 distinct outputs (46.70%)
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: RAM used: 2.22 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.27%
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.11-13.17.47:157][791]LogShaderCompilers: Display: ================================================
+[2024.04.11-13.17.47:158][791]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-13.17.47:160][791]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-13.17.47:276][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.11-13.17.47:303][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.04.11-13.17.47:588][791]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelOne'.
+[2024.04.11-13.17.47:588][791]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-13.17.47:589][791]LogAIModule: Creating AISystem for world LevelOne
+[2024.04.11-13.17.47:944][791]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.11-13.17.48:048][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.04.11-13.17.48:058][791]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.11-13.17.48:058][791]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.255ms to complete.
+[2024.04.11-13.17.48:059][791]LogFileHelpers: Loading map 'LevelOne' took 1.308
+[2024.04.11-13.17.48:079][791]AssetCheck: New page: Asset Save: Pine_tree_2_FoliageType
+[2024.04.11-13.17.48:079][791]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/HandPaintedEnvironment/Assets/Models/Pine_tree_2_FoliageType.Pine_tree_2_FoliageType
+[2024.04.11-13.17.48:273][791]LogSlate: Took 0.006708 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.04.11-13.17.48:274][791]LogViewport: Scene viewport resized to 1599x848, mode Windowed.
+[2024.04.11-13.17.48:700][792]LogAutomationController: Ignoring very large delta of 6.32 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-13.17.53:298][855]LogViewport: Scene viewport resized to 1597x848, mode Windowed.
+[2024.04.11-13.17.53:513][857]LogViewport: Scene viewport resized to 1435x848, mode Windowed.
+[2024.04.11-13.17.53:672][859]LogViewport: Scene viewport resized to 1367x848, mode Windowed.
+[2024.04.11-13.17.53:971][863]LogViewport: Scene viewport resized to 1355x848, mode Windowed.
+[2024.04.11-13.18.04:722][991]Cmd: EDIT COPY
+[2024.04.11-13.18.14:406][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2024.04.11-13.18.14:571][100]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DragonWord/MAP/LevelTwo.LevelTwo
+[2024.04.11-13.18.14:571][100]Cmd: MAP LOAD FILE="../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelTwo.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2024.04.11-13.18.14:571][100]LightingResults: New page: Lighting Build
+[2024.04.11-13.18.14:571][100]LoadErrors: New page: Loading map: LevelTwo.umap
+[2024.04.11-13.18.14:581][100]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-13.18.14:582][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-13.18.14:582][100]MapCheck: New page: Map Check
+[2024.04.11-13.18.14:582][100]LightingResults: New page: Lighting Build
+[2024.04.11-13.18.14:595][100]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.11-13.18.14:613][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.04.11-13.18.14:625][100]LogWorld: UWorld::CleanupWorld for LevelTwo, bSessionEnded=true, bCleanupResources=true
+[2024.04.11-13.18.14:625][100]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.11-13.18.14:637][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.04.11-13.18.14:650][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.04.11-13.18.14:656][100]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelTwo'.
+[2024.04.11-13.18.14:656][100]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.11-13.18.14:657][100]LogAIModule: Creating AISystem for world LevelTwo
+[2024.04.11-13.18.14:657][100]LogWorldPartition: ULevel::OnLevelLoaded(LevelTwo)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2024.04.11-13.18.14:657][100]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.04.11-13.18.14:657][100]LogWorldPartition: UWorldPartition::Initialize(Asset=LevelTwo, IsEditor=1, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2024.04.11-13.18.14:704][100]LogContentBundle: [Container: LevelTwo] Creating new contrainer.
+[2024.04.11-13.18.14:704][100]LogWorldPartition: Display: WorldPartition initialize took 47 ms (total: 210 ms)
+[2024.04.11-13.18.14:715][100]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.11-13.18.14:715][100]LogNavigation: Warning: Recreating dtNavMesh instance due mismatch in number of bytes required to store serialized maxTiles (21256, 15 bits) vs calculated maxtiles (42440, 16 bits)
+[2024.04.11-13.18.14:732][100]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.04.11-13.18.14:741][100]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.11-13.18.14:749][100]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 6.85ms to complete.
+[2024.04.11-13.18.14:749][100]LogFileHelpers: Loading map 'LevelTwo' took 0.178
+[2024.04.11-13.18.35:579][ 80]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.18.38:014][151]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.18.39:643][200]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.18.53:333][649]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.18.54:840][692]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.19.00:540][875]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.19.08:112][ 78]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.19.17:241][330]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.11-13.19.19:783][444]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.19.26:091][636]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.19.56:585][610]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.20.18:103][165]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.21.05:989][818]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.21.40:728][701]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.21.58:923][  8]Cmd: EDIT PASTE
+[2024.04.11-13.21.59:128][  9]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.22.37:308][690]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.22.37:564][694]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.22.37:857][697]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.22.54:238][ 15]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.22.54:547][ 17]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.22.57:090][111]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.22.58:120][125]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.22.58:622][130]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.23.01:053][219]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.23.10:410][397]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.23.11:400][410]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: ================================================
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: Total job queries 1758, among them cache hits 859 (48.86%)
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: Tracking 897 distinct input hashes that result in 421 distinct outputs (46.93%)
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: RAM used: 2.23 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.27%
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: Jobs assigned 2, completed 0 (0.00%)
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: Time job spent in pending queue: average 0.02 s, longest 0.02 s
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.04.11-13.24.45:143][  3]LogShaderCompilers: Display: ================================================
+[2024.04.11-13.25.23:024][915]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.25.40:101][219]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.25.42:376][247]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.25.45:219][331]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.25.58:200][564]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.01:004][642]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.05:192][749]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.08:086][827]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.10:570][894]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.15:582][  5]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.37:224][385]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.39:741][418]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.45:823][561]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.26.50:275][664]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.00:463][874]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.03:705][972]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.05:592][  1]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.06:261][  9]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.14:362][136]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.19:945][277]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.21:763][307]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.23:063][379]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.24:303][398]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.25:634][419]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.26:491][432]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.27:184][443]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.27:436][447]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.27:891][454]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.28:706][465]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.40:655][709]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.42:556][738]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.43:165][746]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.49:397][899]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.27.50:518][914]LogNavigationDataBuild: Navigation data generation finished for RecastNavMesh-Default (RecastNavMesh /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.RecastNavMesh_UAID_00933796AD3D77E001-Default).
+[2024.04.11-13.28.19:891][482]LogViewport: Scene viewport resized to 975x848, mode Windowed.
+[2024.04.11-13.30.18:558][570]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.04.11-13.30.18:558][570]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.04.11-13.30.18:593][570]LogViewport: Scene viewport resized to 975x581, mode Windowed.
+[2024.04.11-13.30.26:588][903]LogViewport: Scene viewport resized to 975x580, mode Windowed.
+[2024.04.11-13.30.26:645][905]LogViewport: Scene viewport resized to 975x563, mode Windowed.
+[2024.04.11-13.30.26:751][907]LogViewport: Scene viewport resized to 975x520, mode Windowed.
+[2024.04.11-13.30.26:838][909]LogViewport: Scene viewport resized to 975x498, mode Windowed.
+[2024.04.11-13.30.26:917][911]LogViewport: Scene viewport resized to 975x480, mode Windowed.
+[2024.04.11-13.30.27:002][913]LogViewport: Scene viewport resized to 975x473, mode Windowed.
+[2024.04.11-13.30.33:951][ 76]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2024.04.11-13.30.34:096][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.30.34:196][ 76]LogSavePackage: Moving output files for package: /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_04_FoliageType
+[2024.04.11-13.30.34:196][ 76]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/SM_PROP_hay_04_FoliageTypeC034282D4217675F770F98B2882D6917.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_04_FoliageType.uasset'
+[2024.04.11-13.30.35:145][ 76]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.04 sec (total: 6.09 sec)
+[2024.04.11-13.30.35:173][ 76]AssetCheck: New page: Asset Save: SM_PROP_hay_04_FoliageType
+[2024.04.11-13.30.35:173][ 76]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_04_FoliageType.SM_PROP_hay_04_FoliageType
+[2024.04.11-13.30.35:188][ 77]LogAutomationController: Ignoring very large delta of 2.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-13.30.41:779][196]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2024.04.11-13.30.41:927][196]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.30.42:020][196]LogSavePackage: Moving output files for package: /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_02_FoliageType
+[2024.04.11-13.30.42:020][196]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/SM_PROP_hay_02_FoliageTypeF3A6B4154C06D4AFC641288691594735.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_02_FoliageType.uasset'
+[2024.04.11-13.30.42:988][196]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.06 sec (total: 7.15 sec)
+[2024.04.11-13.30.43:013][196]AssetCheck: New page: Asset Save: SM_PROP_hay_02_FoliageType
+[2024.04.11-13.30.43:013][196]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_02_FoliageType.SM_PROP_hay_02_FoliageType
+[2024.04.11-13.30.43:025][197]LogAutomationController: Ignoring very large delta of 2.69 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-13.31.12:970][894]LogSlate: Window 'Choose Location for Foliage Type Asset' being destroyed
+[2024.04.11-13.31.13:107][894]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.31.13:199][894]LogSavePackage: Moving output files for package: /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_03_FoliageType
+[2024.04.11-13.31.13:200][894]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/SM_PROP_hay_03_FoliageTypeADD161074C1D8E0F9DB4C08E4703368F.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_03_FoliageType.uasset'
+[2024.04.11-13.31.14:203][894]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.09 sec (total: 8.25 sec)
+[2024.04.11-13.31.14:229][894]AssetCheck: New page: Asset Save: SM_PROP_hay_03_FoliageType
+[2024.04.11-13.31.14:229][894]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_03_FoliageType.SM_PROP_hay_03_FoliageType
+[2024.04.11-13.31.14:243][895]LogAutomationController: Ignoring very large delta of 2.79 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.04.11-13.31.31:142][229]LogViewport: Scene viewport resized to 975x485, mode Windowed.
+[2024.04.11-13.31.31:157][230]LogViewport: Scene viewport resized to 975x489, mode Windowed.
+[2024.04.11-13.31.31:276][232]LogViewport: Scene viewport resized to 975x534, mode Windowed.
+[2024.04.11-13.31.31:347][234]LogViewport: Scene viewport resized to 975x559, mode Windowed.
+[2024.04.11-13.31.31:425][236]LogViewport: Scene viewport resized to 975x593, mode Windowed.
+[2024.04.11-13.31.31:496][238]LogViewport: Scene viewport resized to 975x628, mode Windowed.
+[2024.04.11-13.31.31:580][240]LogViewport: Scene viewport resized to 975x656, mode Windowed.
+[2024.04.11-13.31.31:656][242]LogViewport: Scene viewport resized to 975x677, mode Windowed.
+[2024.04.11-13.31.31:741][244]LogViewport: Scene viewport resized to 975x696, mode Windowed.
+[2024.04.11-13.31.32:078][264]LogViewport: Scene viewport resized to 975x686, mode Windowed.
+[2024.04.11-13.31.32:111][266]LogViewport: Scene viewport resized to 975x679, mode Windowed.
+[2024.04.11-13.31.47:778][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.11-13.31.47:830][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/C/90/6BA8PO8PPFIBV6SKSY6NDC
+[2024.04.11-13.31.47:831][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/6BA8PO8PPFIBV6SKSY6NDC3986791749690855382107A43768F28C.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/C/90/6BA8PO8PPFIBV6SKSY6NDC.uasset'
+[2024.04.11-13.31.47:839][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/3/3N/S5P04L3OD9HYLN538PL0XQ
+[2024.04.11-13.31.47:840][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/S5P04L3OD9HYLN538PL0XQ4C64EDEB4863B36B615BE39DC8236123.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/3/3N/S5P04L3OD9HYLN538PL0XQ.uasset'
+[2024.04.11-13.31.47:845][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/2/SY/VYNSICIOMC7MCEQXRLHXZC
+[2024.04.11-13.31.47:846][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VYNSICIOMC7MCEQXRLHXZC812D364E49CC81A73D7152B9452FC978.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/2/SY/VYNSICIOMC7MCEQXRLHXZC.uasset'
+[2024.04.11-13.31.47:852][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/9/OW/V9TL0Y9ONDU2IU57XH16MH
+[2024.04.11-13.31.47:853][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/V9TL0Y9ONDU2IU57XH16MH2DEC3CFE44FED16F6B4DDDBC32EC8DB0.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/9/OW/V9TL0Y9ONDU2IU57XH16MH.uasset'
+[2024.04.11-13.31.47:857][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/Y8/91IKHUYQD4LGE723SJIJJ3
+[2024.04.11-13.31.47:857][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/91IKHUYQD4LGE723SJIJJ367574EA840CF7D4302F1E5B24EB3393F.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/Y8/91IKHUYQD4LGE723SJIJJ3.uasset'
+[2024.04.11-13.31.47:865][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/78/OZFLC8V5RG9XTZ00VYA0CA
+[2024.04.11-13.31.47:865][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/OZFLC8V5RG9XTZ00VYA0CA68EF9DE0409FC4927DB66280F3E790D9.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/78/OZFLC8V5RG9XTZ00VYA0CA.uasset'
+[2024.04.11-13.31.47:871][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/5/LU/L4YMMF01C86M6ZQLOG2ROE
+[2024.04.11-13.31.47:871][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/L4YMMF01C86M6ZQLOG2ROE0C609DA745AEF12DC7EED9AE587E5E96.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/5/LU/L4YMMF01C86M6ZQLOG2ROE.uasset'
+[2024.04.11-13.31.47:878][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/X3/4MLMAZDHHJUQSRUA33JGAS
+[2024.04.11-13.31.47:879][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/4MLMAZDHHJUQSRUA33JGAS490BBD6542A0EBD2F6DFB093750AEBB1.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/X3/4MLMAZDHHJUQSRUA33JGAS.uasset'
+[2024.04.11-13.31.47:886][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/Y4/J1TCJABHFIGG8U61J5DA7L
+[2024.04.11-13.31.47:887][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/J1TCJABHFIGG8U61J5DA7LCF967A614DCCBB2D522F3BA5120EE4AC.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/Y4/J1TCJABHFIGG8U61J5DA7L.uasset'
+[2024.04.11-13.31.47:894][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/E/GG/WBAUQGCDVPIA2NTQGZBYWZ
+[2024.04.11-13.31.47:894][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/WBAUQGCDVPIA2NTQGZBYWZ0F11D251411FFDB2AB7E248027C8C986.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/E/GG/WBAUQGCDVPIA2NTQGZBYWZ.uasset'
+[2024.04.11-13.31.47:900][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/6F/M114AU7W6YU1HMT9B45WW5
+[2024.04.11-13.31.47:901][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/M114AU7W6YU1HMT9B45WW58E012F6343381504730F94A911C69EE9.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/6F/M114AU7W6YU1HMT9B45WW5.uasset'
+[2024.04.11-13.31.47:903][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/6/68/N31Q6O4XX6S1BP1XF4W68D
+[2024.04.11-13.31.47:903][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/N31Q6O4XX6S1BP1XF4W68D39C3F86141AF7E54D569E9AE1C98FAA7.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/6/68/N31Q6O4XX6S1BP1XF4W68D.uasset'
+[2024.04.11-13.31.47:906][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/1/OH/85IX5NEKFRAGXAG8QQ1ITT
+[2024.04.11-13.31.47:906][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/85IX5NEKFRAGXAG8QQ1ITTA9CE21E2452FDD25FC68118F28CCA4FE.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/1/OH/85IX5NEKFRAGXAG8QQ1ITT.uasset'
+[2024.04.11-13.31.47:908][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/B/JF/5V3L5O3LYCS5RD3RI06K1S
+[2024.04.11-13.31.47:908][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/5V3L5O3LYCS5RD3RI06K1SA0318C9446ECB5BECCCE20A4091C87D5.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/B/JF/5V3L5O3LYCS5RD3RI06K1S.uasset'
+[2024.04.11-13.31.47:910][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/2/QG/BYXQQJU7G0O7WZKDR72SYY
+[2024.04.11-13.31.47:910][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/BYXQQJU7G0O7WZKDR72SYY6D2348E448F8ECD3617EF6988F79352A.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/2/QG/BYXQQJU7G0O7WZKDR72SYY.uasset'
+[2024.04.11-13.31.47:913][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/C/0T/LXOU6GHXC0DDLQCC0INKFD
+[2024.04.11-13.31.47:913][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/LXOU6GHXC0DDLQCC0INKFD3EA46E6E4C22301C53E227B570A7B38B.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/C/0T/LXOU6GHXC0DDLQCC0INKFD.uasset'
+[2024.04.11-13.31.47:917][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/C/YO/02BLDFZTKM43G173X8WF5G
+[2024.04.11-13.31.47:917][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/02BLDFZTKM43G173X8WF5G639284104279DBEA0A16008CAAC9C84D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/C/YO/02BLDFZTKM43G173X8WF5G.uasset'
+[2024.04.11-13.31.47:918][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/E/R6/2GJ7GIVR4D7HH4CYTLO4TI
+[2024.04.11-13.31.47:919][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/2GJ7GIVR4D7HH4CYTLO4TI1E5FDA154AB94E9C9364EB99E012E566.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/E/R6/2GJ7GIVR4D7HH4CYTLO4TI.uasset'
+[2024.04.11-13.31.47:921][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/9/8R/JA51O3JWNKXW582NDZYGW5
+[2024.04.11-13.31.47:921][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/JA51O3JWNKXW582NDZYGW583E344F646B40074A2378AA082798191.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/9/8R/JA51O3JWNKXW582NDZYGW5.uasset'
+[2024.04.11-13.31.47:923][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/J8/O6LQI7XU4U3Q0BZE73EA4E
+[2024.04.11-13.31.47:923][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/O6LQI7XU4U3Q0BZE73EA4EFB3C259F421A065F85104ABEFFE25681.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/J8/O6LQI7XU4U3Q0BZE73EA4E.uasset'
+[2024.04.11-13.31.47:926][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/E/3K/97NAMJ82GHUAENE36C35N4
+[2024.04.11-13.31.47:926][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/97NAMJ82GHUAENE36C35N4B6C7C8B7404553E291ED509EDCFDFDD6.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/E/3K/97NAMJ82GHUAENE36C35N4.uasset'
+[2024.04.11-13.31.47:928][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/1/AI/AI15EQZ24V4YUW1IEYZK7N
+[2024.04.11-13.31.47:929][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/AI15EQZ24V4YUW1IEYZK7N2DE2506C4763A60E0E7F9ABCE56DFC62.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/1/AI/AI15EQZ24V4YUW1IEYZK7N.uasset'
+[2024.04.11-13.31.47:932][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/5/Y8/5WV9UYZ6QVLSXERTGMUUJB
+[2024.04.11-13.31.47:932][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/5WV9UYZ6QVLSXERTGMUUJB1C9D71084C00D27A20F6A688CE4441BB.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/5/Y8/5WV9UYZ6QVLSXERTGMUUJB.uasset'
+[2024.04.11-13.31.47:935][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/LJ/3NN6RE9USG6LVF5XP22RLE
+[2024.04.11-13.31.47:935][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/3NN6RE9USG6LVF5XP22RLE967AC73F4005929BA50586AFC9CB0B1A.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/LJ/3NN6RE9USG6LVF5XP22RLE.uasset'
+[2024.04.11-13.31.47:937][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/0/XI/WM4ETFV9VZTPJUU0HDB3DK
+[2024.04.11-13.31.47:937][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/WM4ETFV9VZTPJUU0HDB3DKD67F616F47C50F105F2C4AA96983AECE.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/0/XI/WM4ETFV9VZTPJUU0HDB3DK.uasset'
+[2024.04.11-13.31.47:939][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/0/DB/MVIAVSHGAWJXCG08ZAC00K
+[2024.04.11-13.31.47:939][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/MVIAVSHGAWJXCG08ZAC00KAEB0A249495F3640A0B3B1A55ED4AF4E.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/0/DB/MVIAVSHGAWJXCG08ZAC00K.uasset'
+[2024.04.11-13.31.47:941][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/HA/A16826T4OU91ZSAUEBJSDE
+[2024.04.11-13.31.47:941][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/A16826T4OU91ZSAUEBJSDEE82246CB4A41B0AB43F1DFA66A8F7A9D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/HA/A16826T4OU91ZSAUEBJSDE.uasset'
+[2024.04.11-13.31.47:944][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/A/IK/VDRQS6ZU95Y83MZTWIMW2S
+[2024.04.11-13.31.47:944][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VDRQS6ZU95Y83MZTWIMW2SA854E2F8452F0B540883E0956544CFDE.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/A/IK/VDRQS6ZU95Y83MZTWIMW2S.uasset'
+[2024.04.11-13.31.47:946][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/5/C2/IAB0FD5U581YZXRLQMELT0
+[2024.04.11-13.31.47:946][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/IAB0FD5U581YZXRLQMELT0AA8661894854ADC38009D88CDB899B46.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/5/C2/IAB0FD5U581YZXRLQMELT0.uasset'
+[2024.04.11-13.31.47:949][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/8/LV/LG5DXMMI3VVXXHPOKGBDSP
+[2024.04.11-13.31.47:949][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/LG5DXMMI3VVXXHPOKGBDSP1517D67D42D3E9363C33BE87440F20F4.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/8/LV/LG5DXMMI3VVXXHPOKGBDSP.uasset'
+[2024.04.11-13.31.47:952][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/3/BT/UW3GCLPPF6DMM8URR1MSZ1
+[2024.04.11-13.31.47:952][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/UW3GCLPPF6DMM8URR1MSZ1A0C6660548B18AA074057D8EBC3B18A0.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/3/BT/UW3GCLPPF6DMM8URR1MSZ1.uasset'
+[2024.04.11-13.31.47:954][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/2/92/T9D6GHPPW23K6MNIYXWROA
+[2024.04.11-13.31.47:954][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/T9D6GHPPW23K6MNIYXWROAD5A7190C48EB407117ACF6B0796332CF.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/2/92/T9D6GHPPW23K6MNIYXWROA.uasset'
+[2024.04.11-13.31.47:957][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/1/C3/KVY7AUWGF9BKX1TX6MYO0L
+[2024.04.11-13.31.47:957][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/KVY7AUWGF9BKX1TX6MYO0L218CF52146653FEE79838EAC1B8DCED9.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/1/C3/KVY7AUWGF9BKX1TX6MYO0L.uasset'
+[2024.04.11-13.31.47:960][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/0/98/3LUJQ3LXVFBPC6RP91I82E
+[2024.04.11-13.31.47:960][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/3LUJQ3LXVFBPC6RP91I82E9025ED1C464F949F2ADD9EA53401C8AC.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/0/98/3LUJQ3LXVFBPC6RP91I82E.uasset'
+[2024.04.11-13.31.47:963][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/E/CM/E8GGSGGKVK818DXIA83PIY
+[2024.04.11-13.31.47:963][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/E8GGSGGKVK818DXIA83PIY84E48D744E807B5DDDDF9E8FE45A8DE5.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/E/CM/E8GGSGGKVK818DXIA83PIY.uasset'
+[2024.04.11-13.31.47:965][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/5/WM/USAWVDIQL15QHEP8F47W6H
+[2024.04.11-13.31.47:965][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/USAWVDIQL15QHEP8F47W6H8E71AF0547BD75B04A2C39877077CD97.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/5/WM/USAWVDIQL15QHEP8F47W6H.uasset'
+[2024.04.11-13.31.47:968][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/4O/K4M3R6TPURG84JXPDQ26HX
+[2024.04.11-13.31.47:968][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/K4M3R6TPURG84JXPDQ26HX82D6C6B9449BEFFEE20CB582EDF075A2.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/4O/K4M3R6TPURG84JXPDQ26HX.uasset'
+[2024.04.11-13.31.47:970][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/8/ZW/2WPLZAFW6XUQ7BOOUKFLA3
+[2024.04.11-13.31.47:970][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/2WPLZAFW6XUQ7BOOUKFLA3D459B8E449D92D307BCF11A97B3E98E2.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/8/ZW/2WPLZAFW6XUQ7BOOUKFLA3.uasset'
+[2024.04.11-13.31.47:972][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/MI/YAGVMNOHJVGJS47MT9SHP5
+[2024.04.11-13.31.47:972][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/YAGVMNOHJVGJS47MT9SHP56E4E5548469262B6B88B51A170013C19.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/MI/YAGVMNOHJVGJS47MT9SHP5.uasset'
+[2024.04.11-13.31.47:974][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/8/2L/Q86A77XDS18R2DII5SS4Q2
+[2024.04.11-13.31.47:974][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Q86A77XDS18R2DII5SS4Q2B276B8914288114697ACDDACB4555728.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/8/2L/Q86A77XDS18R2DII5SS4Q2.uasset'
+[2024.04.11-13.31.47:978][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/F/0X/5R1V3M4OQ3NQ0OWUGXJRED
+[2024.04.11-13.31.47:978][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/5R1V3M4OQ3NQ0OWUGXJRED0046D9AA41C88AC37BB39BBA896D76FD.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/F/0X/5R1V3M4OQ3NQ0OWUGXJRED.uasset'
+[2024.04.11-13.31.47:981][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/7/P7/U5T9XDDBCVOJCBIQ99AQ9O
+[2024.04.11-13.31.47:981][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/U5T9XDDBCVOJCBIQ99AQ9OD655F4C84D16AA4A913F27A33877D83A.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/7/P7/U5T9XDDBCVOJCBIQ99AQ9O.uasset'
+[2024.04.11-13.31.47:982][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/B/09/B8125O13G7CEIBG40MITZO
+[2024.04.11-13.31.47:982][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/B8125O13G7CEIBG40MITZO022A80304E1DA81009A287962C1DE027.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/B/09/B8125O13G7CEIBG40MITZO.uasset'
+[2024.04.11-13.31.47:985][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/0/E8/RM416K6BT1NFLJPKZJ25PM
+[2024.04.11-13.31.47:985][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/RM416K6BT1NFLJPKZJ25PM5361DC6545A4A483AF3510A43DB8748F.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/0/E8/RM416K6BT1NFLJPKZJ25PM.uasset'
+[2024.04.11-13.31.47:987][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/5/4V/I0YSTQ6KE8R8DM8QYPB2AL
+[2024.04.11-13.31.47:988][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/I0YSTQ6KE8R8DM8QYPB2ALFB5A872649D8DBAB559150B9CA774432.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/5/4V/I0YSTQ6KE8R8DM8QYPB2AL.uasset'
+[2024.04.11-13.31.47:991][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/XG/K6LIOB8MSG5PXSH93XU6Z4
+[2024.04.11-13.31.47:991][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/K6LIOB8MSG5PXSH93XU6Z4BC9F29F342614863ABFD12B0B58EF2E2.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/XG/K6LIOB8MSG5PXSH93XU6Z4.uasset'
+[2024.04.11-13.31.47:994][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/0/X3/DQU1A6TRRTYZ8E5ZLSI93Q
+[2024.04.11-13.31.47:994][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/DQU1A6TRRTYZ8E5ZLSI93Q4A11DDCC485FD369C82AAEBFB4B948FB.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/0/X3/DQU1A6TRRTYZ8E5ZLSI93Q.uasset'
+[2024.04.11-13.31.47:996][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/A/QT/VYDIS87T4ZNP4BE5ES91IM
+[2024.04.11-13.31.47:996][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VYDIS87T4ZNP4BE5ES91IM9CBF9B504DCAE0D7A121EE90CE1BB071.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/A/QT/VYDIS87T4ZNP4BE5ES91IM.uasset'
+[2024.04.11-13.31.47:999][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/E/VK/ZZIHACZ179ZLGX2LKE5ZR1
+[2024.04.11-13.31.47:999][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/ZZIHACZ179ZLGX2LKE5ZR1797F8B1F4D4C05E386C42B9B73EAF81E.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/E/VK/ZZIHACZ179ZLGX2LKE5ZR1.uasset'
+[2024.04.11-13.31.48:000][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/AT/C5AJ4CVS52IP11Z687K2E8
+[2024.04.11-13.31.48:000][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/C5AJ4CVS52IP11Z687K2E849D206674F6DEE9A46E3788FF43C1C2C.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/AT/C5AJ4CVS52IP11Z687K2E8.uasset'
+[2024.04.11-13.31.48:002][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/E/TU/6DBUUJH47AOL3HARNE7B2S
+[2024.04.11-13.31.48:002][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/6DBUUJH47AOL3HARNE7B2S46F6A858428D8FA6060E458966EE43AC.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/E/TU/6DBUUJH47AOL3HARNE7B2S.uasset'
+[2024.04.11-13.31.48:004][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/4/AX/J7V5VKCY2JJPKZFI0NNXEU
+[2024.04.11-13.31.48:004][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/J7V5VKCY2JJPKZFI0NNXEU4371AD2A4DCF0D8B1BB247B8B785818A.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/4/AX/J7V5VKCY2JJPKZFI0NNXEU.uasset'
+[2024.04.11-13.31.48:006][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelTwo/5/OR/4MKF1HYIUNJGPNJY45AKG0
+[2024.04.11-13.31.48:006][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/4MKF1HYIUNJGPNJY45AKG06E2C0011483C059BA5DD49975E418D2D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/5/OR/4MKF1HYIUNJGPNJY45AKG0.uasset'
+[2024.04.11-13.31.48:010][ 74]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/DragonWord/MAP/LevelTwo/B/K2/XB0MVSO9QQ5FZ3APK1VFAJ
+[2024.04.11-13.31.48:011][ 74]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/XB0MVSO9QQ5FZ3APK1VFAJF4AE8A2F4DE465D11AABBBBD4E5E5DFB.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalObjects__/DragonWord/MAP/LevelTwo/B/K2/XB0MVSO9QQ5FZ3APK1VFAJ.uasset'
+[2024.04.11-13.31.51:726][ 74]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.94 sec (total: 12.2 sec)
+[2024.04.11-13.31.51:744][ 74]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.ActorFolder_UID_53075EBA-4BE6C5F4-A2569FAB-3B2CC448
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778489680
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778488679
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778487678
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778487677
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778486676
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778485675
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778485674
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778484673
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778483672
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778482671
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778481670
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778480669
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778479668
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778479667
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778478666
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778477665
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778476664
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778476663
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778475662
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778474661
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778473660
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778472659
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778472658
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778471657
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778469656
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778469655
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778467654
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778465653
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778463652
+[2024.04.11-13.31.51:744][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778459651
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778456650
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778454649
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778454648
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778453647
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778452646
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778451645
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778449644
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778449643
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778448642
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778447641
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/UnrealEd.GroupActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.GroupActor_UAID_DC215CBD2FAD46EB01_1778441640
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD46EB01_1778435639
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_1_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_-1_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_2_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_-1_3_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_1_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_2_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.InstancedFoliageActor_25600_0_3_0
+[2024.04.11-13.31.51:745][ 74]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelTwo.LevelTwo:PersistentLevel.WindWillHouseTrap_C_UAID_00933796AD3D08E201_1777386236
+[2024.04.11-13.31.51:770][ 75]LogAutomationController: Ignoring very large delta of 7.23 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
