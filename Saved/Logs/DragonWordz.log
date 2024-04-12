@@ -2836,3 +2836,79 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.04.12-13.09.05:263][646]LogFileHelpers: InternalPromptForCheckoutAndSave took 73 ms (total: 11.8 sec)
 [2024.04.12-13.09.05:272][646]AssetCheck: New page: Asset Save: InstancedFoliageActor_25600_0_0_0
 [2024.04.12-13.09.05:272][646]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2024.04.12-13.12.44:041][125]Cmd: TRANSACTION UNDO
+[2024.04.12-13.12.44:041][125]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.12.49:910][221]Cmd: TRANSACTION UNDO
+[2024.04.12-13.12.49:910][221]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.19:781][135]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.19:781][135]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.21:156][171]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.21:156][171]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.23:305][190]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.23:305][190]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.23:867][195]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.23:868][195]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.24:548][199]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.24:548][199]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.24:834][202]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.24:834][202]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.25:376][215]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.25:376][215]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.26:132][229]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.26:132][229]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.26:790][235]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.26:790][235]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.27:348][240]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.27:348][240]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.28:004][246]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.28:005][246]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.15.57:286][550]Cmd: TRANSACTION UNDO
+[2024.04.12-13.15.57:286][550]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.16.43:878][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.16.43:966][157]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/M7/V2J6UNYLQMOSZMMYRDVWPY
+[2024.04.12-13.16.43:967][157]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/V2J6UNYLQMOSZMMYRDVWPY18245160408F0B99CD773DBBBF2FCC06.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/4/M7/V2J6UNYLQMOSZMMYRDVWPY.uasset'
+[2024.04.12-13.16.43:983][157]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/UJ/P7OJZPT9IPESTHNL0MI0S4
+[2024.04.12-13.16.43:984][157]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/P7OJZPT9IPESTHNL0MI0S40312C739490051CAC3BF8A8D540E8AA5.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/B/UJ/P7OJZPT9IPESTHNL0MI0S4.uasset'
+[2024.04.12-13.16.43:988][157]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/3C/YHFBILGRAGFFV8KWRN9QXT
+[2024.04.12-13.16.43:989][157]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/YHFBILGRAGFFV8KWRN9QXT34F302834093FB5E89378D9BE8DBAE49.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/3C/YHFBILGRAGFFV8KWRN9QXT.uasset'
+[2024.04.12-13.16.43:992][157]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/9T/CDMTHRH8DZXTQAJOOCFY58
+[2024.04.12-13.16.43:994][157]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/CDMTHRH8DZXTQAJOOCFY58464B45944D6B705BCA2180815E68B056.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/9T/CDMTHRH8DZXTQAJOOCFY58.uasset'
+[2024.04.12-13.16.43:998][157]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/IB/I7A041KAS6OWFU53MMAEP0
+[2024.04.12-13.16.43:999][157]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/I7A041KAS6OWFU53MMAEP06F3A5D13451625458AA6C8BEB23EE093.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/IB/I7A041KAS6OWFU53MMAEP0.uasset'
+[2024.04.12-13.16.44:009][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 130 ms (total: 11.9 sec)
+[2024.04.12-13.16.44:019][157]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-13.16.44:019][157]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_0_-1_-1
+[2024.04.12-13.16.44:019][157]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_-1_-1_0
+[2024.04.12-13.16.44:019][157]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+[2024.04.12-13.16.44:019][157]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2024.04.12-13.16.44:019][157]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2024.04.12-13.17.50:231][ 17]Cmd: TRANSACTION UNDO
+[2024.04.12-13.17.50:231][ 17]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.18.10:670][296]Cmd: TRANSACTION UNDO
+[2024.04.12-13.18.10:670][296]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.18.24:268][489]Cmd: TRANSACTION UNDO
+[2024.04.12-13.18.24:268][489]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.18.27:953][552]Cmd: TRANSACTION UNDO
+[2024.04.12-13.18.27:953][552]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.19.49:757][681]Cmd: TRANSACTION UNDO
+[2024.04.12-13.19.49:757][681]LogEditorTransaction: Undo Foliage Editing
+[2024.04.12-13.21.05:647][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.12-13.21.06:752][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.12-13.21.06:799][780]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/M7/V2J6UNYLQMOSZMMYRDVWPY
+[2024.04.12-13.21.06:800][780]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/V2J6UNYLQMOSZMMYRDVWPYBB3DEDE5469EFA65CF35B480D9EDA4CD.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/4/M7/V2J6UNYLQMOSZMMYRDVWPY.uasset'
+[2024.04.12-13.21.06:813][780]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/UJ/P7OJZPT9IPESTHNL0MI0S4
+[2024.04.12-13.21.06:815][780]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/P7OJZPT9IPESTHNL0MI0S43D2630BC41CE14F0AF8E9E97207B41C1.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/B/UJ/P7OJZPT9IPESTHNL0MI0S4.uasset'
+[2024.04.12-13.21.06:818][780]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/3C/YHFBILGRAGFFV8KWRN9QXT
+[2024.04.12-13.21.06:819][780]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/YHFBILGRAGFFV8KWRN9QXTA694055E4FBC8977847CA0A714207F68.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/3C/YHFBILGRAGFFV8KWRN9QXT.uasset'
+[2024.04.12-13.21.06:871][780]LogSavePackage: Moving output files for package: /Game/Fantastic_Village_Pack/meshes/props/container/SM_PROP_bucket_03_FoliageType
+[2024.04.12-13.21.06:872][780]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/SM_PROP_bucket_03_FoliageTypeAED9446E41A95071E177ED92CEF3F661.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/Fantastic_Village_Pack/meshes/props/container/SM_PROP_bucket_03_FoliageType.uasset'
+[2024.04.12-13.21.06:897][780]LogSavePackage: Moving output files for package: /Game/Fantastic_Village_Pack/meshes/props/container/SM_PROP_box_04_FoliageType
+[2024.04.12-13.21.06:897][780]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/SM_PROP_box_04_FoliageTypeB317752744B6477AAFFD25B4373CEB51.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/Fantastic_Village_Pack/meshes/props/container/SM_PROP_box_04_FoliageType.uasset'
+[2024.04.12-13.21.06:909][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 12.1 sec)
+[2024.04.12-13.21.06:915][780]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.12-13.21.06:915][780]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+[2024.04.12-13.21.06:915][780]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_0_0_0
+[2024.04.12-13.21.06:915][780]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/Fantastic_Village_Pack/meshes/props/container/SM_PROP_box_04_FoliageType.SM_PROP_box_04_FoliageType
+[2024.04.12-13.21.06:915][780]LogContentValidation: Display: Validating /Script/Foliage.FoliageType_InstancedStaticMesh /Game/Fantastic_Village_Pack/meshes/props/container/SM_PROP_bucket_03_FoliageType.SM_PROP_bucket_03_FoliageType
+[2024.04.12-13.21.06:915][780]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2024.04.12-13.22.00:834][685]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
