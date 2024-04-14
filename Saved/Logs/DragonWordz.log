@@ -9097,3 +9097,13 @@ UnknownFunction []
 [2024.04.14-16.36.35:523][379]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/PlayerRespawnPos.PlayerRespawnPos_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.PlayerRespawnPos_C_UAID_DC215CBD2FAD42EC01_1990257466
 [2024.04.14-16.36.35:524][379]LogContentValidation: Display: Validating /Game/DragonWord/PickUp/BP_CoinPickUp.BP_CoinPickUp_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.BP_CoinPickUp_C_UAID_DC215CBD2FAD42EC01_1296753418
 [2024.04.14-16.36.37:790][414]LogViewport: Scene viewport resized to 1441x848, mode Windowed.
+[2024.04.14-16.38.12:475][279]LogEditorViewport: Clicking Background
+[2024.04.14-16.38.42:680][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.04.14-16.38.42:701][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/M7/V2J6UNYLQMOSZMMYRDVWPY_Auto7
+[2024.04.14-16.38.42:701][575]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/V2J6UNYLQMOSZMMYRDVWPY_Auto73DD0DB334EAEE46F306ADDBD189953B4.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/M7/V2J6UNYLQMOSZMMYRDVWPY_Auto7.uasset'
+[2024.04.14-16.38.42:716][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/UJ/P7OJZPT9IPESTHNL0MI0S4_Auto7
+[2024.04.14-16.38.42:716][575]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/P7OJZPT9IPESTHNL0MI0S4_Auto77C96142847F061C756D7AE9E9E00423D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/UJ/P7OJZPT9IPESTHNL0MI0S4_Auto7.uasset'
+[2024.04.14-16.38.42:720][575]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/BW/AMH59X9GXQ993MW7O1TAPI_Auto7
+[2024.04.14-16.38.42:720][575]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/AMH59X9GXQ993MW7O1TAPI_Auto75DE6876D434EE57C9EDCF3A79941B72F.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/BW/AMH59X9GXQ993MW7O1TAPI_Auto7.uasset'
+[2024.04.14-16.38.42:721][575]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelThree' took 0.076
+[2024.04.14-16.38.42:721][575]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.076
