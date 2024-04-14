@@ -4337,3 +4337,574 @@ UnknownFunction []
 [2024.04.14-02.09.23:669][711]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_0_0_-1
 [2024.04.14-02.09.23:669][711]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_1_0_0
 [2024.04.14-02.09.23:692][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.04.14-02.13.52:198][393]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.14-02.13.52:209][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/3C/YHFBILGRAGFFV8KWRN9QXT_Auto3
+[2024.04.14-02.13.52:209][393]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/YHFBILGRAGFFV8KWRN9QXT_Auto36B174A8D49452AA63FA8768D24785276.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/3C/YHFBILGRAGFFV8KWRN9QXT_Auto3.uasset'
+[2024.04.14-02.13.52:216][393]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/9T/CDMTHRH8DZXTQAJOOCFY58_Auto3
+[2024.04.14-02.13.52:216][393]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/CDMTHRH8DZXTQAJOOCFY58_Auto30D855AC548CF5EC2A5477FA6F6156565.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Autosaves/Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/9T/CDMTHRH8DZXTQAJOOCFY58_Auto3.uasset'
+[2024.04.14-02.13.52:218][393]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/DragonWord/MAP/LevelThree' took 0.039
+[2024.04.14-02.13.52:218][393]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2024.04.14-02.21.03:157][835]Cmd: TRANSACTION UNDO
+[2024.04.14-02.21.03:157][835]LogEditorTransaction: Undo Foliage Editing
+[2024.04.14-02.21.07:477][933]LogActorComponent: UnregisterComponent: (/Engine/Transient.SphereBrushComponent) Not registered. Aborting.
+[2024.04.14-02.21.07:488][933]LogViewport: Scene viewport resized to 1407x848, mode Windowed.
+[2024.04.14-02.21.16:163][997]Cmd: EDIT COPY
+[2024.04.14-02.21.32:925][204]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.21.46:719][383]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.21.58:412][468]Cmd: EDIT COPY
+[2024.04.14-02.22.03:583][593]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.22.18:569][815]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.23.22:344][538]Cmd: EDIT COPY
+[2024.04.14-02.23.27:868][678]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.26.36:766][864]Cmd: TRANSACTION UNDO
+[2024.04.14-02.26.36:767][864]LogEditorTransaction: Undo Move Elements
+[2024.04.14-02.26.57:275][164]LogDerivedDataCache: C:/Users/ngocm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:30.457 and deleted 0 files with total size 0 MiB. Scanned 16036 files in 15433 folders with total size 2038 MiB.
+[2024.04.14-02.28.09:674][998]Cmd: EDIT COPY
+[2024.04.14-02.28.15:558][143]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.28.44:052][469]Cmd: TRANSACTION UNDO
+[2024.04.14-02.28.44:052][469]LogEditorTransaction: Undo Rotate Elements
+[2024.04.14-02.30.20:322][605]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.04.14-02.30.21:074][605]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.30.21:154][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/M7/V2J6UNYLQMOSZMMYRDVWPY
+[2024.04.14-02.30.21:155][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/V2J6UNYLQMOSZMMYRDVWPYDE883E7F47B78FF8E4E147B0CC5FD391.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/4/M7/V2J6UNYLQMOSZMMYRDVWPY.uasset'
+[2024.04.14-02.30.21:162][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/3C/YHFBILGRAGFFV8KWRN9QXT
+[2024.04.14-02.30.21:163][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/YHFBILGRAGFFV8KWRN9QXT264429944B439C7431D3FBB4414A7FF3.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/3C/YHFBILGRAGFFV8KWRN9QXT.uasset'
+[2024.04.14-02.30.21:171][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/9T/CDMTHRH8DZXTQAJOOCFY58
+[2024.04.14-02.30.21:172][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/CDMTHRH8DZXTQAJOOCFY583EA5A2724EC14B36CB8576BB0DA17921.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/9T/CDMTHRH8DZXTQAJOOCFY58.uasset'
+[2024.04.14-02.30.21:176][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/E/OU/GU5X5TX3V0OPFEDDNC4USG
+[2024.04.14-02.30.21:176][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/GU5X5TX3V0OPFEDDNC4USGF90ED21A4163984FFDA0C6A4A7681C30.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/E/OU/GU5X5TX3V0OPFEDDNC4USG.uasset'
+[2024.04.14-02.30.21:179][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/NY/16CK8T518UOXMV4RMRWDFL
+[2024.04.14-02.30.21:179][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/16CK8T518UOXMV4RMRWDFLF0E8745944CDEDCF26DF80BFA2B9358B.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/NY/16CK8T518UOXMV4RMRWDFL.uasset'
+[2024.04.14-02.30.21:183][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/N0/L4ESMUKQ8CQ6H9SYTVNBSC
+[2024.04.14-02.30.21:183][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/L4ESMUKQ8CQ6H9SYTVNBSCB5FB896C43AA0CBFD08570BA3ECEC8BB.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/N0/L4ESMUKQ8CQ6H9SYTVNBSC.uasset'
+[2024.04.14-02.30.21:187][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/5/SK/OV8HTFKM4PG8Y1H030OJAE
+[2024.04.14-02.30.21:187][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/OV8HTFKM4PG8Y1H030OJAE3E0CFFD74DC6CB47C3FA9F92AD925140.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/5/SK/OV8HTFKM4PG8Y1H030OJAE.uasset'
+[2024.04.14-02.30.21:191][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/3/LM/VN8UYAFP7CI5574IS1LV0P
+[2024.04.14-02.30.21:191][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VN8UYAFP7CI5574IS1LV0P4BB656554E132DBEEF0EE28AD1D02D22.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/3/LM/VN8UYAFP7CI5574IS1LV0P.uasset'
+[2024.04.14-02.30.21:195][605]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/V5/ZXOZ1K2KZ9XH5P1PXO7875
+[2024.04.14-02.30.21:195][605]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/ZXOZ1K2KZ9XH5P1PXO787584B273674852A8B9D52E379F01B8A253.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/V5/ZXOZ1K2KZ9XH5P1PXO7875.uasset'
+[2024.04.14-02.30.22:565][605]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.49 sec (total: 42.2 sec)
+[2024.04.14-02.30.22:572][605]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-02.30.22:572][605]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WheelTrap.WheelTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WheelTrap_C_UAID_DC215CBD2FAD13EC01_1637988963
+[2024.04.14-02.30.22:572][605]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WheelTrap.WheelTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WheelTrap_C_UAID_DC215CBD2FAD13EC01_1350298962
+[2024.04.14-02.30.22:572][605]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WheelTrap.WheelTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WheelTrap_C_UAID_DC215CBD2FAD13EC01_1280999961
+[2024.04.14-02.30.22:572][605]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WheelTrap.WheelTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WheelTrap_C_UAID_DC215CBD2FAD13EC01_1266013960
+[2024.04.14-02.30.22:572][605]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WheelTrap.WheelTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WheelTrap_C_UAID_DC215CBD2FAD13EC01_1249149959
+[2024.04.14-02.30.22:572][605]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_-1_-1_0
+[2024.04.14-02.30.22:574][605]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_-1_0_0
+[2024.04.14-02.30.22:574][605]LogContentValidation: Display: Validating /Script/Foliage.InstancedFoliageActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.InstancedFoliageActor_25600_0_-1_0
+[2024.04.14-02.30.22:574][605]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WheelTrap.WheelTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WheelTrap_C_UAID_DC215CBD2FAD13EC01_1235355958
+[2024.04.14-02.33.27:042][  4]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.33.27:042][  4]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.33.27:045][  4]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_0
+[2024.04.14-02.33.27:047][  4]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_0
+[2024.04.14-02.33.35:483][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.33.35:483][205]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.33.35:489][205]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD13EC01_1957913964
+[2024.04.14-02.33.35:492][205]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD13EC01_1957913964
+[2024.04.14-02.35.23:077][436]LogStatusBar: Looking status bar with open content browser drawer...
+[2024.04.14-02.35.23:077][436]LogStatusBar: Using status bar: LevelEditor.StatusBar to dock content browser
+[2024.04.14-02.35.23:107][436]LogViewport: Scene viewport resized to 1407x423, mode Windowed.
+[2024.04.14-02.35.38:031][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.35.38:031][684]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.35.38:033][684]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_0
+[2024.04.14-02.35.38:035][684]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_0
+[2024.04.14-02.35.40:221][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.35.40:221][731]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.35.40:224][731]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD13EC01_2082651965
+[2024.04.14-02.35.40:227][731]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD13EC01_2082651965
+[2024.04.14-02.35.51:658][901]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.35.51:658][901]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.35.51:660][901]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_1
+[2024.04.14-02.35.51:661][901]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_1
+[2024.04.14-02.35.55:387][989]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.35.55:387][989]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.35.55:391][989]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD13EC01_2097817966
+[2024.04.14-02.35.55:393][989]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD13EC01_2097817966
+[2024.04.14-02.36.03:207][111]LogViewport: Scene viewport resized to 1420x423, mode Windowed.
+[2024.04.14-02.36.03:298][113]LogViewport: Scene viewport resized to 1484x423, mode Windowed.
+[2024.04.14-02.36.03:439][115]LogViewport: Scene viewport resized to 1527x423, mode Windowed.
+[2024.04.14-02.36.03:549][117]LogViewport: Scene viewport resized to 1552x423, mode Windowed.
+[2024.04.14-02.36.03:724][119]LogViewport: Scene viewport resized to 1573x423, mode Windowed.
+[2024.04.14-02.36.05:176][141]LogViewport: Scene viewport resized to 1573x447, mode Windowed.
+[2024.04.14-02.36.05:309][143]LogViewport: Scene viewport resized to 1573x482, mode Windowed.
+[2024.04.14-02.36.05:484][145]LogViewport: Scene viewport resized to 1573x556, mode Windowed.
+[2024.04.14-02.36.05:602][147]LogViewport: Scene viewport resized to 1573x589, mode Windowed.
+[2024.04.14-02.36.05:722][149]LogViewport: Scene viewport resized to 1573x616, mode Windowed.
+[2024.04.14-02.36.05:842][151]LogViewport: Scene viewport resized to 1573x647, mode Windowed.
+[2024.04.14-02.36.06:100][157]LogViewport: Scene viewport resized to 1573x660, mode Windowed.
+[2024.04.14-02.36.06:551][165]LogViewport: Scene viewport resized to 1573x645, mode Windowed.
+[2024.04.14-02.36.41:132][544]LogViewport: Scene viewport resized to 1573x569, mode Windowed.
+[2024.04.14-02.36.45:240][586]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.36.45:241][586]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.36.45:244][586]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_2
+[2024.04.14-02.36.45:247][586]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_2
+[2024.04.14-02.36.49:692][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.36.49:692][657]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.36.49:696][657]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1078381143
+[2024.04.14-02.36.49:700][657]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1078381143
+[2024.04.14-02.37.14:480][865]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.14:480][865]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.14:485][865]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_3
+[2024.04.14-02.37.14:487][865]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_3
+[2024.04.14-02.37.18:276][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.18:277][905]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.18:282][905]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1106965144
+[2024.04.14-02.37.18:284][905]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1106965144
+[2024.04.14-02.37.26:702][968]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.26:702][968]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.26:705][968]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_4
+[2024.04.14-02.37.26:706][968]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_4
+[2024.04.14-02.37.33:871][ 58]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.33:871][ 58]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.33:877][ 58]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1122560145
+[2024.04.14-02.37.33:880][ 58]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1122560145
+[2024.04.14-02.37.51:784][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.51:784][199]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.51:789][199]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_5
+[2024.04.14-02.37.51:791][199]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_5
+[2024.04.14-02.37.55:430][244]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.55:430][244]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.37.55:436][244]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1144119146
+[2024.04.14-02.37.55:438][244]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1144119146
+[2024.04.14-02.37.59:345][276]LogViewport: Scene viewport resized to 1573x848, mode Windowed.
+[2024.04.14-02.38.30:275][519]Cmd: EDIT COPY
+[2024.04.14-02.38.30:874][524]Cmd: EDIT PASTE
+[2024.04.14-02.38.34:032][552]Cmd: TRANSACTION UNDO
+[2024.04.14-02.38.34:032][552]LogEditorTransaction: Undo Paste
+[2024.04.14-02.38.39:218][707]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.39.53:542][429]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.39.53:627][429]LogWorldPartition: Actor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WheelTrap_C_UAID_DC215CBD2FAD14EC01_1179564147 is unreachable without properly detaching object /Game/__ExternalActors__/DragonWord/MAP/LevelThree/7/56/OTRC66MZS7VCI0ETTIJI3G.PackageMetaData in its package
+[2024.04.14-02.39.53:637][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.14-02.39.53:658][429]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2024.04.14-02.39.53:673][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2024.04.14-02.39.53:676][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/F/4W/C20M9R8FHAHXAZT0DSNQU2
+[2024.04.14-02.39.53:676][429]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/C20M9R8FHAHXAZT0DSNQU2D79FD65C4F6698C0669FD6B348476F90.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/F/4W/C20M9R8FHAHXAZT0DSNQU2.uasset'
+[2024.04.14-02.39.53:680][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/0/VL/ATB11LZXAQ3XAG5HGUWPEH
+[2024.04.14-02.39.53:680][429]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/ATB11LZXAQ3XAG5HGUWPEH056739C54CB32CC5109ED1B6E911A7A0.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/0/VL/ATB11LZXAQ3XAG5HGUWPEH.uasset'
+[2024.04.14-02.39.53:682][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/3/N7/M5F5YJVQASNYF207WOAAO2
+[2024.04.14-02.39.53:682][429]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/M5F5YJVQASNYF207WOAAO2B4B3DB92485058B6EE795A870988B3C1.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/3/N7/M5F5YJVQASNYF207WOAAO2.uasset'
+[2024.04.14-02.39.53:685][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/8/0S/NCWVJ81ASI3KHGPXFASCLQ
+[2024.04.14-02.39.53:685][429]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/NCWVJ81ASI3KHGPXFASCLQ3A90877142983B97634912937E0FD95C.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/8/0S/NCWVJ81ASI3KHGPXFASCLQ.uasset'
+[2024.04.14-02.39.53:687][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/SH/NYLB4MURVX6398R78AVR1N
+[2024.04.14-02.39.53:687][429]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/NYLB4MURVX6398R78AVR1N4168C9284623D7FAD0135EB2F3E0EC7E.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/SH/NYLB4MURVX6398R78AVR1N.uasset'
+[2024.04.14-02.39.53:691][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/DX/JYXQOY96Z6MB9CLNPU7F8X
+[2024.04.14-02.39.53:691][429]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/JYXQOY96Z6MB9CLNPU7F8X8F731DB1490EDF395454048C860C9D43.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/DX/JYXQOY96Z6MB9CLNPU7F8X.uasset'
+[2024.04.14-02.39.53:694][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/3/LB/16H7XX6TB62TMQ3VNYS5O1
+[2024.04.14-02.39.53:694][429]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/16H7XX6TB62TMQ3VNYS5O1E7E07F1947116ECA4630A9B698159AE5.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/3/LB/16H7XX6TB62TMQ3VNYS5O1.uasset'
+[2024.04.14-02.39.53:697][429]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/GC/NOEAYI8SIQ62YVHRZXGKDR
+[2024.04.14-02.39.53:697][429]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/NOEAYI8SIQ62YVHRZXGKDR38DF45944486670F204C089852274343.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/GC/NOEAYI8SIQ62YVHRZXGKDR.uasset'
+[2024.04.14-02.39.54:822][429]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.27 sec (total: 43.5 sec)
+[2024.04.14-02.39.54:832][429]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-02.39.54:832][429]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WheelTrap.WheelTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WheelTrap_C_UAID_DC215CBD2FAD14EC01_1187908148
+[2024.04.14-02.39.54:832][429]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1144119146
+[2024.04.14-02.39.54:832][429]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1122560145
+[2024.04.14-02.39.54:833][429]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1106965144
+[2024.04.14-02.39.54:833][429]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1078381143
+[2024.04.14-02.39.54:833][429]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD13EC01_2097817966
+[2024.04.14-02.39.54:833][429]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD13EC01_2082651965
+[2024.04.14-02.39.54:833][429]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD13EC01_1957913964
+[2024.04.14-02.39.54:851][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.14-02.40.13:006][629]LogViewport: Scene viewport resized to 1566x848, mode Windowed.
+[2024.04.14-02.40.13:101][631]LogViewport: Scene viewport resized to 1478x848, mode Windowed.
+[2024.04.14-02.40.13:236][633]LogViewport: Scene viewport resized to 1389x848, mode Windowed.
+[2024.04.14-02.40.13:333][635]LogViewport: Scene viewport resized to 1347x848, mode Windowed.
+[2024.04.14-02.40.13:428][637]LogViewport: Scene viewport resized to 1314x848, mode Windowed.
+[2024.04.14-02.40.13:523][639]LogViewport: Scene viewport resized to 1297x848, mode Windowed.
+[2024.04.14-02.40.13:870][653]LogViewport: Scene viewport resized to 1304x848, mode Windowed.
+[2024.04.14-02.40.13:914][655]LogViewport: Scene viewport resized to 1306x848, mode Windowed.
+[2024.04.14-02.40.14:038][657]LogViewport: Scene viewport resized to 1308x848, mode Windowed.
+[2024.04.14-02.40.21:557][767]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/DragonWord/MAP/LevelThree/1/': No such file or directory
+[2024.04.14-02.40.22:626][782]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/DragonWord/MAP/LevelThree/1/': No such file or directory
+[2024.04.14-02.41.04:138][677]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.04:138][677]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.04:141][677]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_6
+[2024.04.14-02.41.04:144][677]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_6
+[2024.04.14-02.41.06:859][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.06:859][727]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.06:864][727]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1335548149
+[2024.04.14-02.41.06:868][727]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1335548149
+[2024.04.14-02.41.32:532][ 73]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.32:532][ 73]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.32:534][ 73]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_7
+[2024.04.14-02.41.32:536][ 73]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_7
+[2024.04.14-02.41.37:134][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.37:134][117]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.37:139][117]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1365823150
+[2024.04.14-02.41.37:141][117]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1365823150
+[2024.04.14-02.41.55:908][323]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.55:908][323]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.55:910][323]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_8
+[2024.04.14-02.41.55:912][323]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_8
+[2024.04.14-02.41.58:113][366]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.58:113][366]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/Word.Word_C
+[2024.04.14-02.41.58:119][366]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1386802151
+[2024.04.14-02.41.58:122][366]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/Word.Word as actor: Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1386802151
+[2024.04.14-02.42.04:253][480]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.04.14-02.42.05:044][480]SourceControl: Error: warning: could not open directory 'Content/__ExternalObjects__/DragonWord/MAP/LevelThree/1/': No such file or directory
+[2024.04.14-02.42.05:131][480]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.42.05:202][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/TN/DOAR5IYYMPSZODJRCN8RKN
+[2024.04.14-02.42.05:203][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/DOAR5IYYMPSZODJRCN8RKN22C22D8348C6847700736CBE68BD40B5.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/TN/DOAR5IYYMPSZODJRCN8RKN.uasset'
+[2024.04.14-02.42.05:206][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/3/LB/16H7XX6TB62TMQ3VNYS5O1
+[2024.04.14-02.42.05:206][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/16H7XX6TB62TMQ3VNYS5O153E383404EBC5852724EA7894C502C9E.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/3/LB/16H7XX6TB62TMQ3VNYS5O1.uasset'
+[2024.04.14-02.42.05:209][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/0/VL/ATB11LZXAQ3XAG5HGUWPEH
+[2024.04.14-02.42.05:209][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/ATB11LZXAQ3XAG5HGUWPEHD6FE77EB4994AA262B36DCA3C344FC52.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/0/VL/ATB11LZXAQ3XAG5HGUWPEH.uasset'
+[2024.04.14-02.42.05:212][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/DX/JYXQOY96Z6MB9CLNPU7F8X
+[2024.04.14-02.42.05:213][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/JYXQOY96Z6MB9CLNPU7F8X4B260B27418FCA4C0998AE8BDD627E0B.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/DX/JYXQOY96Z6MB9CLNPU7F8X.uasset'
+[2024.04.14-02.42.05:215][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/3/N7/M5F5YJVQASNYF207WOAAO2
+[2024.04.14-02.42.05:216][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/M5F5YJVQASNYF207WOAAO2C1D6A3D44AB9ADA1E4FE279F52734A72.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/3/N7/M5F5YJVQASNYF207WOAAO2.uasset'
+[2024.04.14-02.42.05:218][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/SH/NYLB4MURVX6398R78AVR1N
+[2024.04.14-02.42.05:219][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/NYLB4MURVX6398R78AVR1NB975D3B94595F6D36348A799145C8850.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/SH/NYLB4MURVX6398R78AVR1N.uasset'
+[2024.04.14-02.42.05:222][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/8/0S/NCWVJ81ASI3KHGPXFASCLQ
+[2024.04.14-02.42.05:222][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/NCWVJ81ASI3KHGPXFASCLQD6B7695E47D782816A4549BAB00CDB9C.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/8/0S/NCWVJ81ASI3KHGPXFASCLQ.uasset'
+[2024.04.14-02.42.05:226][480]LogSavePackage: Moving output files for package: /Game/__ExternalObjects__/DragonWord/MAP/LevelThree/1/LP/P0AVCKCI3FL3RJQPVT1PUI
+[2024.04.14-02.42.05:226][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/P0AVCKCI3FL3RJQPVT1PUIB98DDF8F42410BC8ABC0AF918B5459BF.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalObjects__/DragonWord/MAP/LevelThree/1/LP/P0AVCKCI3FL3RJQPVT1PUI.uasset'
+[2024.04.14-02.42.05:230][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/68/GJ8F5TX59VHYH8WERU9Z8G
+[2024.04.14-02.42.05:230][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/GJ8F5TX59VHYH8WERU9Z8G5DE8200F4C03F8332FF62EB5CA887023.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/B/68/GJ8F5TX59VHYH8WERU9Z8G.uasset'
+[2024.04.14-02.42.05:233][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/HD/MUR1KXBD9P5CWS6M06013K
+[2024.04.14-02.42.05:233][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/MUR1KXBD9P5CWS6M06013KD8415B60461DA1CF0043389375D12E38.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/HD/MUR1KXBD9P5CWS6M06013K.uasset'
+[2024.04.14-02.42.05:236][480]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/0/K9/344YKYDT6QPYWM0ALJIAR0
+[2024.04.14-02.42.05:236][480]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/344YKYDT6QPYWM0ALJIAR0A4A456904C0C55697C7B76929CEBFF96.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/0/K9/344YKYDT6QPYWM0ALJIAR0.uasset'
+[2024.04.14-02.42.06:498][480]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.36 sec (total: 44.8 sec)
+[2024.04.14-02.42.06:508][480]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-02.42.06:508][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1144119146
+[2024.04.14-02.42.06:508][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1122560145
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1106965144
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1078381143
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD13EC01_2097817966
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD13EC01_2082651965
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Script/Engine.ActorFolder /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.ActorFolder_UID_9FBE57A4-4E40CC27-BC83EDBF-6451C531
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1386802151
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1365823150
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1335548149
+[2024.04.14-02.42.06:509][480]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.LandscapeStreamingProxy_56AE9SE8MHAPBNKD8U2XXFQ4P_126_2_1_0
+[2024.04.14-02.42.21:015][682]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.42.21:015][682]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.42.21:017][682]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_1
+[2024.04.14-02.42.21:020][682]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_1
+[2024.04.14-02.42.25:076][771]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.42.25:076][771]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.42.25:086][771]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1413765152
+[2024.04.14-02.42.25:088][771]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1413765152
+[2024.04.14-02.44.25:264][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.44.25:264][227]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.44.25:267][227]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_2
+[2024.04.14-02.44.25:270][227]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_2
+[2024.04.14-02.44.34:785][313]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.44.34:785][313]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.44.34:790][313]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1543474153
+[2024.04.14-02.44.34:794][313]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1543474153
+[2024.04.14-02.45.31:466][736]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.45.31:466][736]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.45.31:470][736]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_3
+[2024.04.14-02.45.31:473][736]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_3
+[2024.04.14-02.45.35:018][762]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.45.35:018][762]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.45.35:024][762]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1603707154
+[2024.04.14-02.45.35:028][762]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1603707154
+[2024.04.14-02.46.06:084][959]Cmd: TRANSACTION UNDO
+[2024.04.14-02.46.06:084][959]LogEditorTransaction: Undo Move Elements
+[2024.04.14-02.47.07:226][578]EditorErrors: New page: Actor attachment
+[2024.04.14-02.47.09:483][606]Cmd: TRANSACTION UNDO
+[2024.04.14-02.47.09:483][606]LogEditorTransaction: Undo Attach actors
+[2024.04.14-02.47.19:887][878]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.47.19:888][878]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.47.19:891][878]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_4
+[2024.04.14-02.47.19:894][878]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_4
+[2024.04.14-02.47.25:510][987]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.47.25:510][987]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.47.25:515][987]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1714199155
+[2024.04.14-02.47.25:519][987]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1714199155
+[2024.04.14-02.47.48:770][263]Cmd: TRANSACTION UNDO
+[2024.04.14-02.47.48:770][263]LogEditorTransaction: Undo Move Elements
+[2024.04.14-02.48.12:716][586]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.48.12:752][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/F/4W/C20M9R8FHAHXAZT0DSNQU2
+[2024.04.14-02.48.12:753][586]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/C20M9R8FHAHXAZT0DSNQU2573254D64A2D2DDCA9BF1E802832852E.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/F/4W/C20M9R8FHAHXAZT0DSNQU2.uasset'
+[2024.04.14-02.48.12:757][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/68/GJ8F5TX59VHYH8WERU9Z8G
+[2024.04.14-02.48.12:758][586]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/GJ8F5TX59VHYH8WERU9Z8GCA18E0354E5DBF0A743B20B9334957D6.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/B/68/GJ8F5TX59VHYH8WERU9Z8G.uasset'
+[2024.04.14-02.48.12:761][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/HD/MUR1KXBD9P5CWS6M06013K
+[2024.04.14-02.48.12:762][586]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/MUR1KXBD9P5CWS6M06013KC3505BB64F6F6EE2A47ED6875FC5D75A.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/HD/MUR1KXBD9P5CWS6M06013K.uasset'
+[2024.04.14-02.48.12:764][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/0/K9/344YKYDT6QPYWM0ALJIAR0
+[2024.04.14-02.48.12:765][586]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/344YKYDT6QPYWM0ALJIAR0885ED7744E3BB99777CDB6B670890DD4.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/0/K9/344YKYDT6QPYWM0ALJIAR0.uasset'
+[2024.04.14-02.48.12:771][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/LT/H9TG5ALSBIWKBDBYMDHFIZ
+[2024.04.14-02.48.12:771][586]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/H9TG5ALSBIWKBDBYMDHFIZ159DFD72413525641BFB42838034F9B9.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/LT/H9TG5ALSBIWKBDBYMDHFIZ.uasset'
+[2024.04.14-02.48.12:775][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/NQ/S7NC26RU0NQZKZTVBU2R0I
+[2024.04.14-02.48.12:775][586]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/S7NC26RU0NQZKZTVBU2R0I725FE06A4E1BD98F1F093688B7EF3315.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/NQ/S7NC26RU0NQZKZTVBU2R0I.uasset'
+[2024.04.14-02.48.12:780][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/S4/YG8Q72XYD5N9955LJ8JT41
+[2024.04.14-02.48.12:780][586]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/YG8Q72XYD5N9955LJ8JT4196EA4C834C196B30D213979C1190D3FC.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/S4/YG8Q72XYD5N9955LJ8JT41.uasset'
+[2024.04.14-02.48.12:784][586]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/3C/TIEL9VSXUDHQXHQMFRYXZ6
+[2024.04.14-02.48.12:784][586]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/TIEL9VSXUDHQXHQMFRYXZ649D2542542A97786B3BA1C90DE798DF4.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/3C/TIEL9VSXUDHQXHQMFRYXZ6.uasset'
+[2024.04.14-02.48.13:675][586]LogFileHelpers: InternalPromptForCheckoutAndSave took 959 ms (total: 45.8 sec)
+[2024.04.14-02.48.13:686][586]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-02.48.13:686][586]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1714199155
+[2024.04.14-02.48.13:686][586]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1603707154
+[2024.04.14-02.48.13:686][586]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1543474153
+[2024.04.14-02.48.13:686][586]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD13EC01_1957913964
+[2024.04.14-02.48.13:686][586]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1386802151
+[2024.04.14-02.48.13:686][586]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1413765152
+[2024.04.14-02.48.13:686][586]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1365823150
+[2024.04.14-02.48.13:686][586]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/Word.Word_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.Word_C_UAID_DC215CBD2FAD14EC01_1335548149
+[2024.04.14-02.48.16:506][699]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.14-02.48.55:391][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.48.55:391][271]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.48.55:398][271]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_5
+[2024.04.14-02.48.55:404][271]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_5
+[2024.04.14-02.49.00:016][333]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.49.00:016][333]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.49.00:023][333]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1808705156
+[2024.04.14-02.49.00:028][333]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1808705156
+[2024.04.14-02.49.44:146][796]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.49.44:146][796]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.49.44:148][796]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_6
+[2024.04.14-02.49.44:151][796]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_6
+[2024.04.14-02.49.48:570][880]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.49.48:570][880]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.49.48:577][880]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1857259157
+[2024.04.14-02.49.48:580][880]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1857259157
+[2024.04.14-02.50.25:623][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.50.25:623][240]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.50.25:626][240]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_7
+[2024.04.14-02.50.25:628][240]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_7
+[2024.04.14-02.50.29:493][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.50.29:493][286]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.50.29:499][286]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1898182158
+[2024.04.14-02.50.29:502][286]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1898182158
+[2024.04.14-02.50.58:581][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.50.58:581][550]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.50.58:586][550]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_8
+[2024.04.14-02.50.58:590][550]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_8
+[2024.04.14-02.51.02:333][593]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.51.02:333][593]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C
+[2024.04.14-02.51.02:341][593]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1931022159
+[2024.04.14-02.51.02:345][593]LogActorFactory: Actor Factory spawned Blueprint /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap as actor: WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1931022159
+[2024.04.14-02.51.57:507][134]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.04.14-02.51.57:977][134]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-02.51.58:059][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/3C/TIEL9VSXUDHQXHQMFRYXZ6
+[2024.04.14-02.51.58:060][134]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/TIEL9VSXUDHQXHQMFRYXZ60AF3CDD94BE4579FB2087D81C6D08223.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/3C/TIEL9VSXUDHQXHQMFRYXZ6.uasset'
+[2024.04.14-02.51.58:066][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/01/GQSBS6Z5WVCK8XBRTFYXJ9
+[2024.04.14-02.51.58:066][134]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/GQSBS6Z5WVCK8XBRTFYXJ944687CE8485B0EF94EBFBB97A34E6F22.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/B/01/GQSBS6Z5WVCK8XBRTFYXJ9.uasset'
+[2024.04.14-02.51.58:071][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/C/WI/HF6N133GN7RLKABRFS4R98
+[2024.04.14-02.51.58:071][134]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/HF6N133GN7RLKABRFS4R9879687172434F96634E7D1686700274A9.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/C/WI/HF6N133GN7RLKABRFS4R98.uasset'
+[2024.04.14-02.51.58:075][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/3Q/JY1CBXI6W1USQYVMEK53YW
+[2024.04.14-02.51.58:075][134]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/JY1CBXI6W1USQYVMEK53YWD12B8543415D94385CA8A9ADF803F88C.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/3Q/JY1CBXI6W1USQYVMEK53YW.uasset'
+[2024.04.14-02.51.58:079][134]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/95/HM5HN1NQCEL0VD15HE8HSR
+[2024.04.14-02.51.58:079][134]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/HM5HN1NQCEL0VD15HE8HSR9FF9B7164FE972F882DE0EA9EA28F586.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/95/HM5HN1NQCEL0VD15HE8HSR.uasset'
+[2024.04.14-02.51.59:335][134]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.35 sec (total: 47.2 sec)
+[2024.04.14-02.51.59:342][134]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-02.51.59:342][134]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1714199155
+[2024.04.14-02.51.59:342][134]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1931022159
+[2024.04.14-02.51.59:342][134]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1898182158
+[2024.04.14-02.51.59:342][134]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1857259157
+[2024.04.14-02.51.59:342][134]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1808705156
+[2024.04.14-02.53.25:531][967]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_board_01.SM_PROP_board_01
+[2024.04.14-02.53.25:531][967]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_board_01.SM_PROP_board_01
+[2024.04.14-02.53.25:531][967]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_board_01.SM_PROP_board_01 as actor: StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_9
+[2024.04.14-02.53.33:316][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_board_01.SM_PROP_board_01
+[2024.04.14-02.53.33:316][ 84]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_board_01.SM_PROP_board_01
+[2024.04.14-02.53.33:320][ 84]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_board_01.SM_PROP_board_01 as actor: StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD14EC01_2082005160
+[2024.04.14-02.53.39:209][133]Cmd: DELETE
+[2024.04.14-02.53.39:209][133]Cmd: ACTOR DELETE
+[2024.04.14-02.53.39:214][133]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.14-02.53.39:366][133]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.04.14-02.53.39:369][133]LogEditorActor: Deleted 1 Actors (0.160 secs)
+[2024.04.14-02.54.47:813][663]LogStaticMesh: Display: Building static mesh SM_PROP_railing_v01_01...
+[2024.04.14-02.54.47:819][663]LogStaticMesh: Built static mesh [0.01s] /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_railing_v01_01.SM_PROP_railing_v01_01
+[2024.04.14-02.54.48:169][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_railing_v01_01.SM_PROP_railing_v01_01
+[2024.04.14-02.54.48:169][671]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_railing_v01_01.SM_PROP_railing_v01_01
+[2024.04.14-02.54.48:171][671]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_railing_v01_01.SM_PROP_railing_v01_01 as actor: StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_10
+[2024.04.14-02.54.57:712][775]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_railing_v01_01.SM_PROP_railing_v01_01
+[2024.04.14-02.54.57:712][775]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_railing_v01_01.SM_PROP_railing_v01_01
+[2024.04.14-02.54.57:715][775]LogActorFactory: Actor Factory spawned StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_railing_v01_01.SM_PROP_railing_v01_01 as actor: StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1092659337
+[2024.04.14-02.56.07:583][737]Cmd: EDIT COPY
+[2024.04.14-02.56.08:499][743]Cmd: EDIT PASTE
+[2024.04.14-02.57.23:394][355]Cmd: EDIT COPY
+[2024.04.14-02.57.24:581][363]Cmd: EDIT PASTE
+[2024.04.14-02.57.43:459][528]Cmd: TRANSACTION UNDO
+[2024.04.14-02.57.43:459][528]LogEditorTransaction: Undo Move Elements
+[2024.04.14-02.57.46:954][587]Cmd: TRANSACTION UNDO
+[2024.04.14-02.57.46:954][587]LogEditorTransaction: Undo Move Elements
+[2024.04.14-02.57.52:304][721]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.57.59:745][797]Cmd: DELETE
+[2024.04.14-02.57.59:745][797]Cmd: ACTOR DELETE
+[2024.04.14-02.57.59:749][797]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.04.14-02.57.59:871][797]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.04.14-02.57.59:879][797]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2024.04.14-02.58.04:765][904]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-02.58.39:944][212]Cmd: EDIT COPY
+[2024.04.14-02.58.40:316][215]Cmd: EDIT PASTE
+[2024.04.14-02.58.46:416][269]Cmd: TRANSACTION UNDO
+[2024.04.14-02.58.46:416][269]LogEditorTransaction: Undo Move Elements
+[2024.04.14-02.59.32:962][627]Cmd: EDIT COPY
+[2024.04.14-02.59.36:823][716]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-03.01.53:206][937]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.04.14-03.01.54:380][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.01.54:440][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/01/GQSBS6Z5WVCK8XBRTFYXJ9
+[2024.04.14-03.01.54:440][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/GQSBS6Z5WVCK8XBRTFYXJ955C0288941BC682619206F85B3BDB27E.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/B/01/GQSBS6Z5WVCK8XBRTFYXJ9.uasset'
+[2024.04.14-03.01.54:443][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/C/WI/HF6N133GN7RLKABRFS4R98
+[2024.04.14-03.01.54:444][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/HF6N133GN7RLKABRFS4R98A1640C084DBB4C6DEA0DE9A0CA270773.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/C/WI/HF6N133GN7RLKABRFS4R98.uasset'
+[2024.04.14-03.01.54:448][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/3Q/JY1CBXI6W1USQYVMEK53YW
+[2024.04.14-03.01.54:450][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/JY1CBXI6W1USQYVMEK53YWB005F6CC469DA245BEE466ABC29830A6.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/3Q/JY1CBXI6W1USQYVMEK53YW.uasset'
+[2024.04.14-03.01.54:453][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/95/HM5HN1NQCEL0VD15HE8HSR
+[2024.04.14-03.01.54:453][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/HM5HN1NQCEL0VD15HE8HSR34AF3CAC457803584FD0C08FB0D347AE.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/95/HM5HN1NQCEL0VD15HE8HSR.uasset'
+[2024.04.14-03.01.54:457][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/3/EB/ATRB02R23EYM62PWXNF3O6
+[2024.04.14-03.01.54:457][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/ATRB02R23EYM62PWXNF3O67C2A25B848D58F1E379822AE1743431F.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/3/EB/ATRB02R23EYM62PWXNF3O6.uasset'
+[2024.04.14-03.01.54:459][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/8/PU/ZYDNYYO5GPV6560M6XROWT
+[2024.04.14-03.01.54:459][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/ZYDNYYO5GPV6560M6XROWT6FB50E7B479C4AF7C1F37AADF0AC4A91.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/8/PU/ZYDNYYO5GPV6560M6XROWT.uasset'
+[2024.04.14-03.01.54:462][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/8H/KLMRZE5FWDXK9BO6LA1Y2Q
+[2024.04.14-03.01.54:462][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/KLMRZE5FWDXK9BO6LA1Y2Q7C2A39BF45E3C31AB38CFF81F87E207A.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/8H/KLMRZE5FWDXK9BO6LA1Y2Q.uasset'
+[2024.04.14-03.01.54:465][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/0/CK/HVBGXV37LQIODLN37ASDGA
+[2024.04.14-03.01.54:465][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/HVBGXV37LQIODLN37ASDGA03E37811490DE2C2D4EBAB8E91A26482.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/0/CK/HVBGXV37LQIODLN37ASDGA.uasset'
+[2024.04.14-03.01.54:468][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/5/BU/OX5BCCHC6I6XCJOWP0ME1J
+[2024.04.14-03.01.54:468][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/OX5BCCHC6I6XCJOWP0ME1JF315673A4A1C90A858454EAB1B9F7483.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/5/BU/OX5BCCHC6I6XCJOWP0ME1J.uasset'
+[2024.04.14-03.01.54:470][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/98/K94HGZ5OEQHJ8Y0JV6J296
+[2024.04.14-03.01.54:470][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/K94HGZ5OEQHJ8Y0JV6J296879673724462C9EAF3ECE6870FD6C38B.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/B/98/K94HGZ5OEQHJ8Y0JV6J296.uasset'
+[2024.04.14-03.01.54:473][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/8/Y0/VGEH3Y00K1PK8FIEL42XH1
+[2024.04.14-03.01.54:473][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VGEH3Y00K1PK8FIEL42XH134BD8FA54C77C111F22F0D8F3B949F07.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/8/Y0/VGEH3Y00K1PK8FIEL42XH1.uasset'
+[2024.04.14-03.01.54:475][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/5/08/TLOHY4J0V89BCBV0X55RIR
+[2024.04.14-03.01.54:475][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/TLOHY4J0V89BCBV0X55RIRB948DA3A421EC1A70DCEA0AE1DFCD325.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/5/08/TLOHY4J0V89BCBV0X55RIR.uasset'
+[2024.04.14-03.01.54:479][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/GB/MUBE36HQORXHYTHMRMHTLL
+[2024.04.14-03.01.54:479][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/MUBE36HQORXHYTHMRMHTLL8125BDEB443F7729B2AD6EAE1677FD2D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/GB/MUBE36HQORXHYTHMRMHTLL.uasset'
+[2024.04.14-03.01.54:482][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/2/GX/VODLP944U43C4OPDBZV7P5
+[2024.04.14-03.01.54:482][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VODLP944U43C4OPDBZV7P5050C4993444E861EADE1728F74785D6A.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/2/GX/VODLP944U43C4OPDBZV7P5.uasset'
+[2024.04.14-03.01.54:486][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/C/TR/9TBGCRCW130DHUULCXNM17
+[2024.04.14-03.01.54:486][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/9TBGCRCW130DHUULCXNM171C4876C74F6A558EB8416B944E2C6661.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/C/TR/9TBGCRCW130DHUULCXNM17.uasset'
+[2024.04.14-03.01.54:489][937]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/Q9/8EIQKWI2GZYZGDT2DGWT5Q
+[2024.04.14-03.01.54:489][937]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/8EIQKWI2GZYZGDT2DGWT5Q3631D66B4B3CDB068E8F6897592C1C97.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/Q9/8EIQKWI2GZYZGDT2DGWT5Q.uasset'
+[2024.04.14-03.01.55:914][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.53 sec (total: 48.7 sec)
+[2024.04.14-03.01.55:928][937]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1931022159
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1898182158
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1857259157
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Game/DragonWord/BPObjects/WindWillHouseTrap.WindWillHouseTrap_C /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.WindWillHouseTrap_C_UAID_DC215CBD2FAD14EC01_1808705156
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1371775349
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1371774348
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1371773347
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1371770346
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1315268345
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1315267344
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1315266343
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1315264342
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1267252340
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1279713341
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1239529339
+[2024.04.14-03.01.55:928][937]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1163447338
+[2024.04.14-03.02.49:867][467]Cmd: EDIT COPY
+[2024.04.14-03.02.59:029][843]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-03.03.27:457][ 90]Cmd: TRANSACTION UNDO
+[2024.04.14-03.03.27:457][ 90]LogEditorTransaction: Undo Move Elements
+[2024.04.14-03.03.28:421][117]Cmd: TRANSACTION UNDO
+[2024.04.14-03.03.28:423][117]LogEditorTransaction: Undo Clicking on Elements
+[2024.04.14-03.04.51:223][848]Cmd: EDIT COPY
+[2024.04.14-03.04.52:002][854]Cmd: EDIT PASTE
+[2024.04.14-03.05.41:608][428]Cmd: EDIT PASTE TO=HERE
+[2024.04.14-03.06.27:575][ 24]Cmd: EDIT COPY
+[2024.04.14-03.06.28:610][ 39]Cmd: EDIT PASTE
+[2024.04.14-03.06.50:540][350]Cmd: EDIT COPY
+[2024.04.14-03.06.50:859][353]Cmd: EDIT PASTE
+[2024.04.14-03.06.55:431][421]Cmd: TRANSACTION UNDO
+[2024.04.14-03.06.55:431][421]LogEditorTransaction: Undo Move Elements
+[2024.04.14-03.07.04:890][586]Cmd: EDIT COPY
+[2024.04.14-03.07.05:318][591]Cmd: EDIT PASTE
+[2024.04.14-03.07.13:216][755]LogWorldPartition: Actor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1092659337 is unreachable without properly detaching object /Game/__ExternalActors__/DragonWord/MAP/LevelThree/0/52/393IZTNY3P05QO94LR42ZO.PackageMetaData in its package
+[2024.04.14-03.07.13:216][755]LogWorldPartition: Actor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD14EC01_2082005160 is unreachable without properly detaching object /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/I1/XTK1AYPW8NMFYYEW0Y42W6.PackageMetaData in its package
+[2024.04.14-03.07.13:219][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.04.14-03.07.15:481][755]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.14-03.07.15:557][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/HD/W7FR4RK74QM425TP3SYDBS
+[2024.04.14-03.07.15:557][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/W7FR4RK74QM425TP3SYDBSAD7C84FB440A3C8098C28F98ED59698F.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/HD/W7FR4RK74QM425TP3SYDBS.uasset'
+[2024.04.14-03.07.15:560][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/6/Q6/OEG78PP81HV3PCMXDHBZ7Q
+[2024.04.14-03.07.15:560][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/OEG78PP81HV3PCMXDHBZ7QEDC0EF3F4BF2CBF6278EC3B7F0BEAA23.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/6/Q6/OEG78PP81HV3PCMXDHBZ7Q.uasset'
+[2024.04.14-03.07.15:565][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/B/I8/WT450MRGSTDU4IH3YUJ6BU
+[2024.04.14-03.07.15:565][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/WT450MRGSTDU4IH3YUJ6BUF6AAF34F48BF87957C405FBA2135FFB9.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/B/I8/WT450MRGSTDU4IH3YUJ6BU.uasset'
+[2024.04.14-03.07.15:569][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/7/ZC/YTYIKRRKD9J48EA1HC1Q6O
+[2024.04.14-03.07.15:569][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/YTYIKRRKD9J48EA1HC1Q6OBB261F504286C20DEAD016853C9F642B.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/7/ZC/YTYIKRRKD9J48EA1HC1Q6O.uasset'
+[2024.04.14-03.07.15:575][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/ES/M2S4OFPBF4KNV589UEL87F
+[2024.04.14-03.07.15:575][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/M2S4OFPBF4KNV589UEL87F435A9BF4452DAD1BCFB878997A2F296D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/ES/M2S4OFPBF4KNV589UEL87F.uasset'
+[2024.04.14-03.07.15:581][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/ZK/215UK12X77Z4YTD5VL0LEW
+[2024.04.14-03.07.15:581][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/215UK12X77Z4YTD5VL0LEW8D25A1D745EB17A995D2FF838916B05F.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/ZK/215UK12X77Z4YTD5VL0LEW.uasset'
+[2024.04.14-03.07.15:588][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/S2/7FI2MLDHKY1KDJUJ51EHQU
+[2024.04.14-03.07.15:588][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/7FI2MLDHKY1KDJUJ51EHQUABE7BEB54FFD59DA5C1737A6A696A6F6.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/S2/7FI2MLDHKY1KDJUJ51EHQU.uasset'
+[2024.04.14-03.07.15:593][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/82/KA84F8NRXRQBBJYM4TADFK
+[2024.04.14-03.07.15:593][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/KA84F8NRXRQBBJYM4TADFKD7B163694129AFA534F079819C16DC84.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/82/KA84F8NRXRQBBJYM4TADFK.uasset'
+[2024.04.14-03.07.15:596][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/S7/12U6SF51WAFYYV1P6VVC25
+[2024.04.14-03.07.15:596][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/12U6SF51WAFYYV1P6VVC258018FA074264B1632C3603870A3D1FD6.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/S7/12U6SF51WAFYYV1P6VVC25.uasset'
+[2024.04.14-03.07.15:599][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/0/ES/L27J9QE6A1QCBGWJQQERDT
+[2024.04.14-03.07.15:599][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/L27J9QE6A1QCBGWJQQERDTABCDA0484CBF893B2060D589D02C56C8.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/0/ES/L27J9QE6A1QCBGWJQQERDT.uasset'
+[2024.04.14-03.07.15:601][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/5O/UJXIOJ2MNUSPGV3UOPJ1GS
+[2024.04.14-03.07.15:601][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/UJXIOJ2MNUSPGV3UOPJ1GS63C736354F851CEF582EECA1F0245E92.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/5O/UJXIOJ2MNUSPGV3UOPJ1GS.uasset'
+[2024.04.14-03.07.15:604][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/AM/Y1TFGATD018RJ6PW1WPSSI
+[2024.04.14-03.07.15:604][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Y1TFGATD018RJ6PW1WPSSI64CF01214B09575FFAD6E2A9FFFF79C7.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/AM/Y1TFGATD018RJ6PW1WPSSI.uasset'
+[2024.04.14-03.07.15:608][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/C/US/EQ415NTACUDT73TGK4D9DR
+[2024.04.14-03.07.15:608][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/EQ415NTACUDT73TGK4D9DRC358368D40579B54382F899B9FFDCF26.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/C/US/EQ415NTACUDT73TGK4D9DR.uasset'
+[2024.04.14-03.07.15:610][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/A/QF/G6N2BURBGNVW9AOCAKXPPF
+[2024.04.14-03.07.15:610][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/G6N2BURBGNVW9AOCAKXPPF4F452EEA4DBA82068BAD198E9BB34F75.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/QF/G6N2BURBGNVW9AOCAKXPPF.uasset'
+[2024.04.14-03.07.15:613][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/C6/VNDL4QYUMZJLE95EQHPU4C
+[2024.04.14-03.07.15:613][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VNDL4QYUMZJLE95EQHPU4C13BE8ACB4C88616C9E70888B60D50657.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/C6/VNDL4QYUMZJLE95EQHPU4C.uasset'
+[2024.04.14-03.07.15:616][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/DU/TAN9BZK4DB7HJI85PZDPKR
+[2024.04.14-03.07.15:616][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/TAN9BZK4DB7HJI85PZDPKRA3BF2D9C4570225DBE26328679C678CA.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/4/DU/TAN9BZK4DB7HJI85PZDPKR.uasset'
+[2024.04.14-03.07.15:619][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/5/UM/2EV5F760T14VURYWNGDY0S
+[2024.04.14-03.07.15:619][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/2EV5F760T14VURYWNGDY0S397AB1924C78EF1F9F93488A897E0316.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/5/UM/2EV5F760T14VURYWNGDY0S.uasset'
+[2024.04.14-03.07.15:623][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/7/1X/8XEUMEX2Z3LN6BCJMXKY3Z
+[2024.04.14-03.07.15:623][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/8XEUMEX2Z3LN6BCJMXKY3ZB71A544B47CCF110060C35BA968F5DDD.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/7/1X/8XEUMEX2Z3LN6BCJMXKY3Z.uasset'
+[2024.04.14-03.07.15:625][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/0J/Q3J1JPULQZD0K0PDRSIOE5
+[2024.04.14-03.07.15:625][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/Q3J1JPULQZD0K0PDRSIOE57FA95EA747267B92F3862B923F347DB5.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/0J/Q3J1JPULQZD0K0PDRSIOE5.uasset'
+[2024.04.14-03.07.15:628][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/7/FA/W5IK4NJTY7IS7B16MUBEAY
+[2024.04.14-03.07.15:628][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/W5IK4NJTY7IS7B16MUBEAYACF6D59E4141902C4392B587F5192F96.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/7/FA/W5IK4NJTY7IS7B16MUBEAY.uasset'
+[2024.04.14-03.07.15:630][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/0/LB/LC0PY89363BMWUUFZQ37R6
+[2024.04.14-03.07.15:630][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/LC0PY89363BMWUUFZQ37R65B68099A441270E4FCA856A843BE8A0E.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/0/LB/LC0PY89363BMWUUFZQ37R6.uasset'
+[2024.04.14-03.07.15:634][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/LS/09MPDIDYSN0O3EMS9AQH0P
+[2024.04.14-03.07.15:634][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/09MPDIDYSN0O3EMS9AQH0P1215DF414A2DA68806A3C18B6FA2D9F8.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/LS/09MPDIDYSN0O3EMS9AQH0P.uasset'
+[2024.04.14-03.07.15:637][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/7/R1/AHRD12A4LJCQHUX30BYO44
+[2024.04.14-03.07.15:637][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/AHRD12A4LJCQHUX30BYO44D8D7A66A46647394B67BEB8F3D8E653B.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/7/R1/AHRD12A4LJCQHUX30BYO44.uasset'
+[2024.04.14-03.07.15:640][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/9/E2/6AWO6QDT675TLYU1T5G20D
+[2024.04.14-03.07.15:640][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/6AWO6QDT675TLYU1T5G20DC67C17024719C49AFA0F33B10788CC68.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/9/E2/6AWO6QDT675TLYU1T5G20D.uasset'
+[2024.04.14-03.07.15:643][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/5/YB/VTJBVMSLF0UTFH4148U5B2
+[2024.04.14-03.07.15:643][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/VTJBVMSLF0UTFH4148U5B2FA5459D64BC986DACFB70594856C5EAA.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/5/YB/VTJBVMSLF0UTFH4148U5B2.uasset'
+[2024.04.14-03.07.15:645][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/7/7S/BGWGPEB7LDTXVVCP7S3OUO
+[2024.04.14-03.07.15:645][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/BGWGPEB7LDTXVVCP7S3OUO6A8382E24B1F694380359DA6BD3B1045.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/7/7S/BGWGPEB7LDTXVVCP7S3OUO.uasset'
+[2024.04.14-03.07.15:648][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/5/MB/GQEFDQMUZI8V9YFI30MGF9
+[2024.04.14-03.07.15:648][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/GQEFDQMUZI8V9YFI30MGF917E6A0B6415F40AB2AB32C84659731B7.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/5/MB/GQEFDQMUZI8V9YFI30MGF9.uasset'
+[2024.04.14-03.07.15:650][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/4/UF/T2UM9C0EFIWZCQ5X7K1BZH
+[2024.04.14-03.07.15:650][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/T2UM9C0EFIWZCQ5X7K1BZH9B2A17E44E039BAD33D3CFBA1F685DFF.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/4/UF/T2UM9C0EFIWZCQ5X7K1BZH.uasset'
+[2024.04.14-03.07.15:655][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/GP/EBQ77BUO8SRUDS7ROIWLWM
+[2024.04.14-03.07.15:655][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/EBQ77BUO8SRUDS7ROIWLWM791F36174A80883900A20B8F2B5BFF37.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/GP/EBQ77BUO8SRUDS7ROIWLWM.uasset'
+[2024.04.14-03.07.15:658][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/D/LU/F9J5MNIHSNYI7YWBG4ZC8L
+[2024.04.14-03.07.15:658][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/F9J5MNIHSNYI7YWBG4ZC8LB015C892484CB7A3D8D0F9926CB0F224.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/D/LU/F9J5MNIHSNYI7YWBG4ZC8L.uasset'
+[2024.04.14-03.07.15:660][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/KH/MPH6TPGX95KK29ZN35AHRL
+[2024.04.14-03.07.15:660][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/MPH6TPGX95KK29ZN35AHRL6F609AF74192327B3494A5AFA1D43B5D.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/KH/MPH6TPGX95KK29ZN35AHRL.uasset'
+[2024.04.14-03.07.15:663][755]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/DragonWord/MAP/LevelThree/1/67/UI6376HVL8F77LJDUFMFDR
+[2024.04.14-03.07.15:663][755]LogSavePackage: Moving '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Saved/UI6376HVL8F77LJDUFMFDR1666AED6413506F16A6729878FBCD25C.tmp' to '../../../../../../Users/ngocm/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/1/67/UI6376HVL8F77LJDUFMFDR.uasset'
+[2024.04.14-03.07.18:467][755]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.98 sec (total: 51.7 sec)
+[2024.04.14-03.07.18:485][755]AssetCheck: New page: Asset Save: multiple assets
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1820274381
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1820271380
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1820265379
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1805806378
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1783568377
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1783566376
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1783564375
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1783562374
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1783561373
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1783560372
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1783558371
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1736562370
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1736561369
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1736560368
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1736559367
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1736559366
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1736558365
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1736555364
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1686959363
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1686958362
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1686957361
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1686956360
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1686954359
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1686952358
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1686949357
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1573983356
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1573982355
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1573981354
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1573981353
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1573980352
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1573980351
+[2024.04.14-03.07.18:486][755]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/DragonWord/MAP/LevelThree.LevelThree:PersistentLevel.StaticMeshActor_UAID_DC215CBD2FAD15EC01_1573977350
+[2024.04.14-03.07.18:504][755]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
