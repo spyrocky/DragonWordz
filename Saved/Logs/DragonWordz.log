@@ -2833,3 +2833,683 @@ Make sure 'FinalGate' has been compiled for  Get PlayerWordCollected
 [2024.04.19-07.44.27:979][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2024.04.19-07.44.27:989][801]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
 [2024.04.19-07.44.27:990][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.45.45:162][392]LogAssetRegistry: Error: Package C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/HUD/HUD_GameOver.uasset has malformed tag
+[2024.04.19-07.45.45:166][392]LogAssetRegistry: Error: Package C:/Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelOne.umap has malformed tag
+[2024.04.19-07.45.45:495][393]LogAssetRegistry: Error: Package C:/Users/makem/Documents/GitHub/DragonWordz/Content/UI/Pause_WB.uasset has malformed tag
+[2024.04.19-07.45.45:830][394]LogAssetRegistry: Error: Package C:/Users/makem/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelThree/A/GI/VXF5ZBJ9356RJ2275AP8ZG.uasset has malformed tag
+[2024.04.19-07.45.46:155][395]LogAssetRegistry: Error: Package C:/Users/makem/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/2/WB/9M9L0H4KKMCPYH1L8555PY.uasset has malformed tag
+[2024.04.19-07.45.46:155][395]LogAssetRegistry: Error: Package C:/Users/makem/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/2/WB/9M9L0H4KKMCPYH1L8555PY.uasset has malformed tag
+[2024.04.19-07.45.46:155][395]LogAssetRegistry: Error: Package C:/Users/makem/Documents/GitHub/DragonWordz/Content/__ExternalActors__/DragonWord/MAP/LevelTwo/A/R8/KHGCRKB5VIEXKXRAQ9AHGX.uasset has malformed tag
+[2024.04.19-07.45.59:775][600]LogEditorExporters: Warning: There is nothing to export to a fbx file.
+[2024.04.19-07.46.06:957][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.04.19-07.46.06:961][  2]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DragonWord/MAP/L_MainMenu.L_MainMenu
+[2024.04.19-07.46.06:961][  2]Cmd: MAP LOAD FILE="../../../../../../Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/L_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.19-07.46.06:961][  2]LightingResults: New page: Lighting Build
+[2024.04.19-07.46.06:961][  2]LoadErrors: New page: Loading map: L_MainMenu.umap
+[2024.04.19-07.46.06:962][  2]LogWorld: UWorld::CleanupWorld for LevelThree, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.46.06:962][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.46.06:970][  2]LogContentBundle: [Container: LevelThree] Deleting container.
+[2024.04.19-07.46.06:970][  2]MapCheck: New page: Map Check
+[2024.04.19-07.46.06:970][  2]LightingResults: New page: Lighting Build
+[2024.04.19-07.46.06:990][  2]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-07.46.07:014][  2]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2024.04.19-07.46.07:021][  2]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.46.07:021][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.46.07:040][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.04.19-07.46.07:059][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2024.04.19-07.46.07:066][  2]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu'.
+[2024.04.19-07.46.07:066][  2]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-07.46.07:066][  2]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.19-07.46.07:086][  2]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.19-07.46.07:108][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.04.19-07.46.07:120][  2]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.19-07.46.07:120][  2]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.121ms to complete.
+[2024.04.19-07.46.07:120][  2]LogFileHelpers: Loading map 'L_MainMenu' took 0.159
+[2024.04.19-07.46.13:392][198]LoadErrors: Error: The summary for the package '/Game/DragonWord/Setting/GM_PlayMode' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.46.13:392][198]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/DragonWord/Setting/GM_PlayMode.GM_PlayMode_C'
+[2024.04.19-07.46.14:514][248]LogSlate: Took 0.000590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.04.19-07.46.15:582][309]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/DragonWord/MAP/L_MainMenu.L_MainMenu:PersistentLevel.L_MainMenu
+[2024.04.19-07.46.15:584][309]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-07.47.30:182][611]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.04.19-07.47.35:542][611]LogSlate: Window 'Save Content' being destroyed
+[2024.04.19-07.47.38:443][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.04.19-07.47.40:973][782]LogSlate: Window 'Save Content' being destroyed
+[2024.04.19-07.47.41:580][782]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.04.19-07.47.41:670][782]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.04.19-07.47.41:682][782]LogPackageLocalizationCache: Processed 43 localized package path(s) for 1 prioritized culture(s) in 0.009020 seconds
+[2024.04.19-07.47.41:688][782]LogSerialization: UsePackageTrailer: 'true'
+[2024.04.19-07.47.41:693][782]LogSavePackage: Moving output files for package: /Game/DragonWord/MAP/L_MainMenu
+[2024.04.19-07.47.41:693][782]LogSavePackage: Moving '../../../../../../Users/makem/Documents/GitHub/DragonWordz/Saved/L_MainMenu71FAD49A4D3B4BEC90A4C0960DBC4373.tmp' to '../../../../../../Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/L_MainMenu.umap'
+[2024.04.19-07.47.41:709][782]LogFileHelpers: Saving map 'L_MainMenu' took 0.067
+[2024.04.19-07.47.41:715][782]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms
+[2024.04.19-07.47.41:715][782]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DragonWord/MAP/L_MainMenu.L_MainMenu
+[2024.04.19-07.47.41:715][782]Cmd: MAP LOAD FILE="../../../../../../Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/L_MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.19-07.47.41:715][782]LightingResults: New page: Lighting Build
+[2024.04.19-07.47.41:715][782]LoadErrors: New page: Loading map: L_MainMenu.umap
+[2024.04.19-07.47.41:752][782]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.47.41:752][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.47.41:790][782]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.47.41:790][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.47.41:790][782]MapCheck: New page: Map Check
+[2024.04.19-07.47.41:790][782]LightingResults: New page: Lighting Build
+[2024.04.19-07.47.41:810][782]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-07.47.41:813][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.04.19-07.47.41:825][782]LogAudio: Display: Audio Device (ID: 1) registered with world 'L_MainMenu'.
+[2024.04.19-07.47.41:825][782]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-07.47.41:826][782]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.19-07.47.41:841][782]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.19-07.47.41:865][782]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.19-07.47.41:876][782]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.19-07.47.41:877][782]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.129ms to complete.
+[2024.04.19-07.47.41:877][782]LogFileHelpers: Loading map 'L_MainMenu' took 0.162
+[2024.04.19-07.47.41:895][782]AssetCheck: New page: Asset Save: L_MainMenu
+[2024.04.19-07.47.41:895][782]LogContentValidation: Display: Validating /Script/Engine.World /Game/DragonWord/MAP/L_MainMenu.L_MainMenu
+[2024.04.19-07.47.46:767][ 74]LoadErrors: Error: The summary for the package '/Game/DragonWord/Setting/GM_PlayMode' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.47.47:807][134]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/DragonWord/MAP/L_MainMenu.L_MainMenu:PersistentLevel.L_MainMenu
+[2024.04.19-07.47.47:808][134]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-07.47.52:202][368]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2024.04.19-07.47.52:210][368]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.04.19-07.47.52:211][368]PIE: New page: PIE session: L_MainMenu (20 Apr 2024, 3:47:52 am)
+[2024.04.19-07.47.52:211][368]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_L_MainMenu
+[2024.04.19-07.47.52:212][368]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001137s)
+[2024.04.19-07.47.52:212][368]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/L_MainMenu.L_MainMenu to /Game/DragonWord/MAP/UEDPIE_0_L_MainMenu.L_MainMenu (0.001169s)
+[2024.04.19-07.47.52:212][368]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-07.47.52:212][368]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.19-07.47.52:213][368]LogPlayLevel: PIE: World Init took: (0.000691s)
+[2024.04.19-07.47.52:241][368]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.19-07.47.52:242][368]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.04.19-07.47.52:242][368]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.04.19-07.47.52:242][368]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.04.19-07.47.52:242][368]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.04.19-07.47.52:242][368]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.04.19-07.47.52:242][368]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.04.19-07.47.52:242][368]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2024.04.19-07.47.52:242][368]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.04.19-07.47.52:242][368]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.04.19-07.47.52:242][368]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.04.19-07.47.52:242][368]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.04.19-07.47.52:242][368]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.04.19-07.47.52:245][368]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.04.19-07.47.52:275][368]LogAudioMixer: Display: Using Audio Hardware Device Headset Earphone (G435 Wireless Gaming Headset)
+[2024.04.19-07.47.52:276][368]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.04.19-07.47.52:276][368]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.04.19-07.47.52:276][368]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.04.19-07.47.52:276][368]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.04.19-07.47.52:276][368]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.04.19-07.47.52:279][368]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.04.19-07.47.52:279][368]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.04.19-07.47.52:279][368]LogInit: FAudioDevice initialized.
+[2024.04.19-07.47.52:279][368]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_MainMenu'.
+[2024.04.19-07.47.52:343][368]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-07.47.52:343][368]LogLoad: Game class is 'GM_MenuMode_C'
+[2024.04.19-07.47.52:343][368]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 60) at 2024.04.19-17.47.52
+[2024.04.19-07.47.52:343][368]LogWorld: Bringing up level for play took: 0.000407
+[2024.04.19-07.47.52:345][368]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2024.04.19-07.47.52:347][368]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2024.04.19-07.47.52:349][368]PIE: Server logged in
+[2024.04.19-07.47.52:350][368]PIE: Play in editor total start time 0.14 seconds.
+[2024.04.19-07.47.52:369][368]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MenuMusic_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.19-07.47.52:393][368]LogViewport: Scene viewport resized to 1278x980, mode Windowed.
+[2024.04.19-07.47.55:541][553]LogLongPackageNames: Warning: Can't Find URL: CreditLV: . Invalidating and reverting to Default URL.
+[2024.04.19-07.47.55:544][553]LogLongPackageNames: Warning: Can't Find URL: CreditLV: . Invalidating and reverting to Default URL.
+[2024.04.19-07.47.55:544][553]LogNet: Browse: /Game/DragonWord/MAP/L_MainMenu
+[2024.04.19-07.47.55:544][553]LogNet: Warning: Travel Failure: [InvalidURL]: Invalid URL: /Game/DragonWord/MAP/L_MainMenu
+[2024.04.19-07.47.55:545][553]LogNet: TravelFailure: InvalidURL, Reason for Failure: 'Invalid URL: /Game/DragonWord/MAP/L_MainMenu'
+[2024.04.19-07.47.55:545][553]LogNet: Warning: Travel Failure: [ClientTravelFailure]: Invalid URL: /Game/DragonWord/MAP/L_MainMenu
+[2024.04.19-07.47.55:545][553]LogNet: TravelFailure: ClientTravelFailure, Reason for Failure: 'Invalid URL: /Game/DragonWord/MAP/L_MainMenu'
+[2024.04.19-07.47.55:555][554]LogNet: Browse: /Game/DragonWord/MAP/L_MainMenu?closed
+[2024.04.19-07.47.55:555][554]LogNet: Connection failed; returning to Entry
+[2024.04.19-07.47.55:555][554]LogLoad: LoadMap: /Game/DragonWord/MAP/L_MainMenu?closed
+[2024.04.19-07.47.55:556][554]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_L_MainMenu
+[2024.04.19-07.47.55:556][554]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.47.55:556][554]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.47.55:612][554]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-07.47.55:613][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.04.19-07.47.55:615][554]LogPlayLevel: Creating play world package: /Game/DragonWord/MAP/UEDPIE_0_L_MainMenu
+[2024.04.19-07.47.55:616][554]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001223s)
+[2024.04.19-07.47.55:616][554]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/DragonWord/MAP/L_MainMenu.L_MainMenu to /Game/DragonWord/MAP/UEDPIE_0_L_MainMenu.L_MainMenu (0.001264s)
+[2024.04.19-07.47.55:616][554]LogAudio: Display: Audio Device (ID: 4) registered with world 'L_MainMenu'.
+[2024.04.19-07.47.55:616][554]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-07.47.55:617][554]LogAIModule: Creating AISystem for world L_MainMenu
+[2024.04.19-07.47.55:617][554]LogPlayLevel: PIE: World Init took: (0.000938s)
+[2024.04.19-07.47.55:617][554]LogLoad: Game class is 'GM_MenuMode_C'
+[2024.04.19-07.47.55:617][554]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_L_MainMenu.L_MainMenu up for play (max tick rate 60) at 2024.04.19-17.47.55
+[2024.04.19-07.47.55:617][554]LogWorld: Bringing up level for play took: 0.000285
+[2024.04.19-07.47.55:618][554]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.04.19-07.47.55:619][554]LogLoad: Took 0.063060 seconds to LoadMap(/Game/DragonWord/MAP/UEDPIE_0_L_MainMenu)
+[2024.04.19-07.47.55:645][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.04.19-07.47.55:647][554]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'MenuMusic_Cue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2024.04.19-07.47.59:384][778]LogNet: Browse: /Game/DragonWord/MAP/LevelOne
+[2024.04.19-07.47.59:384][778]LogLoad: LoadMap: /Game/DragonWord/MAP/LevelOne
+[2024.04.19-07.47.59:384][778]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_L_MainMenu
+[2024.04.19-07.47.59:384][778]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.47.59:384][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.47.59:433][778]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-07.47.59:434][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.04.19-07.47.59:599][778]LoadErrors: Error: The summary for the package '/Game/DragonWord/Player/BP_PlayerWizard' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.47.59:765][778]LoadErrors: Error: The summary for the package '/Game/DragonWord/Player/BP_WizardPlayer' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.47.59:766][778]LogLinker: Warning: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\AI\Controller\AI_Enemy_Minin.uasset: VerifyImport: Failed to load package for import object 'Package /Game/DragonWord/Player/BP_WizardPlayer'
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Update Enemies Left . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  Target  no longer exists on node  Update Enemies Left . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  Enemy Count  no longer exists on node  Update Enemies Left . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  Max Enemy Count  no longer exists on node  Update Enemies Left . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] Could not find a function named "UpdateEnemiesLeft" in 'BPChild_EnemySpawner'.
+Make sure 'BPChild_EnemySpawner' has been compiled for  Update Enemies Left
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  As BP Player Wizard  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Show Wave Counter . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:960][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  Target  no longer exists on node  Show Wave Counter . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:961][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  Wave Number  no longer exists on node  Show Wave Counter . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:961][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  Max Enemy Count  no longer exists on node  Show Wave Counter . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:961][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  Enemy Count  no longer exists on node  Show Wave Counter . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:961][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] Could not find a function named "ShowWaveCounter" in 'BPChild_EnemySpawner'.
+Make sure 'BPChild_EnemySpawner' has been compiled for  Show Wave Counter
+[2024.04.19-07.47.59:961][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2024.04.19-07.47.59:961][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] In use pin  As BP Player Wizard  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:961][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2024.04.19-07.47.59:962][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BPChild_EnemySpawner.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2024.04.19-07.47.59:977][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] In use pin  As BP Wizard Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:977][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Add Show Noti Pop Up . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:977][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] In use pin  Target  no longer exists on node  Add Show Noti Pop Up . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:977][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] In use pin  Noti Text  no longer exists on node  Add Show Noti Pop Up . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:977][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] Could not find a function named "AddShowNotiPopUp" in 'BP_EnemyBase'.
+Make sure 'BP_EnemyBase' has been compiled for  Add Show Noti Pop Up
+[2024.04.19-07.47.59:977][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] In use pin  As BP Wizard Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:977][778]LogBlueprint: Warning: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] Could not find a variable named "BP_PlayerStat" in 'BP_EnemyBase'.
+Make sure 'BP_EnemyBase' has been compiled for  Get BP_PlayerStat
+[2024.04.19-07.47.59:978][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] Can't connect pins  Object  and  Return Value : This cast has an invalid target type (was the class deleted without a redirect?).
+[2024.04.19-07.47.59:978][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] In use pin  As BP Player Wizard  no longer exists on node  Bad cast node . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:980][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] In use pin  As BP Wizard Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2024.04.19-07.47.59:980][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] Can't connect pins  Return Value  and  Object : This cast has an invalid target type (was the class deleted without a redirect?).
+[2024.04.19-07.48.00:010][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\BP_EnemyBase.uasset: [Compiler] The property associated with  BP Player Stat  could not be found in '/Game/DragonWord/Enemies/Enemy_Blueprint/BP_EnemyBase.BP_EnemyBase_C'
+[2024.04.19-07.48.00:137][778]LogBlueprint: Error: [AssetLog] C:\Users\makem\Documents\GitHub\DragonWordz\Content\DragonWord\Enemies\Enemy_Blueprint\Boss\BP_Enemy_Boss.uasset: [Compiler] In use pin  As BP Wizard Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2024.04.19-07.48.00:169][778]LoadErrors: Error: The summary for the package '/Game/DragonWord/BPObjects/PlayerRespawnPos' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.48.00:280][778]LoadErrors: Error: The summary for the package '/Game/DragonWord/PickUp/BP_CoinPickUp' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.48.00:280][778]LoadErrors: Error: The summary for the package '/Game/DragonWord/PickUp/BP_HealthPickUp' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.48.03:862][778]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/AncientTreasures/Textures/Utility/TX_Cube_01a_CUBE.TX_Cube_01a_CUBE', its maximum texture size has been explicitly set to 512.
+[2024.04.19-07.48.04:275][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Landscape/Foliage/Grass_2_snow.Grass_2_snow should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:278][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Landscape/Foliage/Grass_3_snow.Grass_3_snow should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:281][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Altar.Altar should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:283][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Anvil.Anvil should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:286][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Arch.Arch should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:287][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Arch_part.Arch_part should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:290][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Barrel.Barrel should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:292][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Box_1.Box_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:293][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Bush_1.Bush_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:293][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Bush_2.Bush_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:296][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Bush_2_snowy.Bush_2_snowy should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:299][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Cauldron.Cauldron should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:302][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Chest.Chest should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:305][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_1.Crystal_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:305][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_2.Crystal_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:305][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_3.Crystal_3 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:305][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_4.Crystal_4 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:305][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_5.Crystal_5 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:305][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Flower.Flower should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:306][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Flowers_1.Flowers_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:306][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Flowers_2.Flowers_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:309][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Forge.Forge should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:312][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Log.Log should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:316][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Log_1.Log_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:316][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Log_2.Log_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mine.Mine should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mushroom_1.Mushroom_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mushroom_2.Mushroom_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mushroom_3.Mushroom_3 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mushroom_4.Mushroom_4 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Pillar.Pillar should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Pillar_ruined_1.Pillar_ruined_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Pillar_ruined_2.Pillar_ruined_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:319][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Rock_2.Rock_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:322][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Stone_fence.Stone_fence should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:325][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/street_light.street_light should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:328][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_1.Tile_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:328][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_2.Tile_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:329][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_3.Tile_3 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:329][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_4.Tile_4 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:329][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_6.Tile_6 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:329][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_7.Tile_7 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:332][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_1.Tree_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:336][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_1_snowy.Tree_1_snowy should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:339][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_2.Tree_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:342][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_2_1.Tree_2_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:345][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_2_1_snowy.Tree_2_1_snowy should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:348][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_2_snowy.Tree_2_snowy should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:351][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_4.Tree_4 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:354][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_4_snowy.Tree_4_snowy should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:357][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Wall_1.Wall_1 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:357][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Wall_2.Wall_2 should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:360][778]LogStaticMesh: StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Well.Well should be resaved to improve async compilation performance.
+[2024.04.19-07.48.04:951][778]LogAudio: Display: Audio Device (ID: 4) registered with world 'LevelOne'.
+[2024.04.19-07.48.04:951][778]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-07.48.04:952][778]LogAIModule: Creating AISystem for world LevelOne
+[2024.04.19-07.48.04:953][778]LogPlayLevel: PIE: World Init took: (0.001475s)
+[2024.04.19-07.48.04:953][778]LogLoad: Game class is 'GM_GamePlayMode_C'
+[2024.04.19-07.48.05:017][778]LogTexture: Display: Waiting for textures to be ready 75/671 (/Game/DragonWord/MAP/UEDPIE_0_LevelOne) ...
+[2024.04.19-07.48.05:066][778]LogTexture: Display: Waiting for textures to be ready 115/671 (/Game/DragonWord/MAP/UEDPIE_0_LevelOne) ...
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/StarterContent/Shapes/Shape_Cube.Shape_Cube being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/DragonWord/MeshesForBP/WoodBridge.WoodBridge being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/DragonWord/MeshesForBP/PlatformWood.PlatformWood being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/container/SM_PROP_treasurechest.SM_PROP_treasurechest being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/container/SM_PROP_treasurechest_top.SM_PROP_treasurechest_top being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/STF/Pack03-LandscapePro/Environment/Foliage/Pines/pine01/SM_pine01.SM_pine01 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Chalice_02b.SM_Chalice_02b being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Chest_02d.SM_Chest_02d being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_ClayPot_01.SM_ClayPot_01 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_ClayPot_02.SM_ClayPot_02 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_ClayPot_03a.SM_ClayPot_03a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_ClayPot_03b.SM_ClayPot_03b being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_ClayPot_03c.SM_ClayPot_03c being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_ClayPot_03g.SM_ClayPot_03g being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_ClayPot_03i.SM_ClayPot_03i being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Coin_Pile_01a.SM_Coin_Pile_01a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Coin_Pile_01b.SM_Coin_Pile_01b being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Coin_Pile_01c.SM_Coin_Pile_01c being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Coin_Pile_01d.SM_Coin_Pile_01d being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Coin_Pile_01f.SM_Coin_Pile_01f being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Coin_Pile_01g.SM_Coin_Pile_01g being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Coin_Pile_01h.SM_Coin_Pile_01h being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Coin_Pile_01i.SM_Coin_Pile_01i being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_CoinMaterial_01b.SM_CoinMaterial_01b being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_CoinMaterial_01e.SM_CoinMaterial_01e being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Crown_01a.SM_Crown_01a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_GoldBar_01a.SM_GoldBar_01a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Helmet_01a.SM_Helmet_01a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Necklace_01a.SM_Necklace_01a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_OrnateChest_02d.SM_OrnateChest_02d being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Shield_01a.SM_Shield_01a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Statue_02a.SM_Statue_02a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_Urn_01a.SM_Urn_01a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/AncientTreasures/Meshes/SM_WaterPot_01a.SM_WaterPot_01a being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/DragonWord/MAP/_GENERATED/makem/Box_A844F992.Box_A844F992 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/DragonWord/MeshesForBP/CartEmpty.CartEmpty being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_add_v02_01.SM_BLD_body_add_v02_01 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/buildings/SM_BLD_body_v01_02.SM_BLD_body_v01_02 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/buildings/SM_BLD_chimney_v01_03.SM_BLD_chimney_v01_03 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/environment/SM_ENV_PLANT_grass_village.SM_ENV_PLANT_grass_village being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/environment/SM_ENV_PLANT_leaf_village.SM_ENV_PLANT_leaf_village being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/environment/SM_ENV_TREE_village_LOD0.SM_ENV_TREE_village_LOD0 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_bridge_wood_03.SM_PROP_bridge_wood_03 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v02_01.SM_PROP_fence_v02_01 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v02_03.SM_PROP_fence_v02_03 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v02_04.SM_PROP_fence_v02_04 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v03_01.SM_PROP_fence_v03_01 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v03_02.SM_PROP_fence_v03_02 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v03_04.SM_PROP_fence_v03_04 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_fence_v04_03.SM_PROP_fence_v04_03 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_market_v01_01.SM_PROP_market_v01_01 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_market_v02_01.SM_PROP_market_v02_01 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_railing_v01_02.SM_PROP_railing_v01_02 being ready before playing
+[2024.04.19-07.48.05:466][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_spikes_v02_01.SM_PROP_spikes_v02_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_gate_frame_01.SM_PROP_wall_wood_gate_frame_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_post_03.SM_PROP_wall_wood_post_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_wall_wood_stairs_02.SM_PROP_wall_wood_stairs_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/construction/SM_PROP_watchtower_wood_02_small.SM_PROP_watchtower_wood_02_small being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_board_01.SM_PROP_board_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_clothesline_02.SM_PROP_clothesline_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_firepit.SM_PROP_firepit being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_firepit_woodpile.SM_PROP_firepit_woodpile being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_horsestation.SM_PROP_horsestation being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_ladder.SM_PROP_ladder being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_mailbox.SM_PROP_mailbox being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_pitchfork.SM_PROP_pitchfork being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_signpost_03.SM_PROP_signpost_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/deco/SM_PROP_well.SM_PROP_well being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bottle_01.SM_PROP_bottle_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bottle_02.SM_PROP_bottle_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bottle_05.SM_PROP_bottle_05 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bottle_06.SM_PROP_bottle_06 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bottle_07.SM_PROP_bottle_07 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bottle_08.SM_PROP_bottle_08 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bowl_metal.SM_PROP_bowl_metal being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bowl_wood_01.SM_PROP_bowl_wood_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bowl_wood_02.SM_PROP_bowl_wood_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bowl_wood_03.SM_PROP_bowl_wood_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_bowl_wood_05.SM_PROP_bowl_wood_05 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_crate_02.SM_PROP_crate_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_crate_03.SM_PROP_crate_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_apple.SM_PROP_food_apple being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_banana_02.SM_PROP_food_banana_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_bellpepper.SM_PROP_food_bellpepper being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_bread_02.SM_PROP_food_bread_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_bread_03.SM_PROP_food_bread_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_bread_04.SM_PROP_food_bread_04 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_bread_06.SM_PROP_food_bread_06 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_broccoli.SM_PROP_food_broccoli being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_cauliflower.SM_PROP_food_cauliflower being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_cheese_01.SM_PROP_food_cheese_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_cheese_02.SM_PROP_food_cheese_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_cheese_04.SM_PROP_food_cheese_04 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_coconut_01.SM_PROP_food_coconut_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_corn.SM_PROP_food_corn being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_cucumber_01.SM_PROP_food_cucumber_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_cucumber_02.SM_PROP_food_cucumber_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_fish_01.SM_PROP_food_fish_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_fish_02.SM_PROP_food_fish_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_grapes_01.SM_PROP_food_grapes_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_mango_01.SM_PROP_food_mango_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_meat_02.SM_PROP_food_meat_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_meat_03.SM_PROP_food_meat_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_meat_04.SM_PROP_food_meat_04 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_potato_01.SM_PROP_food_potato_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_potato_02.SM_PROP_food_potato_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_potato_03.SM_PROP_food_potato_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_pumpkin_01.SM_PROP_food_pumpkin_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_pumpkin_02.SM_PROP_food_pumpkin_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_pumpkin_03.SM_PROP_food_pumpkin_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_pumpkin_04.SM_PROP_food_pumpkin_04 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_watermelon_01.SM_PROP_food_watermelon_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_watermelon_02.SM_PROP_food_watermelon_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_watermelon_03.SM_PROP_food_watermelon_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_food_watermelon_04.SM_PROP_food_watermelon_04 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_sack_02.SM_PROP_sack_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_sack_04.SM_PROP_sack_04 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_sack_05.SM_PROP_sack_05 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_sack_07.SM_PROP_sack_07 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_sack_08.SM_PROP_sack_08 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_sack_09.SM_PROP_sack_09 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_sack_10.SM_PROP_sack_10 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/food/SM_PROP_sack_11.SM_PROP_sack_11 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/furniture/SM_PROP_table_02.SM_PROP_table_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/light/SM_PROP_campfire.SM_PROP_campfire being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/light/SM_PROP_streetlamp_v02_04.SM_PROP_streetlamp_v02_04 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_hay_01.SM_PROP_hay_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_stone_01.SM_PROP_stone_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_stone_02.SM_PROP_stone_02 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_stone_04.SM_PROP_stone_04 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_treetrunk_01.SM_PROP_treetrunk_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/natural/SM_PROP_treetrunk_03.SM_PROP_treetrunk_03 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/vehicles/SM_PROP_cart_01.SM_PROP_cart_01 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/vehicles/SM_PROP_cart_wheel_big.SM_PROP_cart_wheel_big being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/vehicles/SM_PROP_cart_wheel_small.SM_PROP_cart_wheel_small being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/vehicles/SM_PROP_cart_wheel_small_L.SM_PROP_cart_wheel_small_L being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Fantastic_Village_Pack/meshes/props/vehicles/SM_PROP_cart_wheel_small_R.SM_PROP_cart_wheel_small_R being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Altar.Altar being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Anvil.Anvil being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Arch.Arch being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Arch_part.Arch_part being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Barrel.Barrel being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Box_1.Box_1 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Bush_1.Bush_1 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Bush_2.Bush_2 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Bush_2_snowy.Bush_2_snowy being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Cauldron.Cauldron being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Chest.Chest being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_1.Crystal_1 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_2.Crystal_2 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_3.Crystal_3 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_4.Crystal_4 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Crystal_5.Crystal_5 being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Flower.Flower being ready before playing
+[2024.04.19-07.48.05:467][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Flowers_1.Flowers_1 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Flowers_2.Flowers_2 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Forge.Forge being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Log.Log being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Log_1.Log_1 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Log_2.Log_2 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mine.Mine being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mushroom_1.Mushroom_1 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mushroom_2.Mushroom_2 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mushroom_3.Mushroom_3 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Mushroom_4.Mushroom_4 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Pillar.Pillar being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Pillar_ruined_1.Pillar_ruined_1 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Pillar_ruined_2.Pillar_ruined_2 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Rock_2.Rock_2 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Stone_fence.Stone_fence being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/street_light.street_light being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_1.Tile_1 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_2.Tile_2 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_3.Tile_3 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_4.Tile_4 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_6.Tile_6 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tile_7.Tile_7 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_1.Tree_1 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_1_snowy.Tree_1_snowy being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_2.Tree_2 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_2_1.Tree_2_1 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_2_1_snowy.Tree_2_1_snowy being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_2_snowy.Tree_2_snowy being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_4.Tree_4 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Tree_4_snowy.Tree_4_snowy being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Wall_1.Wall_1 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Wall_2.Wall_2 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/HandPaintedEnvironment/Assets/Models/Well.Well being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/Particles_Wind_Control_System/Meshes/SM_Leaf.SM_Leaf being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_01_02.openWorld_flower_01_02 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/PN_OpenWorldFoliage/Meshes/openWorld_flower_03_01.openWorld_flower_03_01 being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Arugula_A.SM_Arugula_A being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Arugula_B.SM_Arugula_B being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Arugula_C.SM_Arugula_C being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Arugula_Starter.SM_Arugula_Starter being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Beet_A.SM_Beet_A being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Beet_B.SM_Beet_B being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Beet_C.SM_Beet_C being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Beet_Starter.SM_Beet_Starter being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Berries_A_Harvested.SM_Berries_A_Harvested being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Berries_B.SM_Berries_B being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Berries_B_Harvested.SM_Berries_B_Harvested being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Berries_C.SM_Berries_C being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Berries_C_Harvested.SM_Berries_C_Harvested being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Berries_Starter.SM_Berries_Starter being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Corn_A.SM_Corn_A being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Corn_A_Harvested.SM_Corn_A_Harvested being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Corn_B_Harvested.SM_Corn_B_Harvested being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Corn_C.SM_Corn_C being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Corn_Starter.SM_Corn_Starter being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Cucumber_A.SM_Cucumber_A being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Cucumber_A_Harvested.SM_Cucumber_A_Harvested being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Cucumber_B.SM_Cucumber_B being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Cucumber_B_Harvested.SM_Cucumber_B_Harvested being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Cucumber_C_Harvested.SM_Cucumber_C_Harvested being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_Fence.SM_Fence being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_GreenHouse_Barrel.SM_GreenHouse_Barrel being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_GreenHouse_Barrel_Cap.SM_GreenHouse_Barrel_Cap being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_GreenHouse_Basket.SM_GreenHouse_Basket being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_GreenHouse_Rope.SM_GreenHouse_Rope being ready before playing
+[2024.04.19-07.48.05:468][778]LogStaticMesh: Display: Waiting on static mesh StaticMesh /Game/UltimateFarming/Meshes/SM_GreenHouse_Watercan.SM_GreenHouse_Watercan being ready before playing
+[2024.04.19-07.48.05:734][778]LogWorld: Bringing World /Game/DragonWord/MAP/UEDPIE_0_LevelOne.LevelOne up for play (max tick rate 60) at 2024.04.19-17.48.05
+[2024.04.19-07.48.05:756][778]LogWorld: Bringing up level for play took: 0.202325
+[2024.04.19-07.48.05:784][778]LogBlueprintUserMessages: [BP_OriginalPoint_C_1] First spawn
+[2024.04.19-07.48.05:795][778]LogBlueprintUserMessages: [BP_OriginalPoint_C_2] First spawn
+[2024.04.19-07.48.05:810][778]LogBlueprintUserMessages: [BP_OriginalPoint_C_3] First spawn
+[2024.04.19-07.48.05:815][778]LogLoad: Took 6.431824 seconds to LoadMap(/Game/DragonWord/MAP/LevelOne)
+[2024.04.19-07.48.05:907][778]LogShaderCompilers: Display: ================================================
+[2024.04.19-07.48.05:948][778]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.04.19-07.48.05:948][778]LogShaderCompilers: Display: Total job queries 480, among them cache hits 173 (36.04%)
+[2024.04.19-07.48.05:948][778]LogShaderCompilers: Display: Tracking 307 distinct input hashes that result in 225 distinct outputs (73.29%)
+[2024.04.19-07.48.05:949][778]LogShaderCompilers: Display: RAM used: 2.60 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.32%
+[2024.04.19-07.48.05:949][778]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.04.19-07.48.05:949][778]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.04.19-07.48.05:949][778]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2024.04.19-07.48.05:949][778]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.04.19-07.48.05:949][778]LogShaderCompilers: Display: ================================================
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_1
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_11
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_13
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_15
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_17
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_19
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_21
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_23
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_25
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_27
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_3
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_5
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_7
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_9
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_1
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_11
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_13
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_15
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_17
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_19
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_3
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_5
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_7
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_9
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_1
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_11
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_13
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_15
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_17
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_19
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_21
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_23
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_25
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_27
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_3
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_5
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_7
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_9
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_1
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_11
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_13
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_15
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_17
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_19
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_3
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_5
+[2024.04.19-07.48.05:972][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_7
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_9
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': PlayerRespawnPos_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.PlayerRespawnPos_C_1
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_1
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_11
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_13
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_15
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_17
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_19
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_21
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_23
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_25
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_27
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_3
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_5
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_7
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_9
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_1
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_11
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_13
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_15
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_17
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_19
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_3
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_5
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_7
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_9
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': PlayerRespawnPos_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.PlayerRespawnPos_C_1
+[2024.04.19-07.48.05:973][779]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh': PlayerRespawnPos_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.PlayerRespawnPos_C_1
+[2024.04.19-07.48.18:737][327]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.04.19-07.48.18:737][327]LogWorld: BeginTearingDown for /Game/DragonWord/MAP/UEDPIE_0_LevelOne
+[2024.04.19-07.48.18:737][327]LogSlate: Window 'DragonWordZ Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2024.04.19-07.48.18:748][327]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.48.18:754][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.48.18:756][327]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.04.19-07.48.18:763][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.48.18:804][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.19-07.48.18:806][327]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.04.19-07.48.18:834][327]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.04.19-07.48.18:867][328]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2024.04.19-07.48.36:476][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.04.19-07.48.36:884][379]LogAssetEditorSubsystem: Opening Asset editor for World /Game/DragonWord/MAP/LevelOne.LevelOne
+[2024.04.19-07.48.36:884][379]Cmd: MAP LOAD FILE="../../../../../../Users/makem/Documents/GitHub/DragonWordz/Content/DragonWord/MAP/LevelOne.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.04.19-07.48.36:884][379]LightingResults: New page: Lighting Build
+[2024.04.19-07.48.36:884][379]LoadErrors: New page: Loading map: LevelOne.umap
+[2024.04.19-07.48.36:931][379]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.48.36:931][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.48.36:993][379]LogWorld: UWorld::CleanupWorld for L_MainMenu, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.48.36:993][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.48.36:993][379]MapCheck: New page: Map Check
+[2024.04.19-07.48.36:993][379]LightingResults: New page: Lighting Build
+[2024.04.19-07.48.37:027][379]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.04.19-07.48.37:063][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.04.19-07.48.37:582][379]LogWorld: UWorld::CleanupWorld for LevelOne, bSessionEnded=true, bCleanupResources=true
+[2024.04.19-07.48.37:584][379]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.04.19-07.48.37:715][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.04.19-07.48.37:749][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.04.19-07.48.37:757][379]LoadErrors: Error: The summary for the package '/Game/DragonWord/BPObjects/PlayerRespawnPos' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.48.37:758][379]LoadErrors: Error: The summary for the package '/Game/DragonWord/PickUp/BP_CoinPickUp' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.48.37:758][379]LoadErrors: Error: The summary for the package '/Game/DragonWord/PickUp/BP_HealthPickUp' is invalid. Check that the file is of the expected type and not corrupted.
+[2024.04.19-07.48.38:054][379]LogAudio: Display: Audio Device (ID: 1) registered with world 'LevelOne'.
+[2024.04.19-07.48.38:054][379]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.04.19-07.48.38:054][379]LogAIModule: Creating AISystem for world LevelOne
+[2024.04.19-07.48.38:413][379]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.04.19-07.48.38:540][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.04.19-07.48.38:552][379]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.04.19-07.48.38:553][379]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.225ms to complete.
+[2024.04.19-07.48.38:553][379]LogFileHelpers: Loading map 'LevelOne' took 1.668
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_1
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_11
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_13
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_15
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_17
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_19
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_21
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_23
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_25
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_27
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_3
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_5
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_7
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_9
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_1
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_11
+[2024.04.19-07.48.38:567][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_13
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_15
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_17
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_19
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_3
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_5
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_7
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Box': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_9
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_1
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_11
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_13
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_15
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_17
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_19
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_21
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_23
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_25
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_27
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_3
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_5
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_7
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_9
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_1
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_11
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_13
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_15
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_17
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_19
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_3
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_5
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_7
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_9
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'Niagara': PlayerRespawnPos_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.PlayerRespawnPos_C_1
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_1
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_11
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_13
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_15
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_17
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_19
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_21
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_23
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_25
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_27
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_3
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_5
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_7
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_CoinPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_CoinPickUp_C_9
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_1
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_11
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_13
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_15
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_17
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_19
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_3
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_5
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_7
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': BP_HealthPickUp_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.BP_HealthPickUp_C_9
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'DefaultSceneRoot': PlayerRespawnPos_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.PlayerRespawnPos_C_1
+[2024.04.19-07.48.38:568][379]LoadErrors: Warning: CreateExport: Failed to load Outer for resource 'StaticMesh': PlayerRespawnPos_C /Game/DragonWord/MAP/LevelOne.LevelOne:PersistentLevel.PlayerRespawnPos_C_1
