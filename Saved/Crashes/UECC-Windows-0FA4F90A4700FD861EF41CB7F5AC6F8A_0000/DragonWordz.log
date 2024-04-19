@@ -2820,16 +2820,3 @@ Make sure 'FinalGate' has been compiled for  Get PlayerWordCollected
 [2024.04.19-07.44.20:493][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.04.19-07.44.20:503][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2024.04.19-07.44.20:515][620]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
-[2024.04.19-07.44.22:497][620]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2024.04.19-07.44.24:210][620]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049740s
-[2024.04.19-07.44.24:232][620]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
-[2024.04.19-07.44.24:232][620]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
-[2024.04.19-07.44.24:400][620]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.002110s (0.237160s overbudget)
-[2024.04.19-07.44.24:792][620]LogSlate: Took 0.005014 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2024.04.19-07.44.24:807][620]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
-[2024.04.19-07.44.24:813][620]LogSlate: Took 0.005375 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
-[2024.04.19-07.44.27:959][801]LogSlate: Window 'Instruction_WB' being destroyed
-[2024.04.19-07.44.27:979][801]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
-[2024.04.19-07.44.27:979][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2024.04.19-07.44.27:989][801]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
-[2024.04.19-07.44.27:990][801]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
