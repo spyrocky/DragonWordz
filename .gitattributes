@@ -11,3 +11,8 @@
 *.sln text eol=crlf
 *.map filter=lfs diff=lfs merge=lfs -text
 >>>>>>> AddingObjectsLevelOne
+*.so filter=lfs diff=lfs merge=lfs -text
+*.ushaderbytecode filter=lfs diff=lfs merge=lfs -text
+*.obb filter=lfs diff=lfs merge=lfs -text
+*.ucas filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
